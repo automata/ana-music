@@ -1,0 +1,106 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in G-sharp Minor, Op. 67, No. 12
+!!!OPS: Op. 67
+!!!ONM: No. 12
+!!!OMD: Allegro moderato
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*k[f#c#g#d#a#]
+*g#:	*g#:	*g#:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM100	*MM100	*MM100
+=1-	=1-	=1-
+*^	*^	*
+4.G#/	[4GG#\	16r	16r	p
+.	.	(16d#/LL	[8.d#\	.
+.	.	16g#/ 16b/	.	.
+.	.	16f##/ 16a#/JJ	.	.
+.	16GG#\LK]	4g#/ 4b/)	4d#\]	.
+.	8GG#\	.	.	.
+(8G#/	.	.	.	.
+.	[16GG#\Jk	.	.	.
+4.F##/)	4GG#\_	16r	16r	.
+.	.	16e/LL	([8.e\	.
+.	.	16a#/ 16cc#/	.	.
+.	.	16g##/ 16b#/JJ	.	.
+.	16GG#\LK]	4a#/ 4cc#/)	4e\]	.
+.	8GG#\	.	.	.
+(8F##/	.	.	.	.
+.	[16GG#\Jk	.	.	.
+=2	=2	=2	=2	=2
+4.F#/)	4GG#\_	16r	16r	.
+.	.	16g#/LL	[8.g#\	.
+.	.	16b#/ 16dd#/	.	.
+.	.	16a##/ 16cc##/JJ	.	.
+.	16GG#\LK]	4b#/ &(4dd#/&)	4g#\]	.
+.	8GG#\	.	.	.
+(8F#/	.	.	.	.
+.	[16GG#\Jk	.	.	.
+4.E/)	4GG#\_	16r	16r	<
+.	.	16g#/LL	[8.g#\	.
+.	.	16cc#/ 16ee/	.	.
+.	.	16b#/ 16dd#/JJ	.	.
+.	16GG#\LK]	4cc#/ &(4ee/&)	4g#\]	.
+.	8GG#\	.	.	.
+(8E/	.	.	.	.
+.	[16GG#\Jk	.	.	.
+=3	=3	=3	=3	=3
+4.C#/)	4GG#\_	16r	16r	.
+.	.	16a#/LL	[8.a#\	.
+.	.	16ee/ 16ggn/	.	.
+.	.	16dd#/ 16ff#/JJ	.	.
+.	16GG#\LK]	4ee/ &(4gg/&)	4a#\]	.
+.	8GG#\	.	.	.
+(8C#/	.	.	.	.
+.	16GG#\Jk	.	.	.
+16r	4BB\)	16r	16r	f
+(16D#/LL	.	16g#/LL	4g#\	.
+16G#/	.	16gg#/	.	.
+16B/JJ)	.	16dd#/JJ	.	.
+16r	4C#\	16ee/LL	.	.
+(16E/LL	.	16an/	8an\L	.
+16An/	.	16cc#/	.	.
+16c#/JJ)	.	16g#/JJ	16g#\Jk	.
+=4	=4	=4	=4	=4
+16r	4D#\	16f##/LL	4f##\	.
+16F##/LL	.	16a#/	.	.
+16A#/	.	16cc#/	.	.
+&(16c#/JJ&)	.	16f##/JJ	.	.
+16r	4C##\	16b/LL	4r	.
+16E#/LL	.	16g#/	.	.
+16G#/	.	16b/	.	.
+&(16B/JJ&)	.	&(16e#/JJ&)	.	.
+[4D#/	4D#\	4r	16r	p
+.	.	.	(16B/LL	.
+.	.	.	16d#/	.
+.	.	.	16g#/JJ	.
+8.D#/L]	4DD#\	16A#/LL	[4A#\	.
+.	.	16c#/	.	.
+.	.	16g#/	.	.
+16En/Jk	.	[16f##/JJ	.	.
+=5	=5	=5	=5	=5
+4E/	2GG#\	2f##/]	2A#\] 2c#\	.
+(16D#/LL	.	.	.	.
+16C#/	.	.	.	.
+16BB/	.	.	.	.
+16AA#/JJ	.	.	.	.
+2GG#;/)	16r	2g#;/)	2B;\	.
+.	(16BBB\LL	.	.	.
+.	16CC#\	.	.	.
+.	16DD#\JJ	.	.	.
+.	4GGG#;\)	.	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/13/
+!!!EEV: 2008/06/13/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

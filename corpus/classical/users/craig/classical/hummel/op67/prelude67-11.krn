@@ -1,0 +1,180 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in B Major, Op. 67, No. 11
+!!!OPS: Op. 67
+!!!ONM: No. 11
+!!!OMD: Allegro
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*k[f#c#g#d#a#]
+*B:	*B:	*B:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM116	*MM116	*MM116
+=1-	=1-	=1-
+*^	*^	*
+16BB/LL	2BB\	4r	4r	p
+[[16F#/	.	.	.	.
+[[16D#/	.	.	.	.
+[16B/JJ	.	.	.	.
+4D#/] 4F#/] 4B/]	.	4d#\	(16d#/LL	.
+.	.	.	16b/	.
+.	.	.	16f#/	.
+.	.	.	16dd#/JJ)	.
+16BB/LL	2BB\	4r	4r	.
+[[16G#/	.	.	.	.
+[[16D#/	.	.	.	.
+[16B/JJ	.	.	.	.
+4D#/] 4G#/] 4B/]	.	(4g#\	16g#/LL	.
+.	.	.	16dd#/	.
+.	.	.	16b/	.
+.	.	.	16gg#/JJ)	.
+=2	=2	=2	=2	=2
+16BB/LL	2BB\	4r	4r	.
+[[16G#/	.	.	.	.
+[[16C#/	.	.	.	.
+[16B/JJ	.	.	.	.
+4C#/] 4G#/] 4B/]	.	16e#/LL	(4e#\	.
+.	.	16cc#/	.	.
+.	.	16g#/	.	.
+.	.	16ee#/JJ)	.	.
+16AA#/LL	[2AA#\	4r	4r	.
+[[16F#/	.	.	.	.
+[[16C#/	.	.	.	.
+[16A#/JJ	.	.	.	.
+4C#/] 4F#/] 4A#/_	.	(16f#/LL	4f#\	.
+.	.	16cc#/	.	.
+.	.	16a#/	.	.
+.	.	16ff#/JJ)	.	.
+*v	*v	*	*	*
+=3	=3	=3	=3
+4AA#\] 4A#\]	(16d#/LL	4d#\	.
+.	16b/	.	.
+.	16f#/	.	.
+.	16dd#/JJ	.	.
+2GG#/ 2G#/	16en/LL	4en\	<
+.	16b/	.	.
+.	16g#/	.	.
+.	(16een/JJ)	.	.
+.	16c##/LL	4c##\	.
+.	16a#/	.	.
+.	16e#/	.	.
+.	16cc##/JJ	.	.
+[4FF#/ [4F#/	16d#/LL	4d#\	.
+.	16a#/	.	.
+.	16f#/	.	.
+.	16dd#/JJ)	.	.
+=4	=4	=4	=4
+4FF#/] 4F#/]	(16B#/LL	4B#\	.
+.	16g#/	.	.
+.	16d#/	.	.
+.	16b#/JJ	.	.
+2EE/ 2E/	16c#/LL	4c#\	.
+.	16g#/	.	.
+.	16e/	.	.
+.	(16cc#/JJ)	.	.
+.	16A#/LL	4A#\	.
+.	16f#/	.	.
+.	16c#/	.	.
+.	16a#/JJ	.	.
+4DD#/ 4D#/	16Bn/LL	4Bn\	.
+.	16f#/	.	.
+.	16d#/	.	.
+.	16bn/JJ)	.	.
+*	*v	*v	*
+*	*clefF4	*clefF4
+=5	=5	=5
+*	*^	*
+(4CC#/ 4C#/	16E\LL	(4E/	f
+.	16c#\	.	.
+.	16G#\	.	.
+.	16c#\JJ	.	.
+4BBB/ 4BB/	16E\LL	4E/	.
+.	16c#\	.	.
+.	16Gn\	.	.
+.	16e\JJ	.	.
+4AAA#/ 4AA#/	16E\LL	4E/	.
+.	16c#\	.	.
+.	16F#\	.	.
+.	16e\JJ	.	.
+4BBB/) 4BB/	16D#\LL	4D#/	.
+.	16B\	.	.
+.	16F#\	.	.
+.	16d#\JJ)	.	.
+*	*v	*v	*
+*	*clefG2	*clefG2
+=6	=6	=6
+*MM100	*MM100	*MM100
+!M20/8	!M20/8	!M20/8
+[[4EE^/	2r	p
+[8GG#/	.	.
+8GG#/] 8C#/	.	.
+2EE\] 2E\	28r	.
+.	28G#/LL	.
+.	28c#/	.
+.	28e/	.
+.	28g#/	.
+.	28cc#/	.
+.	28ee/JJ	.
+.	8.gg#\L	.
+.	aa#q	.
+.	gg#q	.
+.	ff##q	.
+.	gg#q	.
+.	16aa#\Jk	.
+4r	32bb\LLL	.
+.	32ff##\	.
+.	32gg#\	.
+.	32dd#\	.
+.	32ee\	.
+.	32b#\	.
+.	32cc#\	.
+.	32gg#\JJJ	.
+4.F#\ 4.B\ 4.d#\ 4.f#\	8ff#\	f
+.	4fff#\	.
+56eee	4.r	.
+56ddd#	.	.
+56ccc#	.	.
+56bbn	.	.
+56aa#	.	.
+56gg#	.	.
+56ff#	.	.
+56ee	.	.
+56dd#	.	.
+56cc#	.	.
+56b	.	.
+56a#	.	.
+56g#	.	.
+56f#	.	.
+56e	.	.
+56d#	.	.
+56c#	.	.
+56B	.	.
+56A#	.	.
+56G#	.	.
+56F#	.	.
+*MM72	*MM72	*MM72
+8FFF#\ 8FF#\	4r	.
+8r	.	.
+4r	4E/ 4F#/ 4A#/	p
+=7	=7	=7
+2DD#\ 2BB\	2E/ 2F#/ 2A#/ 2c#/	.
+BBBq	.	.
+DD#q	.	.
+FF#q	.	.
+BBq	.	.
+D#q	.	.
+F#q	.	.
+Bq	.	.
+2BBB\	2r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/13/
+!!!EEV: 2008/06/13/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

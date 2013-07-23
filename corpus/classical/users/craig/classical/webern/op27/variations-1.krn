@@ -1,0 +1,276 @@
+!!!COM: Webern, Anton von
+!!!CDT: 1883///-1945///
+!!!CNT: Austrian
+!!!OTL: Piano Variations
+!!!OPS: Op. 27
+!!!ODT: 1934///-1935///
+!!!PDT: 1936///
+!!!OMV: No. 1
+!!!AIN: piano
+**kern	**kern
+*M3/16	*M3/16
+*MM40	*MM40
+16r	16r
+16r	8fn 8een
+16Bn	.
+=2	=2
+16F# 16g	16r
+16r	16cc#
+16r	16r
+=3	=3
+8AAn 8B-	16r
+.	16e-
+16r	16cn 16ddn
+=4	=4
+16g#	8.r
+16r	.
+[16g#	.
+=5	=5
+16g#]	16cn 16ddn
+16r	16e-
+16AAn 16B-	16r
+=6	=6
+16r	16r
+16r	8cc#
+16F# 16gn	.
+=7	=7
+16Bn	16r
+16r	16fn 16een
+16r	16r
+=8	=8
+16r	16f# 16ffn
+16En 16e-	16aan
+16Cn	16r
+=9	=9
+16r	16dn 16g# 16cc#
+16A- 16dn 16gn	16b-
+16cc#	16r
+=10	=10
+16Cn	16r
+16En 16e-	16aan
+16r	16f# 16ffn
+=11	=11
+16r	16r
+16r	16bbn
+16Fn 16en	16f# 16ggn
+=12	=12
+16c#	16r
+16r	16An 16b-
+16e-	16g#
+=13	=13
+16cn 16ddn	16r
+16r	16cn 16ddn
+16g#	16e-
+=14	=14
+16B- 16an	16r
+16r	16cc#
+16GGn 16F#	16fn 16een
+=15	=15
+16Bn	16r
+16r	16r
+16r	16f# 16ffn
+=16	=16
+16En 16e-	16aan
+16Cn	16dn 16g# 16cc#
+16A- 16dn 16gn	16b-
+=17	=17
+16cc#	8.r
+16r	.
+16Cn	.
+=18	=18
+16En 16e-	16aan
+16r	16f# 16ffn
+16r	16r
+=19	=19
+8r	32r
+.	32BBn
+.	32En
+.	32B-
+*clefG2	*
+32g#	32r
+32An	32ddn
+=20	=20
+32r	32cn 32e-
+16f# 16ffn	32r
+.	32r
+32r	16C#
+[16ggn	.
+.	32r
+=21	=21
+32gg]	32r
+32r	16.ggn
+32r	.
+*clefF4	*
+16C#	.
+.	32r
+32r	[32f# [32ffn
+=22	=22
+32r	32f#] 32ffn]
+32cn 32e-	32r
+32ddn	32An
+32r	32G#
+32B-	16r
+32En	.
+=23	=23
+32BBn	32r
+32r	32dd- 32ffn
+32Gn	32cn
+32f# 32an	32r
+16r	16En 16en
+=24	=24
+16gg#	32r
+.	16.DDn
+16r	.
+[16DDn	16r
+=25	=25
+32DDn]	16gg#
+32r	.
+16En 16e-	16r
+32r	32f# 32an
+32cn	32Gn
+=26	=26
+32dd- 32ffn	32r
+32r	32BBn
+8r	32En
+.	32B-
+.	32En
+.	32An
+=27	=27
+32r	32e-
+32cc#	32r
+32dn	32ggn
+32r	32fn 32a-
+16BBn 16B-	16r
+=28	=28
+32r	16FFn
+16.cccn	.
+.	16r
+16r	[16cccn
+=29	=29
+16FF#	32ccc]
+.	32r
+16r	16BBn 16B-
+32fn 32a-	16r
+32ggn	.
+=30	=30
+32r	32cc#
+32e-	16.r
+32An	.
+32En	.
+32r	32gg- 32bb-
+32cn	32fn
+=31	=31
+32bn 32ddn	32r
+32r	32An
+32C#	32GG#
+32Gn	32r
+32C#	32GG#
+32r	32An
+=32	=32
+32bn 32ddn	32r
+32cn	32fn
+32r	32gg- 32bb-
+32En	32r
+32e-	32An
+32ff#	32dn 32g#
+=33	=33
+32gn	32cn
+32r	32bb- 32ddd-
+32e-	32r
+32En	32BBn
+32r	32Fn
+32En	32BBn
+=34	=34
+32e-	32r
+32r	32bb- 32ddd-
+32gn	32ccn
+32ff#	32dn 32g#
+16r	32An
+.	32r
+=35	=35
+16r	32r
+.	32bn 32ee-
+32Fn	32B-
+32en 32gn	32r
+32r	32dn
+32F#	32C#
+=36	=36
+32cn	32r
+32F#	32C#
+32r	32dn
+32en 32gn	32r
+32Fn	32B-
+32r	32bn 32ee-
+=37	=37
+16r	16r
+8An 8g#	16r
+.	16ee-
+=38	=38
+16r	16B- 16bn
+16Fn	16r
+16r	16r
+=39	=39
+16r	8dn 8cc#
+16gn	.
+16en 16ff#	16r
+=40	=40
+8.r	16ccn
+.	16r
+.	[16ccn
+=41	=41
+16en 16ff#	16cc]
+16gn	16r
+16r	16dn 16cc#
+=42	=42
+16r	16r
+8Fn	16r
+.	16B- 16bn
+=43	=43
+16r	16ee-
+16An 16g#	16r
+16r	16r
+=44	=44
+16B- 16An	16r
+16cc#	16G# 16gn
+16r	16en
+=45	=45
+16f# 16ccn 16ffn	16r
+16ddn	16cn 16f# 16b
+16r	16ffn
+=46	=46
+16en	16r
+16G# 16gn	16cc#
+16r	16B- 16an
+=47	=47
+16r	16r
+16G#	16r
+16C# 16cn	16e- 16ddn
+=48	=48
+16r	16f#
+16BB- 16An	16r
+16Bn	16en
+=49	=49
+16r	16Fn 16gn
+16Fn 16gn	16r
+16en	16Bn
+=50	=50
+16r	16AAn 16B-
+16F#	16r
+16E- 16dn	16ccn 16ccc#
+=51	=51
+16r	16gg#
+16r	16r
+16ddn 16ccc#	16r
+=52	=52
+16bb-	16een 16eee-
+16f# 16bn 16ffn	16ggn
+16aan	16cn 16fn 16bn
+=53	=53
+16r	16f#
+16r	16r
+16ggn	16r
+=54	=54
+16een 16bb- 16eee-	16r
+16r	8ddn 8gg# 8ccc#
+16r	.
+*-	*-

@@ -1,0 +1,241 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in B Major, Op. 67, No. 21
+!!!OPS: Op. 67
+!!!ONM: No. 21
+!!!OMD: Allegro con brio
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM132	*MM132	*MM132
+=1-	=1-	=1-
+[1BBB-^ [1BB-^	16r	f
+.	16ddd\LL	.
+.	16fff\	.
+.	16ddd\JJ	.
+.	16aa\LL	.
+.	16bb-\	.
+.	16ddd\	.
+.	16bb-\JJ	.
+.	16een\LL	.
+.	16ff\	.
+.	16bb-\	.
+.	16ff\JJ	.
+.	16cc#\LL	.
+.	16dd\	.
+.	16ff\	.
+.	16dd\JJ	.
+=2	=2	=2
+1BBB-] 1BB-]	16a\LL	.
+.	16b-\	.
+.	16dd\	.
+.	16b-\JJ	.
+.	16en/LL	.
+.	16f/	.
+.	16b-/	.
+.	16f/JJ	.
+.	16c#/LL	.
+.	16d/	.
+.	16f/	.
+.	16d/JJ	.
+.	16A/LL	.
+.	16B-/	.
+.	16d/	.
+.	16B-/JJ	.
+=3	=3	=3
+[1DD [1BB- [1D	16A-/LL	.
+.	16B-/	.
+.	16A-/	.
+.	16G/JJ	.
+.	16A-/LL	<
+.	16F/	.
+.	16G/	.
+.	16A-/JJ	.
+.	16B-/LL	.
+.	16c/	.
+.	16d/	.
+.	16e-/JJ	.
+.	16f/LL	.
+.	16g/	.
+.	16a-/	.
+.	16b-/JJ	.
+=4	=4	=4
+1DD] 1BB-] 1D]	16cc\LL	.
+.	16dd\	.
+.	16ee-\	.
+.	16ff\JJ	.
+.	16gg\LL	>
+.	16aa-\	.
+.	16ff\	.
+.	16dd\JJ	.
+.	16b-/LL	.
+.	16a-/	.
+.	16f/	.
+.	16d/JJ	.
+.	16B-/LL	.
+.	16An/	.
+.	16B-/	.
+.	16A-/JJ	.
+=5	=5	=5
+8E-''/L	16G/LL	.
+.	16c/	.
+8EE-''/	16B-/	.
+.	16c/JJ	.
+8FF/	16An/LL	.
+.	16c/	.
+8F''/J	16d/	.
+.	16c/JJ	<
+8G''/L	16B-/LL	.
+.	16e-/	.
+8GG''/	16d/	.
+.	16e-/JJ	.
+8AA''/	16c/LL	.
+.	16e-/	.
+8A''/J	16f/	.
+.	16e-/JJ	.
+=6	=6	=6
+8B-''\L	16d/LL	.
+.	16g/	.
+8BB-''\	16f/	.
+.	16g/JJ	.
+8C''\	16e-/LL	.
+.	16g/	.
+8c''\J	16a/	.
+.	16g/JJ	.
+8d''\L	16f/LL	.
+.	16b-/	.
+8D''\	16a/	.
+.	16b-/JJ	.
+8E-''\	16g/LL	.
+.	16b-/	.
+8e-''\J	16cc/	.
+.	16b-/JJ	.
+=7	=7	=7
+*^	*^	*
+[1B- [1d-	2.En\ 2.G\	4r	16an\LL	.
+.	.	.	16b-\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+.	.	4gg/	(16gg\LL	.
+.	.	.	16g\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+.	.	4gg/	16gg\LL	.
+.	.	.	16g\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+.	4F\	4ff/	16ff\LL	.
+.	.	.	16f\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+=8	=8	=8	=8	=8
+2B-/] 2d-/]	&(2G\&)	4een/	16een\LL)	.
+.	.	.	16en\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+.	.	4ee/	16ee\LL	.
+.	.	.	16e\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+2B-/ 2d-/	2G-\	4ee/	16ee\LL	>
+.	.	.	16e\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+.	.	4ee/	16ee\LL	.
+.	.	.	16e\	.
+.	.	.	16dd-\	.
+.	.	.	16b-\JJ	.
+*v	*v	*	*	*
+*	*v	*v	*
+=9	=9	=9
+1F 1B- 1dn	12r	p
+.	(12f/L	.
+.	12b-/J	.
+.	12f/L	<
+.	12ddn/	.
+.	12b-/J	.
+.	12ff\L	.
+.	12dd\	.
+.	12bb-\J	.
+.	12ff\L	.
+.	12ddd\	.
+.	12bb-\J	.
+=10	=10	=10
+*MM108	*MM108	*MM108
+&(2F\&) 2B-\ 2d\	4fff\)	f
+.	(48fff/LLL	.
+.	48eeen/	.
+.	48eee-/	.
+.	48ddd/	.
+.	48ddd-/	.
+.	48ccc/	.
+.	48bbn/	.
+.	48bb-/	.
+.	48aan/	.
+.	48aa-/	.
+.	48gg/	.
+.	48gg-/	.
+2r	48ff/	.
+.	48een/	.
+.	48ee-/	.
+.	48dd/	.
+.	48dd-/	.
+.	48cc/	.
+.	48bn/	.
+.	48b-/	.
+.	48an/	>
+.	48a-/	.
+.	48g/	.
+.	48g-/	.
+.	48f/	.
+.	48en/	.
+.	48e-/	.
+.	48d/	.
+.	48d-/	.
+.	48c/	.
+.	48Bn/	.
+.	48B-/JJJ	.
+.	48An/LLLkkk	.
+.	48A-/	.
+.	48G/	.
+.	48G-/JJJKKK	.
+*	*clefF4	*clefF4
+=11	=11	=11
+*MM132	*MM132	*MM132
+*	*^	*
+2r	8r	4F\)	p
+.	(4d/	.	.
+.	.	4E-\	.
+.	4c/	.	.
+2FFF/ 2FF/	.	4D\	.
+.	4B-/	.	.
+.	.	4C\	.
+.	8E-/ 8A/	.	.
+=12	=12	=12	=12
+*^	*	*	*
+2r	2BBB-\ 2BB-\	2E-/ 2A/)	2C\	.
+16BBB-/LL	2BBB-\	4r	2r	.
+16DD/	.	.	.	.
+16FF/	.	.	.	.
+16BB-/JJ	.	.	.	.
+4r	.	(12D\L	.	.
+.	.	12F\	.	.
+.	.	12B-\J)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=13	=13	=13
+1BBB-	1r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/12/
+!!!EEV: 2008/06/12/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

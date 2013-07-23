@@ -1,0 +1,135 @@
+!!!COM: Haydn, Franz Joseph
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!OTL: Sonata No. 45 in A major
+!!!SCT: Hob. XVI:30
+!!!OMV: Mvmt. 3, Theme
+!!!OMD: Tema con variazioni: Tempo di Menuetto
+!!!ODT: ~1776///
+!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 6
+!!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:
+*M3/4	*M3/4	*M3/4
+*MM112	*MM112	*MM112
+=1-	=1-	=1-
+4AA/	(8.cc#\L	mf
+.	16dd\Jk	.
+4r	4ee\)	.
+4r	4ee''\	.
+=2	=2	=2
+.	(ff#q/	.
+4r	(4ee\)	.
+(4B\	4dd''\)	.
+4A\	4r	.
+=3	=3	=3
+4G#\)	8.b\L	.
+.	16cc#\Jk	.
+4r	&(4ddn\&)	.
+4r	4dd''\	.
+=4	=4	=4
+.	(cc#q/LLL	.
+.	eeq/JJJ	.
+4r	(4dd\)	.
+4A\	4cc#\)	.
+4AA/	4r	.
+=5	=5	=5
+4r	(16bb\LL	.
+.	16aa\	.
+.	16gg#\	.
+.	16ff#\JJ)	.
+4r	[4ff#\	.
+*clefG2	*	*
+(4g#/	(8ff#\L]	.
+.	16ee\L	.
+.	16dd\JJ)	.
+=6	=6	=6
+4a/)	16dd\LL	.
+.	16cc#\	.
+.	16b\	.
+.	&(16a\JJ&)	.
+4r	[4a/	.
+(4d/	16a/LL]	.
+.	16g#/	.
+.	16f#/	.
+.	16e/JJ	.
+=7	=7	=7
+4c#/)	&(8.e/L&)	.
+.	16ee/Jk	.
+*clefF4	*	*
+(4G#\	4dd\	.
+4A\)	&(4cc#\&)	.
+=8	=8	=8
+.	ddq/	.
+(2E\	(4cc#\	.
+.	4b''\)	.
+4EE''/)	4r	.
+=9:|!|:	=9:|!|:	=9:|!|:
+*>B	*>B	*>B
+4r	(8.b\L	p
+.	16cc#\Jk	.
+4G#''\	4dd\)	.
+4E''\	4dd\	.
+=10	=10	=10
+.	(cc#q/LLL	.
+.	eeq/JJJ	.
+4r	(4dd\)	.
+4A''\	4cc#''\)	.
+4AA''/	4r	.
+=11	=11	=11
+4r	(16ee\LL	<
+.	16ff#\	.
+.	16ee\	.
+.	16ff#\JJ	.
+4c#''\	4ggn\)	.
+4A''\	4gg''\	.
+=12	=12	=12
+.	(ff#q/LL	.
+.	ggnq/	.
+.	aaq/JJ	.
+4r	(4gg\)	.
+4d''\	4ff#''\)	.
+4D''\	4r	.
+=13	=13	=13
+4r	(16eee\LL	mf
+.	16ddd\	.
+.	16ccc#\	.
+.	16bb\JJ)	.
+4r	(4.bb\	.
+(4d#\	.	.
+.	16ccc#\LL	.
+.	16aa\JJ)	.
+=14	=14	=14
+4e\)	16aa\LL	.
+.	16gg#\	.
+.	16ff#\	.
+.	16ee\JJ	.
+(4G#\	&([4dd\&)	.
+4A\)	16dd\LL]	.
+.	16cc#\	.
+.	16b\	.
+.	16a\JJ	.
+=15	=15	=15
+*^	*	*
+4d/	4D\	8.b\L	.
+.	.	16cc#\Jk	.
+(4c#/	2E\	4a/	.
+4B/)	.	&(4g#/&)	.
+*v	*v	*	*
+=16	=16	=16
+.	f#q/LL	.
+.	g#q/JJ	.
+4A''\	4g#/	.
+4E''\	2a/	.
+4AA''/	.	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2008/07/03/

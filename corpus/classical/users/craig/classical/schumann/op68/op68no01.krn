@@ -1,0 +1,205 @@
+!!!COM: Schumann, Robert
+!!!CDT: 1810/06/08/-1856/07/29/
+!!!OTL@@DE: Melodie
+!!!OTL@EN: Melody
+!!!OMD: Nicht schnell
+!!!OPT@@DE: Album f&uuml;r die Jugend
+!!!OPT@EN: Album for the Young
+!!!ODT: 1848
+!!!OPS: Op. 68
+!!!ONM: No. 1
+!!!YEN: Copyright 2001 by Craig Stuart Sapp
+!!!YEC: United States of America
+**kern	**kern
+*Ipiano	*Ipiano
+*k[]	*k[]
+*C:	*C:
+*M4/4	*M4/4
+*MM110	*MM110
+*>[A,A,B]	*>[A,A,B]
+*>A	*>A
+8c	4ee
+8g	.
+8f	4dd
+8g	.
+8e	4cc
+8g	.
+8c	4b
+8e	.
+=2	=2
+8f	8a
+8d	8cc
+8g	8b
+8f	8dd
+8e	4cc
+8f	.
+8e	4g
+8d	.
+=3	=3
+8e	4gg
+8g	.
+8d	4ff
+8g	.
+8c	4ee
+8g	.
+8e	4cc
+8g	.
+=4	=4
+8d	4b
+8g	.
+8c	4f# 4a
+8d	.
+8B	4g
+8d	.
+4G	4r
+.	.
+=:|!5	=:|!5
+*>B	*>B
+8fn	4dd
+8g	.
+8e	4cc
+8g	.
+8d	4b
+8g	.
+8f#	4r
+8g	.
+=6	=6
+8d	4ff
+8g	.
+8c	4ee
+8g	.
+8B	4dd
+8g	.
+8f#	4r
+8g	.
+=7	=7
+8fn	4aa
+8g	.
+8e	4gg
+8g	.
+8d	4ff
+8g	.
+8c	4ee
+8g	.
+=8	=8
+8B	8dd
+8g	8ff
+8c	8ee
+8c#	8gg
+*	*^
+4d	8a	4.ff
+.	8cc	.
+4g	8b	.
+.	8dd	8dd
+*	*v	*v
+=9	=9
+8c	4cc 4ee
+8g	.
+8f	4dd
+8g	.
+8e	4cc
+8g	.
+8c	4b
+8e	.
+=10	=10
+8f	8a
+8d	8cc
+8g	8b
+8f	8dd
+8e	4cc
+8f	.
+8e	4g
+8c	.
+=11	=11
+8f	4aa
+8cc	.
+8e	4gg
+8cc	.
+8d	4b 4ff
+8g	.
+8c	4cc 4ee
+8g	.
+=12	=12
+8f	8dd
+8a	8ff
+8g	8b
+8f	8dd
+8e	4cc
+8g	.
+8c	4r
+8e	.
+=13	=13
+8f	4dd
+8g	.
+8e	4cc
+8g	.
+8d	4b
+8g	.
+8f#	4r
+8g	.
+=14	=14
+8d	4ff
+8g	.
+8c	4ee
+8g	.
+8B	4dd
+8g	.
+8f#	4r
+8g	.
+=15	=15
+8fn	4aa
+8g	.
+8e	4gg
+8g	.
+8d	4ff
+8g	.
+8c	4ee
+8g	.
+=16	=16
+8B	8dd
+8g	8ff
+8c	8ee
+8c#	8gg
+*	*^
+4d	8a	4.ff
+.	8cc	.
+4g	8b	.
+.	8dd	8dd
+*	*v	*v
+=17	=17
+8c	4cc 4ee
+8g	.
+8f	4dd
+8g	.
+8e	4cc
+8g	.
+8c	4b
+8e	.
+=18	=18
+8f	8a
+8d	8cc
+8g	8b
+8f	8dd
+8e	4cc
+8f	.
+8e	4g
+8c	.
+=19	=19
+8f	4aa
+8cc	.
+8e	4gg
+8cc	.
+8d	4b 4ff
+8g	.
+8c	4cc 4ee
+8g	.
+=20	=20
+8f	8dd
+8a	8ff
+8g	8b
+8f	8dd
+8e	4cc
+8g	.
+4c	4r
+==	==
+*-	*-

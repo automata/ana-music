@@ -1,0 +1,83 @@
+CHEKSUMS for files from /users/craig/classical/scarlatti/longo/scarlatti-sonatas
+at http://kern.ccarh.org
+downloaded on Thu Jun 27 20:39:55 PDT 2013
+A current version of these files may be downloaded using the address:
+   http://kern.ccarh.org/data?f=zip&l=/users/craig/classical/scarlatti/longo/scarlatti-sonatas
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+414628830 6929 L001K514.krn
+1585582545 6302 L002K384.krn
+3884792906 13700 L003K502.krn
+2988790841 13380 L008K461.krn
+1186031901 9823 L009K303.krn
+1297813219 9824 L010K084.krn
+2497440377 6126 L011K534.krn
+1834901768 13223 L012K478.krn
+1291530577 5662 L013K060.krn
+281994966 13378 L014K492.krn
+1533638454 14010 L015K160.krn
+598907365 12718 L016K306.krn
+2981925707 7570 L027K238.krn
+739600050 8350 L051K166.krn
+2156261430 6961 L052K165.krn
+60518393 4807 L053K075.krn
+2704332959 10168 L054K200.krn
+2264237067 5990 L055K330.krn
+1406355901 7535 L056K281.krn
+3320396061 6521 L064K148.krn
+2827673487 9454 L101K156.krn
+263596456 10574 L154K235.krn
+1867036345 11885 L166K085.krn
+152946982 12771 L178K258.krn
+2621143810 8854 L188K525.krn
+1899624745 19144 L198K296.krn
+1992060725 13339 L240K369.krn
+2903822918 12709 L267K052.krn
+1883839617 15054 L301K049.krn
+1693910910 7448 L302K372.krn
+518957165 12520 L303K170.krn
+882220469 15115 L304K470.krn
+1695332860 9432 L305K251.krn
+1764897814 10855 L306K345.krn
+344916113 8756 L307K269.krn
+1592060028 9678 L319K442.krn
+1815237130 9087 L333K425.krn
+1500609534 12263 L334K122.krn
+95085656 11407 L335K055.krn
+3781417 17003 L336K093.krn
+3614162245 8745 L337K336.krn
+31651495 11269 L338K450.krn
+1268604091 9434 L339K512.krn
+2325105931 13048 L340K476.krn
+215664805 8874 L341K320.krn
+2015695787 18076 L342K220.krn
+1289421170 9532 L343K434.krn
+11049751 17310 L344K114.krn
+3871618703 14074 L345K113.krn
+1458325190 7197 L346K408.krn
+430049070 15478 L347K227.krn
+412430367 12874 L348K244.krn
+2784912619 8838 L349K146.krn
+3007410228 9054 L350K498.krn
+1296214058 13747 L351K225.krn
+12131924 10242 L400K360.krn
+2171144461 12541 L481K025.krn
+2330252644 12992 L503K513.krn
+1808100881 24068 L523K205.krn

@@ -1,0 +1,169 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31/-1828/11/19/
+!!!CNT: Austrian
+!!!OTL@@DE: Variationen &uuml;ber ein Thema von Anselm H&uuml;ttenbrenner
+!!!OTL@EN: 13 Variations on a Theme by Anselm H&uuml;ttenbrenner
+!!!OKY: A Minor
+!!!SCT: D 576
+!!!PDT: 1867///
+!!!ODT: 1817/08//
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!OMD: Var. 3
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+*MM72	*MM72
+*>[A,A,B,B]	*>[A,A,B,B]
+*>A	*>A
+16AA	16E 16A 16c 16e
+16AA	16E 16A 16c 16e
+16AA	16E 16A 16c 16e
+16r	16r
+16BB	16E 16G# 16d 16e
+16r	16r
+16AA	16E 16A 16c 16e
+16r	16r
+=51	=51
+16EE 16E	16G# 16B 16e
+16r	16ee
+*^	*
+8r	8g#	16b 16bb
+.	.	16ee
+4e^	8f##	16cc#^ 16ccc#^
+.	.	16ee
+.	8g#	16b 16bb
+.	.	16ee
+*v	*v	*
+=52	=52
+16AA	16Gn 16A 16c# 16e
+16AA	16G 16A 16c# 16e
+16AA	16G 16A 16c# 16e
+16r	16r
+16FF	16F 16A 16d 16f
+16r	16r
+16DD	16A 16d 16f
+16r	16r
+=53	=53
+16GG	16G 16B 16d
+16r	16gg
+*^	*
+8r	8b	16dd 16ddd
+.	.	16gg
+4g^	8a#	16ee^ 16eee^
+.	.	16gg
+.	8b	16dd 16ddd
+.	.	16gg
+*v	*v	*
+=54	=54
+16GG 16G	16B 16f 16g
+16GG 16G	16B 16f 16g
+16GG 16G	16B 16f 16g
+16r	16r
+16AA 16G	16c 16f 16g
+16r	16r
+16BB 16G	16d 16f 16g
+16r	16r
+=55	=55
+16C 16G	16c 16e 16g
+16r	16gg
+8cc	16ee 16eee
+.	16gg
+8b^ 8dd^	16ff^ 16fff^
+.	16gg#
+8cc	16ee 16eee
+.	16aa
+=56	=56
+16EE 16C	16A 16c 16e
+16EE 16C	16A 16c 16e
+16EE 16C	16A 16c 16e
+16r	16r
+16EE 16D	16A 16B 16e
+16r	16r
+16EE 16E	16G# 16B 16e
+16r	16r
+=57	=57
+16AA 16E	16A 16c 16e
+16r	16aa
+*^	*
+8r	8c	16ee
+.	.	16aa
+4a^	8B	16dd#
+.	.	16aa
+.	8c	16ee
+.	.	16aa
+*v	*v	*
+=58:|!|:	=58:|!|:
+*>B	*>B
+16a	16gg 16aa 16ccc#
+16a	16gg 16aa 16ccc#
+16a	16gg 16aa 16ccc#
+16r	16r
+16b	16gg 16aa 16ddd
+16r	16r
+16cc#	16gg 16aa 16eee
+16r	16r
+=59	=59
+16D	16A 16d 16f 16a
+16D	16A 16d 16f 16a
+16D	16A 16d 16f 16a
+16r	16r
+16F	16A 16d 16a
+16r	16r
+16C	16A 16e 16a
+16r	16r
+=60	=60
+16b	16aa 16bb 16ddd#
+16b	16aa 16bb 16ddd#
+16b	16aa 16bb 16ddd#
+16r	16r
+16cc#	16aa 16bb 16eee
+16r	16r
+16dd#	16aa 16bb 16fff#
+16r	16r
+=61	=61
+16E	16B 16g# 16b
+16E	16B 16g# 16b
+16E	16B 16g# 16b
+16r	16r
+16E	16B 16gn 16b
+16r	16r
+16Dn	16fn 16g 16b 16ffn
+16r	16r
+=62	=62
+16c	16e 16cc 16ee
+16c	16e 16cc 16ee
+16c	16e 16cc 16ee
+16r	16r
+16A	16e 16cc# 16ee
+16r	16r
+16G	16b- 16cc# 16ee 16bb-
+16r	16r
+=63	=63
+16f# 16a	16dd 16aa 16ddd
+16f# 16a	16dd 16aa 16ddd
+16f# 16a	16dd 16aa 16ddd
+16r	16r
+16fn 16a 16dd#	16dd# 16bb 16ddd#
+16r	16r
+16f 16a 16cc 16dd#	16dd# 16aa 16ccc 16ddd#
+16r	16r
+=64	=64
+16E	16A 16c 16e
+16E	16A 16c 16e
+16E	16A 16c 16e
+16r	16r
+16E	16A 16B 16dn 16f
+16r	16r
+16E	16G# 16B 16d 16e
+16r	16r
+=65	=65
+16AA	16C 16E 16A
+16AA	16C 16E 16A
+16AA	16C 16E 16A
+16r	16r
+8AAA'	8A'
+8r	8r
+=:|!	=:|!
+*-	*-

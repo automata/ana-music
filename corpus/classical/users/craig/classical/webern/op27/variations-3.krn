@@ -1,0 +1,573 @@
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M3/2	*M3/2	*M3/2
+*MM160	*MM160	*MM160
+=1-	=1-	=1-
+2r	4r	.
+.	1ee-	.
+2r	.	.
+*clefG2	*	*
+(4Bn/	.	.
+4b-/)	4r	.
+=2	=2	=2
+2r	1dn	.
+2r	.	.
+4r	2r	.
+*clefF4	*	*
+4CC#'/	.	.
+=3	=3	=3
+2r	4cn'/	.
+.	(2.f#/	.
+2En\	.	.
+2r	2Gn/)	.
+*clefG2	*	*
+=4	=4	=4
+2r	2r	.
+4r	2r	.
+2.fffn^\	.	.
+.	4r	.
+.	(4An/	.
+=5	=5	=5
+2r	4g#/)	.
+.	4r	.
+4r	2r	.
+[2.e-/	.	.
+.	2r	.
+=6	=6	=6
+4e-/]	(4Gn/	.
+4r	4g#/)	.
+1een	2r	.
+.	2r	.
+*clefF4	*	*
+=7	=7	=7
+2r	4r	.
+.	4fffn'\	.
+4FF#'v/	2r	.
+2.Cn/	.	.
+.	2dn/	.
+=8	=8	=8
+2Bn\	2r	.
+2r	2r	.
+2r	4r	.
+.	[4cc#\	.
+=9	=9	=9
+4r	2cc#\]	.
+*clefG2	*	*
+(4An/	.	.
+4b-/)	2r	.
+4r	.	.
+2r	(4g#/	.
+.	4An/)	.
+=10	=10	=10
+2.fffn\	4r	.
+.	(2.gn/	.
+2en/	.	.
+.	2ff#\)	.
+4r	.	.
+=11	=11	=11
+(4ccn\	4r	.
+*	*clefF4	*clefF4
+4c#/)	1Dn	.
+4r	.	.
+4b-\	.	.
+4Bn/	.	.
+4r	4r	.
+*	*clefG2	*clefG2
+=12	=12	=12
+2r	4ee-'\	.
+.	4r	.
+4r	2r	.
+4eeen'\	.	.
+4r	4cn'/ 4bn'/	.
+4ee-'\	4r	.
+=13	=13	=13
+2r	4dn'/ 4cc#'/	.
+.	4r	.
+4ggn\	4r	.
+4r	4fn/	.
+4A-/	4r	.
+4r	4ff#\	.
+=14	=14	=14
+4B-/ 4an/	2r	.
+4r	.	.
+2r	4r	.
+*	*clefF4	*clefF4
+.	4CC#/	.
+4r	4r	.
+*clefF4	*	*
+4Cn'\ 4Bn'\	4dn'\	.
+*clefG2	*	*
+=15	=15	=15
+2ff#\	2r	.
+*	*clefG2	*clefG2
+2r	2fn/	.
+(eq/	.	.
+4G#/ 4gn/)	4r	.
+4r	4eee-'\	.
+=16	=16	=16
+4r	2r	.
+4Bn'/ 4b-'/	.	.
+*	*clefF4	*clefF4
+4r	4Dn'\	.
+4c#'/ 4ccn'/	4r	.
+2r	4r	.
+*	*clefG2	*clefG2
+.	4fff#'\	.
+=17	=17	=17
+4r	4r	.
+*clefF4	*	*
+4Fn'\ 4en'\	4gn'/	.
+*clefG2	*	*
+2aan\	2r	.
+2r	2g#/	.
+=18	=18	=18
+(g#q/	.	.
+4Bn/ 4b-/)	4r	.
+4r	4dddn'\	.
+4r	4r	.
+4c#'/ 4ccn'/	4ee-'\	.
+4r	4gn'/	.
+4f#'\ 4ffn'\	4aan'\	.
+=19	=19	=19
+2r	4r	.
+.	2ggg\	.
+4r	.	.
+4fn'\ 4een'\	4r	.
+2r	4ggg#'\	.
+.	4r	.
+=20	=20	=20
+4gn'\ 4ff#'\	4aan'\	.
+4r	4cc#'\	.
+4ccn'\ 4bbn'\	4eee-'\	.
+4r	4r	.
+4r	4dddn\	.
+4Bn/ 4b-/	4r	.
+=21	=21	=21
+4r	4dddn'\	.
+4c#'/ 4ccn'/	4ee-'\	.
+4r	4gn'/	.
+4f#'\ 4ffn'\	4aan'\	.
+2r	4r	.
+*	*clefF4	*clefF4
+.	4A-\	.
+*clefF4	*clefG2	*clefG2
+=22	=22	=22
+4EEn/ 4E-/	4r	.
+4r	4ggn\	.
+*clefG2	*	*
+4fn/	4r	.
+4r	4A-/	.
+4ff#\	4r	.
+4r	4cn/ 4bn/	.
+=23	=23	=23
+4bb-\	4r	.
+4r	4dn/ 4cc#/	.
+4r	2r	.
+4aan'\	.	.
+4aan'\	4r	.
+*	*clefF4	*clefF4
+4r	4G#'\	.
+=24	=24	=24
+4r	4G#'\	.
+(4cn/	4r	.
+*	*clefG2	*clefG2
+4cc#\)	2.Bn/ 2.fn/ 2.b-/	.
+4r	.	.
+(4eeen\	.	.
+4ee-\)	4r	.
+=25	=25	=25
+4r	2r	.
+4ggn'^\	.	.
+2r	4r	.
+.	4f#'^/	.
+4r	2r	.
+*clefF4	*	*
+4Dn'^\	.	.
+=26	=26	=26
+2r	4r	.
+.	4ee-'\	.
+(4BBn/	4r	.
+4B-\)	2.c#/ 2.f#/ 2.ccn/	.
+4r	.	.
+*clefG2	*	*
+4ggn'\	.	.
+=27	=27	=27
+4r	2r	.
+4G#'/	.	.
+2r	4eeen'\	.
+.	4eeen'\	.
+4fn'/	2r	.
+4fn'/	.	.
+=28	=28	=28
+2r	4r	.
+.	4An'^/	.
+2r	4r	.
+.	4b-'^\	.
+4ff#'^\	4r	.
+*clefF4	*	*
+4FFn'/	[4A-/ [4d-/ [4gn/	.
+=29	=29	=29
+4r	2A-/] 2d-/] 2g/]	.
+4Dn'\	.	.
+4r	2r	.
+*clefG2	*	*
+4ee-'\	.	.
+2r	4r	.
+.	4bbn'\	.
+=30	=30	=30
+4r	2r	.
+4cn'/	.	.
+4r	2r	.
+4eeen'\	.	.
+4eee'\	4r	.
+4r	4e-'/	.
+=31	=31	=31
+4r	4e-'/	.
+4Gn'/	4r	.
+4r	4r	.
+4g#'/	2.F#/ 2.cn/ 2.fn/	.
+4r	.	.
+(4bbn\	.	.
+=32	=32	=32
+4b-\)	2r	.
+4r	.	.
+4r	4dn'^/	.
+4cc#'^\	4r	.
+2r	4An/	.
+.	&(4b-\&)	.
+=33	=33	=33
+4ff#'\	4r	.
+*clefF4	*	*
+4FFn'/	2.A-/ 2.d-/ 2.gn/	.
+4Dn'\	.	.
+*clefG2	*	*
+4ee-'\	.	.
+2r	4r	.
+.	(8bn/L	.
+.	8cn/J)	.
+=34	=34	=34
+4r	2r	.
+8een\L	.	.
+8fn\J	.	.
+2r	4r	.
+.	2.cc#\	.
+*clefF4	*	*
+2E-\ 2An\ 2dn\	.	.
+=35	=35	=35
+2r	4r;	.
+.	2bn\	.
+4r	.	.
+*clefG2	*	*
+(8aa-\L	4r	.
+8b-\J)	.	.
+2r	4r	.
+.	(8f#/L	.
+.	8Gn/J)	.
+=36	=36	=36
+2r	(8Gn/L	.
+.	8f#/J)	.
+.	4r	.
+(8b-\L	4r	.
+8aa-\J)	.	.
+4r	2bn\	.
+2r	.	.
+.	4r	.
+*clefF4	*	*
+=37	=37	=37
+2E-\ 2An\ 2dn\	2.cc#;\	.
+2r	.	.
+.	4r	.
+*clefG2	*	*
+(8fn\L	2r	.
+8ee\J)	.	.
+4r	.	.
+=38	=38	=38
+2r	(8cn/L	.
+.	8bn/J)	.
+.	4r	.
+(8bn/L	2r	.
+8d#/J)	.	.
+4r	.	.
+4r	(8d#\L	.
+.	8een\J)	.
+[4ccn\	4r	.
+*	*clefF4	*clefF4
+=39	=39	=39
+2cc\]	2Dn\ 2G#\ 2c#\	.
+4r	2r	.
+2b-\	.	.
+.	4r	.
+*	*clefG2	*clefG2
+4r	(8ggn\L	.
+.	8an\J)	.
+*clefF4	*	*
+=40	=40	=40
+4r	2r	.
+(8Fn\L	.	.
+8f#\)	.	.
+(8f#\	2r	.
+8Fn\J)	.	.
+4r	.	.
+4r	(8an\L	.
+.	8ggn\J)	.
+*clefG2	*	*
+[4b\	4r	.
+=41	=41	=41
+4b\]	2r	.
+4r	.	.
+*	*clefF4	*clefF4
+2.ccn;\	2Dn\ 2G#\ 2c#\	.
+.	4r	.
+*	*clefG2	*clefG2
+4r	8een/L	.
+.	8d#/J	.
+=42	=42	=42
+4r	2r	.
+(8d#/L	.	.
+8bn/J)	.	.
+2r	4r	.
+.	(bb-q\	.
+.	2.ddn\)	.
+*clefF4	*	*
+2C#\ 2F#\ 2cn\	.	.
+=43	=43	=43
+*clefF4	*	*
+2r	4r	.
+.	2een\	.
+4r	.	.
+(8Gn\L	4r	.
+8fn\J)	.	.
+2r	4r	.
+.	(8aan\L	.
+.	8g#\J)	.
+=44	=44	=44
+1.r	1.r	.
+=45	=45	=45
+8r	2r	.
+4Cn/	.	.
+8r	.	.
+4r	4B-/	.
+8r	4r	.
+4c#\	.	.
+.	4r	.
+8r	.	.
+4r	4bn\	.
+*clefG2	*	*
+=46	=46	=46
+4ffn\	4r	.
+*	*clefF4	*clefF4
+4r	(4en\	.
+4r	4E-\)	.
+*clefF4	*	*
+4GGn'/	4r	.
+2r	4r	.
+.	8r	.
+*	*clefG2	*clefG2
+.	8fff#'^\	.
+=47	=47	=47
+8r	4r	.
+4dn\	.	.
+.	8r	.
+*	*clefF4	*clefF4
+8r	4C#/	.
+8r	.	.
+*clefG2	*	*
+4ffn\	8r	.
+.	8r	.
+*	*clefG2	*clefG2
+8r	4en/	.
+8r	.	.
+*clefF4	*	*
+4E-\	8r	.
+.	8r	.
+8r	8an'^/	.
+*clefG2	*	*
+=48	=48	=48
+4r	2r	.
+8r	.	.
+8gggn'\	.	.
+4r	8r	.
+.	4b-\ 4aa-\	.
+8r	.	.
+4an\ 4ggn\	8r	.
+.	8r	.
+8r	4e/ 4dd-/	.
+8r	.	.
+[8ccn\ [8bbn\	8r	.
+=49	=49	=49
+8cc\] 8bb\]	8r	.
+*	*clefF4	*clefF4
+8r	8GG#'^/	.
+8r	4r	.
+*clefG2	*	*
+4gggn\	.	.
+.	4r	.
+8r	.	.
+*	*clefG2	*clefG2
+4r	4f#/	.
+8r	2r	.
+4B-/	.	.
+8r	.	.
+=50	=50	=50
+4r	4an/	.
+4ffn'\	4r	.
+2r	(4en/	.
+.	4G#/)	.
+*clefF4	*	*
+4GGn'/	2r	.
+4r	.	.
+=51	=51	=51
+8r	4r	.
+*clefG2	*	*
+8fff#'^\	.	.
+4r	8r	.
+*	*clefF4	*clefF4
+.	4Cn/	.
+8r	.	.
+4B-/	8r	.
+.	8r	.
+8r	4c#\	.
+8r	.	.
+4bn\	8r	.
+.	8r	.
+*	*clefG2	*clefG2
+8r	8ee-'^\	.
+=52	=52	=52
+2r	8r	.
+.	8dddn'^\	.
+.	4r	.
+8r	4r	.
+8fff#'^\L	.	.
+8r	8r	.
+8ggn'^\J	8een'^\L	.
+8r	8r	.
+8Bn'^/L	8fn'^\J	.
+8r	4r	.
+8b-'^/J	.	.
+=53	=53	=53
+2r	4r	.
+.	8r	.
+.	8aaan^\	.
+8r	4r	.
+4cc#\ 4cccn\	.	.
+.	8r	.
+8r	4a-\ 4ggn\	.
+8r	.	.
+4Bn/ 4b-/	8r	.
+.	4r	.
+8r	.	.
+=54	=54	=54
+*clefG2	*	*
+2r	4r	.
+.	8aaan'\	.
+.	8r	.
+4d#/ 4cc#/	4r	.
+*	*clefF4	*clefF4
+4r	4En\ 4dn\	.
+4f#\ 4ffn\	4r	.
+4r	8r	.
+*	*clefG2	*clefG2
+.	8aaan'\	.
+=55	=55	=55
+8r	8r	.
+8ggn'^\L	8bb-'\	.
+8r	8r	.
+8a-'^\J	8dn'^/L	.
+4r	8r	.
+.	8cc#'^/J	.
+8r	4r	.
+*clefF4	*	*
+8Cn'^/	.	.
+4r	8r	.
+.	4en/ 4dd#/	.
+8r	.	.
+8Bn'\	8r	.
+=56	=56	=56
+4r	2r	.
+2.EE-/	.	.
+.	4r	.
+.	2.Bn/ 2.dn/ (2.b-/	.
+4r	.	.
+*clefG2	*	*
+4cc#'\ 4ff#'\ 4cccn'\	.	.
+=57	=57	=57
+2r	4r	.
+.	2en/)	.
+2r	.	.
+.	4r	.
+4r	2r	.
+*clefF4	*	*
+([4GGn/	.	.
+=58	=58	=58
+2GG/]	4r	.
+.	2An/ 2fn/ 2g#/	.
+4r	.	.
+*clefG2	*	*
+4cc#'\) 4ff#'\ 4cccn'\	&(4en'/&)	.
+2r	4r	.
+.	[4Bn/ [4dn/ [4b-/	.
+*clefF4	*	*
+=59	=59	=59
+2r	4Bn/] 4dn/] 4b-/]	.
+.	4r	.
+4r	2r	.
+(2.EE-/	.	.
+.	4r	.
+.	[4en/	.
+=60	=60	=60
+4r	4e/]	.
+*clefG2	*	*
+4An'/) 4fn'/ 4g#'/	4r	.
+2r	4r	.
+.	2G/ 2c#/ 2f/	.
+2r	.	.
+.	4r	.
+=61	=61	=61
+4r	2r	.
+*clefF4	*	*
+(2EE-/	.	.
+.	4r	.
+4CCn'/)	4Bn'/ 4dn'/ 4b-'/	.
+4r	2r	.
+[4EE-/	.	.
+=62	=62	=62
+2EE-/]	4r	.
+.	2Gn/ 2c#/ 2f#/	.
+2r	.	.
+.	4r	.
+4r	2r	.
+*clefG2	*	*
+[4An/ [4fn/ [4g#/	.	.
+=63	=63	=63
+4A/] 4f/] (4g#/]	4r	.
+*	*clefF4	*clefF4
+4en'/)	2.GGn/	.
+2r	.	.
+2r	4r	.
+*	*clefG2	*clefG2
+.	4cc#'\ 4ff#'\ 4cccn'\	.
+=64	=64	=64
+4r	2r	.
+2.Bn/ 2.dn/ 2.b-/	.	.
+.	4r	.
+*	*clefF4	*clefF4
+.	2.EE-/	.
+2r	.	.
+=65	=65	=65
+4r	2r	.
+2G#/ 2en/ 2gn/	.	.
+.	4r	.
+4r	4F#'\ 4cn'\ 4fn'\	.
+2r	2r	.
+=66	=66	=66
+4r	2r	.
+*clefF4	*	*
+(2DDn/	.	.
+.	4r	.
+*	*clefG2	*clefG2
+4BBBn'/)	4B-'/ 4d-'/ 4an'/	.
+2r	2r	.
+==	==	==
+*-	*-	*-

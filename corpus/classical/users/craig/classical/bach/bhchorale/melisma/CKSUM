@@ -1,0 +1,93 @@
+CHEKSUMS for files from /users/craig/classical/bach/bhchorale/melisma
+at http://kern.ccarh.org
+downloaded on Thu Jun 27 20:39:55 PDT 2013
+A current version of these files may be downloaded using the address:
+   http://kern.ccarh.org/data?f=zip&l=/users/craig/classical/bach/bhchorale/melisma
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+184501706 4120 chor001-auto.krn
+2694685119 3871 chor002-auto.krn
+3696830418 4149 chor009-auto.krn
+1841756996 3279 chor019-auto.krn
+1810802037 3521 chor024-auto.krn
+4144703848 3073 chor028-auto.krn
+2506125775 3440 chor030-auto.krn
+2928444479 3462 chor032-auto.krn
+3665952343 2602 chor040-auto.krn
+551771749 3086 chor046-auto.krn
+110612777 3074 chor048-auto.krn
+2832291698 3432 chor050-auto.krn
+3157400214 2801 chor054-auto.krn
+3745414473 2507 chor057-auto.krn
+3817414340 3687 chor067-auto.krn
+2574250100 3202 chor068-auto.krn
+1512950495 5845 chor069-auto.krn
+3460867829 3342 chor088-auto.krn
+1115890421 3195 chor090-auto.krn
+576488292 3361 chor098-auto.krn
+1491153161 3110 chor101-auto.krn
+2727067259 3371 chor110-auto.krn
+1723016153 3560 chor117-auto.krn
+3005297935 3845 chor124-auto.krn
+22691023 2734 chor136-auto.krn
+539779134 3022 chor146-auto.krn
+601269892 3706 chor153-auto.krn
+2007130436 3022 chor157-auto.krn
+765707811 4635 chor158-auto.krn
+477994016 3400 chor164-auto.krn
+1609518031 3964 chor165-auto.krn
+2490042146 3593 chor176-auto.krn
+1255547637 2874 chor177-auto.krn
+2400378828 3832 chor183-auto.krn
+1183867329 2719 chor187-auto.krn
+3014180434 3182 chor191-auto.krn
+3109060024 4360 chor200-auto.krn
+2427610478 5391 chor201-auto.krn
+1977973674 3124 chor213-auto.krn
+2380901529 2964 chor217-auto.krn
+3903808592 3922 chor223-auto.krn
+1630610655 2936 chor224-auto.krn
+4037762988 3305 chor230-auto.krn
+3774705172 3407 chor248-auto.krn
+3069173144 3620 chor255-auto.krn
+1878518282 4275 chor258-auto.krn
+2655386697 4910 chor268-auto.krn
+3647712047 3984 chor272-auto.krn
+588749307 4150 chor273-auto.krn
+2334545291 3257 chor276-auto.krn
+647471451 3233 chor281-auto.krn
+2189530529 3489 chor282-auto.krn
+3224883396 3627 chor290-auto.krn
+3768302869 3900 chor299-auto.krn
+128336975 2884 chor303-auto.krn
+602216272 4108 chor305-auto.krn
+2786227459 5286 chor306-auto.krn
+647420304 3578 chor311-auto.krn
+1129589359 3544 chor315-auto.krn
+2182448979 3698 chor323-auto.krn
+958110017 2988 chor328-auto.krn
+1734558859 3343 chor336-auto.krn
+2845991080 3192 chor339-auto.krn
+3538997458 3634 chor345-auto.krn
+2398408966 3408 chor350-auto.krn
+3862367648 3384 chor354-auto.krn
+1592818408 3699 chor361-auto.krn
+142788436 3567 chor366-auto.krn
+1858992082 3530 chor368-auto.krn

@@ -1,0 +1,21 @@
+X: 1
+T: Canzona 1, part A
+C: Giovanni Picchi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2008/11/26 18:32:58
+%%notespacingfactor 2.0
+%%humdrum-veritas 1695768586
+%%humdrum-veritas-data 1196542195
+%%scale 0.8
+%%squarebreve 1
+%%barnumbers 0
+%%staves [1 2]
+L: 1/4
+V: 1
+V: 2
+M: 3/1
+K: C
+[V:1] g4e2g2f2e2f4d2f2e2d2e4c4>B4A4A4>B4c4A2c2B2A2 B4G2B2A2G2A4F2A2G2F2
+[V:2] z16z8g4e2g2f2e2f4d2f2e2d2e8z4g4e2g2f2e2 f4d2f2e2d2

@@ -1,0 +1,164 @@
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!OTL: Waltz in B Major, Op.39 No.1
+!!!OMD: Tempo giusto
+!!!ODT: 1865
+!!!PDT: 1867
+!!!OPS: Op. 39
+!!!ONM: No. 1
+!!!END: Craig Sapp
+!!!YEN: Copyright 2001 by Craig Stuart Sapp
+!!!YEC: United States of America
+**kern	**kern
+*Ipiano	*Ipiano
+*clefF4	*clefG2
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]
+*M3/4	*M3/4
+*MM180	*MM180
+*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]
+*>I	*>I
+8r	8f#' 8ff#'
+4r	8b' 8bb'
+.	8cc#' 8ccc#'
+=1	=1
+*>A	*>A
+4BBBB' 4BBB'	4dd#' 4ddd#'
+4F#' 4B' 4d#'	4f#' 4ff#'
+4BBB' 4BB'	4dd#' 4ddd#'
+=2	=2
+4BBB' 4BB'	4cc#' 4ee' 4gg#' 4ccc#'
+4E' 4G#' 4c#' 4e'	4g#' 4gg#'
+4BBB' 4BB'	4cc#' 4ccc#'
+=3	=3
+4BBB' 4BB'	8b' 8ff#' 8bb'
+.	8a#' 8aa#'
+4F#' 4c#' 4e'	8g#' 8gg#'
+.	8f#' 8ff#'
+4BBB' 4BB'	8g#' 8gg#'
+.	8a#' 8aa#'
+=4	=4
+4BBB' 4BB'	4cc#' 4ccc#'
+4F#' 4B' 4d#'	4b' 4bb'
+4DD#' 4D#'	4a#' 4dd#' 4ff#' 4aa#'
+=5	=5
+4GGG#' 4GG#'	4g#' 4gg#'
+4D#' 4G#' 4B'	4b' 4dd#'
+4GGG#' 4GG#'	4g#' 4gg#'
+=6	=6
+4AAA#' 4AA#'	4f#' 4dd#' 4ff#'
+4D#' 4F#' 4A#'	4a#'
+4AAA#' 4AA#'	4f#' 4ff#'
+=7	=7
+4GGG#' 4GG#'	8e#' 8ee#'
+.	8d#' 8dd#'
+4C##' 4E#' 4A#'	8c##' 8cc##'
+.	8d#' 8dd#'
+4GGG#' 4GG#'	8f' 8ff'
+.	8f#' 8ff#'
+=8	=8
+4FFF#' 4FF#'	8e#' 8ee#'
+.	8d#' 8dd#'
+4D#' 4F#' 4A#'	8c##' 8cc##'
+.	8d#' 8dd#'
+4DDD#' 4DD#'	8e#' 8ee#'
+.	8f#' 8ff#'
+=9:|!|:	=9:|!|:
+*>B	*>B
+*	*^
+4FF#'	2.f#	8een
+.	.	8dd#
+4F#' 4A#'	.	8cc#
+.	.	8dd#
+4GG#'	.	8ee
+.	.	8ff#
+=10	=10	=10
+4F#' 4B'	[2.f#	8ee
+.	.	8dd#
+4AA#'	.	8cc#
+.	.	8dd#
+4F#' 4c#'	.	8ee
+.	.	8ff#
+=11	=11	=11
+4BB'	2f#]	8ee
+.	.	8dd#
+4G#' 4e'	.	8cc#
+.	.	8dd#
+4AA#'	4r	8ee
+.	.	8gg#
+=12	=12	=12
+.	.	8gg#q
+4F#' 4e'	2.cc#	2ccc#
+4FF#'	.	.
+4F#' 4A#' 4c#'	.	4ff#
+=13	=13	=13
+4BB'	2.b	8aan
+.	.	8gg#
+4B' 4d#'	.	8ff#
+.	.	8gg#
+4C#'	.	8aa
+.	.	8bb
+=14	=14	=14
+4B' 4e'	[2.b	8aan
+.	.	8gg#
+4D#'	.	8ff#
+.	.	8gg#
+4B' 4f#'	.	8aa
+.	.	8bb
+=15	=15	=15
+4E'	2b]	8aan
+.	.	8gg#
+4c#' 4an'	.	8ff#
+.	.	8gg#
+4D#'	4r	8aa
+.	.	8cc#
+*	*v	*v
+=16	=16
+.	8ccc#q
+4B' 4f#' 4an'	2ff# 2fff#
+4BB'	.
+4B' 4d#' 4f#'	4b 4aan 4bb
+=17	=17
+4EE' 4E'	4gg#' 4bb' 4ggg#'
+4G#' 4B' 4e'	4b' 4bb'
+4EE' 4E'	4gg#' 4ggg#'
+=18	=18
+4AAn' 4An'	4ff#' 4ccc#' 4fff#'
+4A' 4c#' 4f#'	4cc#' 4ccc#'
+4AA' 4A'	4ff#' 4fff#'
+=19	=19
+4BB' 4B'	8ee' 8aan' 8eee'
+.	8dd#' 8ddd#'
+4An' 4d#' 4f#'	8cc#' 8ccc#'
+.	8b' 8bb'
+4BB' 4B'	8cc#' 8ccc#'
+.	8dd#' 8ddd#'
+=20	=20
+4EE' 4E'	4ff#' 4fff#'
+4G#' 4B' 4e'	4ee' 4gg#' 4eee'
+4GG#' 4G#'	4dd#' 4gg#' 4bb#' 4ddd#'
+=21	=21
+4CC#' 4C#'	4cc#' 4ccc#'
+4E' 4G#' 4c#'	4ee' 4gg#'
+4CC#' 4C#'	4cc#' 4ccc#'
+=22	=22
+4DD#' 4D#'	4bn' 4bbn'
+4D#' 4F#' 4B'	4dd#' 4ff#'
+4DD#' 4D#'	4b' 4bb'
+=23	=23
+4FF#' 4F#'	8a# 8aa#
+.	8g# 8gg#
+4F#' 4A#' 4c#' 4e'	8g# 8gg#
+.	8f# 8ff#
+4FF#' 4F#'	8e 8ee
+.	8c# 8cc#
+=24	=24
+*>B1	*>B1
+4BBB' 4BB'	2B 2d# 2f# 2b
+4D#' 4F#'	.
+4r	4f# 4ff#
+=25	=25:|!
+*>B2	*>B2
+4BBB' 4BB'	2B 2d# 2f# 2b
+4D# 4F#	.
+==	==
+*-	*-

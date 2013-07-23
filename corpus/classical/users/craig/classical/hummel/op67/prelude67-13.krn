@@ -1,0 +1,108 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in F-sharp Major, Op. 67, No. 13
+!!!OPS: Op. 67
+!!!ONM: No. 13
+!!!OMD: Allegro con fuoco
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*F#:	*F#:	*F#:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM144	*MM144	*MM144
+=1-	=1-	=1-
+*^	*	*
+[1F# [1A# 1c#	(2F#\	16r	.
+.	.	(16f#/LL	p
+.	.	16e#/	.
+.	.	16f#/JJ	.
+.	.	16g#/LL	.
+.	.	16a#/	.
+.	.	16b/	.
+.	.	16cc#/JJ	.
+.	2E#\	16dd#\LL	.
+.	.	16ee#\	.
+.	.	16ff#\	.
+.	.	16gg#\JJ	.
+.	.	16aa#\LL	.
+.	.	16bb\	.
+.	.	16ccc#\	.
+.	.	16ddd#\JJ	.
+=2	=2	=2	=2
+2F#/] 2A#/] 2d#/	2D#\)	16eee#\LL	.
+.	.	16fff#\	.
+.	.	16ggg#\	.
+.	.	16aaa#\JJ	.
+.	.	16ggg#\LL	.
+.	.	16fff#\	.
+.	.	16eee#\	.
+.	.	16ddd#\JJ	.
+(2AA#/ 2C#/ 2F#/	2r	16ccc#\LL	f
+.	.	16bb\	.
+.	.	16aa#\	.
+.	.	16gg#\JJ	.
+.	.	16ff#\LL	.
+.	.	16ee#\	.
+.	.	16dd#\	.
+.	.	16cc#\JJ	.
+=3	=3	=3	=3
+1G#	2BB\ 2D#\ 2F#\	16dd#\LL	.
+.	.	16ee#\	.
+.	.	16dd#\	.
+.	.	16cc#\JJ	.
+.	.	16b/LL	.
+.	.	16a#/	.
+.	.	16g#/	.
+.	.	16f#/JJ	.
+.	2C#\ 2E#\	16e#/LL	>
+.	.	16f#/	.
+.	.	16g#/	.
+.	.	16f#/JJ	.
+.	.	16e#/LL	.
+.	.	16d#/	.
+.	.	16c#/	.
+.	.	16B/JJ	.
+*v	*v	*	*
+*	*clefF4	*clefF4
+=4	=4	=4
+*	*^	*
+16F#\)	4r	16A#\LL	<
+16r	.	16G#\	.
+8r	.	16F#\	.
+.	.	16E#\JJ	.
+(4AAA#/ 4AA#/	4F#/	16F#\LL	f
+.	.	16A#\	.
+.	.	16c#\	.
+.	.	16C#\JJ	.
+4BBB/ 4BB/	4F#/	16F#\LL	.
+.	.	16G#\	.
+.	.	16d#\	.
+.	.	16D#\JJ	.
+4CC#/	4E#/	16E#\LL	.
+.	.	16G#\	.
+.	.	16c#\	.
+.	.	16C#\JJ)	>
+*	*v	*v	*
+=5	=5	=5
+*^	*	*
+8FFF#/L)	[2FFF#\	4r	.
+[[16AAA#/L	.	.	.
+[16CC#/JJ	.	.	.
+4AAA#/_ 4CC#/_ [4FF#/	.	16r	.
+.	.	[[16AA#/LL	.
+.	.	[[16C#/	.
+.	.	[16F#/JJ	.
+2AAA#;/] 2CC#;/] 2FF#;/]	2FFF#\]	2AA#;\ 2C#;\ 2F#;\] 2A#;\	p
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/13/
+!!!EEV: 2008/06/13/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

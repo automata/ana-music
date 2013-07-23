@@ -1,0 +1,90 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in C-sharp Minor, Op. 67, No. 10
+!!!OPS: Op. 67
+!!!ONM: No. 10
+!!!OMD: Energico
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*c#:	*c#:	*c#:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM100	*MM100	*MM100
+=1-	=1-	=1-
+2r	(8g#/L	p
+.	16a/L	.
+.	16g#/JJ	.
+.	16f##/LL	.
+.	16g#/	.
+.	16f#/	.
+.	16g#/JJ	.
+(8G#\L	16e#/LL	.
+.	16g#/	.
+16A\L	16en/	p
+16G#\JJ	16g#/JJ	.
+16F##\LL	16d#/LL	.
+16G#\	16g#/	.
+16F#\	16B#/	.
+16G#\JJ	16g#/JJ)	.
+=2	=2	=2
+*	*^	*
+16E#\LL	8gg#/L	4.g#\	<
+16G#\	.	.	.
+16En\	16aa/L	.	.
+16G#\JJ	16gg#/JJ	.	.
+16D#\LL	16ff##/LL	.	.
+16G#\	16gg#/	.	.
+16BB#\	16ff#/	[8dd#\	.
+16G#\JJ	16gg#/JJ	.	.
+16C#\LL	16ee#/LL	8dd#\L]	f
+16D#\	16gg#/	.	.
+16E\	16een/	8cc#\	.
+16F#\JJ	16gg#/JJ	.	.
+16G#\LL	16dd#/LL	8b#\	.
+16A#\	16gg#/	.	.
+16Bn\	16ddn/	8bn\J	.
+16E#\JJ	16gg#/JJ	.	.
+=3	=3	=3	=3
+16F#\LL	16cc#/LL	8a#\L	.
+16G#\	16gg#/	.	.
+16An\	16b#/	8an\J	.
+16D#\JJ	16ff#/JJ	.	.
+16En\LL	16b#/LL	4g#\	.
+16F#\	16ff#/	.	.
+16G#\	16cc#/	.	.
+16C#\JJ	16ee/JJ	.	.
+!! ritard.
+16D#\LL	16a#/LL	8f##\L	>
+16E\	16ee/	.	.
+16F#\	16an/	8f#\	.
+16BB#\JJ	16dd#/JJ	.	.
+16C#\LL	16g#/LL	8e#\	.
+16D#\)	16dd#/	.	.
+16E\	16a#/	8en\J	.
+16FF##\JJ	&([16cc#/JJ&)	.	.
+=4	=4	=4	=4
+*MM80	*MM80	*MM80	*MM80
+*^	*	*	*
+2GG#/	4GG#\	(4cc#/]	16r	p
+.	.	.	16d#\LL	.
+.	.	.	16f#\	.
+.	.	.	[16an\JJ	.
+.	4GGG#\	4b#/	16a\LL]	.
+.	.	.	16g#\	.
+.	.	.	16f#\)	.
+.	.	.	16d#\JJ	.
+2r	2CC#/: 2EE/: 2GG#/: 2C#/:	2c#/: 2e/: 2g#/: 2cc#/:	2r	.
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/14/
+!!!EEV: 2008/06/14/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

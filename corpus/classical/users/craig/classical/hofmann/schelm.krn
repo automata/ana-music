@@ -1,0 +1,230 @@
+!!!COM:      Hofmann, Heinrich
+!!!CDT:      1842///-1902///
+!!!OTL@@GER: Schelm
+!!!OTL@ENG:  Rogue
+!!!OPR@@GER: St&uuml;cke f&uuml;r Klavier
+!!!OPR@ENG:  Piano Pieces
+!!!OPS:      op. 77
+!!!ONM:      no. 1
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1
+*Ipiano	*Ipiano	*Ipiano
+*staff2	*staff1	*staff1/2
+*clefG2	*clefG2	*clefG2
+*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]	*>[I,A,A1,A,A2,B]
+*>norep[I,A,A2,B]	*>norep[I,A,A2,B]	*>norep[I,A,A2,B]
+*>I	*>I	*>I
+*k[b-]	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4
+8cc'\	8aa'\	p
+*>A	*>A	*>A
+=1!|:	=1!|:	=1!|:
+8bn'\	8gg'\L	.
+8r	8dd'\	.
+8b-'\	8ee'\	.
+8r	8cc'\J	.
+=2	=2	=2
+.	ggq/	.
+(8.a/L	(16ff\LL	.
+.	16ee\	.
+.	16ff\	.
+16g/k	16gg\J	.
+8f'/J)	8aa\J)	.
+8a'/	8cc'\	mf
+=3	=3	=3
+(8g/L	(8b-^\L	.
+8c'/)	8cc'\)	.
+8f'/	8a'\	.
+8c'/J	8ff'\J	.
+=4	=4	=4
+4.e/ 4.g/	8r	.
+.	8cc'^\L	.
+.	8ccc'^\J	.
+8cc'\	8aa'\	p
+=5	=5	=5
+8bn'\	8gg'\L	.
+8r	8dd'\	.
+8b-'\	8ee'\	.
+8r	8cc'\J	.
+=6	=6	=6
+!!linebreak:default
+.	ggq/	.
+(8.a/L	(16ff\LL	.
+.	16ee\	.
+.	16ff\	.
+16g/k	16gg\J	.
+8f'/J)	8aa'\J)	.
+*clefF4	*	*
+(16F\LL	(16f/LL	f
+16G\JJ	16g/JJ	.
+=7	=7	=7
+16A\LL	16a/LL	.
+16G\	16g/	.
+16F\	16f/	.
+16E\JJ	16e/JJ	.
+8D'\L)	8d'/L)	.
+8G'^\J	8f'^/ 8bn'^/J	.
+*>A1	*>A1	*>A1
+=8	=8	=8
+4.C^/	4.e^/ 4.cc^/	.
+*clefG2	*	*
+8cc'\	8aa'\	p
+*clefF4	*	*
+*>A2	*>A2	*>A2
+=9:|!	=9:|!	=9:|!
+4.C/	4.e/ 4.cc/	.
+8r	(16cc\LL	p
+.	16cc#\JJ	.
+*clefG2	*	*
+=10	=10	=10
+8e'^/ 8g'^/ 8b-'^/	8dd'\L)	.
+8r	8gg'\	.
+8f'^/ 8g'^/ 8b-'^/	8dd-'^\	.
+8r	8gg'\J	.
+*>B	*>B	*>B
+!!LO:LB:g=z
+=11	=11	=11
+!!linebreak:default
+8e'^/ 8g'^/ 8b-'^/	8ccn'^\L	.
+8r	8gg'\	.
+4r	8ccc'\J	.
+.	(16cc\LL	.
+.	16cc#\JJ	.
+=12	=12	=12
+8e'^/ 8g'^/ 8b-'^/	8dd'^\L)	.
+8r	8gg'\	.
+8f'^/ 8g'^/ 8b-'^/	8dd-'^\	.
+8r	8gg'\J	.
+=13	=13	=13
+8e'^/ 8g'^/ 8b-'^/	8ccn'^\L	.
+8r	8gg'\	.
+4r	8ccc'\J	.
+.	(16ff\LL	.
+.	16ff#\JJ	.
+=14	=14	=14
+8a'^\ 8cc'^\ 8ee-'^\	8gg'\L)	.
+8r	8ccc'\	.
+8b-'^\ 8cc'^\ 8ee-'^\	8gg-'^\	.
+8r	8ccc'\J	.
+=15	=15	=15
+8a'^\ 8cc'^\ 8ee-'^\	8ffn'^\L	.
+8r	8ccc'\	.
+4r	8fff'\J	.
+.	(16ff\LL	.
+.	16ff#\JJ	.
+=16	=16	=16
+8a'^\ 8cc'^\ 8ee-'^\	8gg'^\L)	.
+8r	8ccc'\	.
+8b-'^\ 8cc'^\ 8ee-'^\	8gg-'^\	.
+8r	8ccc'\J	.
+=17	=17	=17
+!!linebreak:default
+8a'^\ 8cc'^\ 8ee-'^\	8ffn'^\L	.
+8r	8ccc'\	.
+4r	8fff'\J	.
+.	(16fff\LL	.
+.	16ggg\JJ	.
+=18	=18	=18
+8bn'\ 8dd'\ 8ff'\	8aaa-'\L)	f
+8r	8ddd'\	.
+4r	8fff'\	.
+.	8bbn'\J	.
+=19	=19	=19
+2r	8ddd'\L	>
+.	8aa-'\	.
+.	8bbn'\	.
+.	8ff'\J	.
+=20	=20	=20
+8r	8aa-'\	mf
+8bn'\L	8r	.
+8dd'\J	8r	.
+8r	8ff'\	.
+=21	=21	=21
+8r	8aa-'\	>
+8bn'\L	8r	.
+8dd'\J	8r	.
+8r	8ff'\	.
+=22	=22	=22
+8r	8aa-'\	.
+8bn'\L	8r	.
+8dd'\J	8r	.
+8r	8ff\	.
+=23	=23	=23
+!!linebreak:default
+8r	8aa-'\	.
+8bn'\L	8r	.
+8dd'\	8r	.
+8cc'^\J	8ff'\ 8aan'\	p
+=24	=24	=24
+8bn'^\	8dd'^\ 8gg'^\L	.
+8r	8dd'\	.
+8b-'\	8ee'\	.
+8r	8cc'\J	.
+=25	=25	=25
+.	ggq/	.
+(8.a/L	(16ff\LL	.
+.	16ee\	.
+.	16ff\	.
+16g/k	16gg\J	.
+8f'/J)	8aa'\J)	.
+8a'/	8cc'\	mf
+=26	=26	=26
+(8g/L	(8b-^\L	.
+8c'/)	8cc'\)	.
+8f'/	8a'\	.
+8c'/J	8ff'\J	.
+=27	=27	=27
+4.e/ 4.g/	8r	<
+.	8cc'^\L	.
+.	8ccc'^\J	.
+(8ee-\	(8ccc\	mf
+=28	=28	=28
+8dd\)	8bbn'\L)	.
+8r	8ff'\	.
+8dd-'\	8bb-'\	.
+8r	8ff'\J	.
+=29	=29	=29
+!!linebreak:default
+(16cc\LL	(16aa\LL	.
+16b-\	16gg\	.
+16a\	16ff\	.
+16b-\JJ	16gg\J	.
+8cc'/L)	8aa'\J)	.
+8f'/J	8r	.
+=30	=30	=30
+(16a/LL	(16ff\LL	mp
+16g/	16ee\	.
+16f/	16dd\	.
+16g/JJ	16ee\J	.
+8a'/L)	8ff'\J)	.
+8d'/J	8r	.
+=31	=31	=31
+(16f/LL	(16dd\LL	p
+16e-/	16cc\	.
+16d/	16b-\	.
+16e-/JJ	16cc\J	.
+8f'/L)	8dd'\J)	.
+8B-'/J	8r	.
+=32	=32	=32
+4r	4r	.
+8r	8r	.
+*clefF4	*	*
+8A'\	8a'/	f
+=33	=33	=33
+8B-'\L	8b-'/L	.
+8G'\	8g'/	.
+8c'\	8cc'/	.
+8C'^\J	8c'^/J	.
+=34	=34	=34
+8F'^\	8f'^/	.
+8r	8r	.
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2011/08/24
+!!!ONB: Translated from SharpEye MusicXML to Humdrum on 2011/08/24
+!!!SMS: http://icking-music-archive.org/scores/hofmann/Op_77/hofmann-schelm.pdf
+!!!EEV: Hans-Peter Beer <dr.burmester-beer@t-online.de>
+!!hum2abc: --spacing 2.0 -s 0.9
+!!muse2ps: z21jc80v100,130C^@{COM}\n@{OPS}, @{ONM}^

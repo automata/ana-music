@@ -1,0 +1,287 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31/-1828/11/19/
+!!!CNT: Austrian
+!!!OTL@@DE: Variationen &uuml;ber ein Thema von Anselm H&uuml;ttenbrenner
+!!!OTL@EN: 13 Variations on a Theme by Anselm H&uuml;ttenbrenner
+!!!OKY: A Minor
+!!!SCT: D 576
+!!!PDT: 1867///
+!!!ODT: 1817/08//
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!OMD: Var. 10
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+*MM72	*MM72
+*>[A,A,B,B]	*>[A,A,B,B]
+*>A	*>A
+4AA 4A	32ee
+.	32eee
+.	32ccc
+.	32aa
+.	32ee
+.	32ee
+.	32cc
+.	32a
+8BB 8B	32e
+.	32ee
+.	32dd
+.	32g#
+8AA 8A	32e
+.	32ee
+.	32cc
+.	32a
+=169	=169
+4GG# 4G#	32ee
+.	32eee
+.	32ddd
+.	32bb
+.	32ee
+.	32ee
+.	32dd
+.	32b
+8FF# 8F#	32e
+.	32ee
+.	32b
+.	32a
+8GG# 8G#	32e
+.	32ee
+.	32dd
+.	32b
+=169	=169
+4AA 4A	32ee
+.	32eee
+.	32ccc
+.	32aa
+.	32ee
+.	32ee
+.	32cc
+.	32a
+8FFn 8Fn	32d
+.	32ff
+.	32dd
+.	32a
+8DD 8D	32f
+.	32aa
+.	32ff
+.	32dd
+=170	=170
+4.GG 4.G	32gg
+.	32ggg
+.	32ddd
+.	32bb
+.	32gg
+.	32gg
+.	32dd
+.	32b
+.	32g
+.	32g
+.	32d
+.	32B
+32GG	8G
+32GG	.
+32DD	.
+32BBB	.
+=171	=171
+4GGG 4GG	32gg
+.	32ggg
+.	32ddd
+.	32bb
+.	32gg
+.	32gg
+.	32dd
+.	32b
+8AAA 8AA	32f
+.	32gg
+.	32dd
+.	32cc
+8BBB 8BB	32f
+.	32gg
+.	32ff
+.	32dd
+=172	=172
+4CC 4C	32ee
+.	32eee
+.	32ccc
+.	32gg
+.	32ee
+.	32ee
+.	32cc
+.	32g
+8BBB 8BB	32e
+.	32ee
+.	32dd
+.	32g#
+8AAA 8AA	32e
+.	32ee
+.	32cc
+.	32a
+=173	=173
+4EE 4E	32ee
+.	32eee
+.	32ccc
+.	32aa
+.	32ee
+.	32ee
+.	32cc
+.	32a
+4EE 4E	32d
+.	32ee
+.	32b
+.	32g#
+.	32d
+.	32bb
+.	32gg#
+.	32dd
+=174	=174
+4.AAA 4.AA	32cc
+.	32aa
+.	32ee
+.	32cc
+.	32a
+.	32a
+.	32e
+.	32c
+.	32A
+.	32a
+.	32e
+.	32c
+8r	8A
+=175	=175
+*>B	*>B
+4AAA 4AA	32a
+.	32aa
+.	32gg
+.	32cc#
+.	32a
+.	32a
+.	32g
+.	32c#
+8BBB 8BB	32A
+.	32a
+.	32g
+.	32d
+8CC# 8C#	32A
+.	32a
+.	32g
+.	32e
+=176	=176
+4DD 4D	32a
+.	32aa
+.	32ff
+.	32dd
+.	32a
+.	32a
+.	32f
+.	32d
+8FF 8F	32A
+.	32a
+.	32f
+.	32d
+8CCn 8Cn	32A#
+.	32a#
+.	32g
+.	32e
+=177	=177
+4BBB 4BB	32b
+.	32bb
+.	32aa
+.	32dd#
+.	32b
+.	32b
+.	32a
+.	32d#
+8CC# 8C#	32B
+.	32b
+.	32a
+.	32e
+8DD# 8D#	32B
+.	32b
+.	32a
+.	32f#
+=178	=178
+4EE 4E	32b
+.	32bb
+.	32gg#
+.	32ee
+.	32b
+.	32b
+.	32g#
+.	32e
+8GGn 8Gn	32B
+.	32b
+.	32gn
+.	32e
+8DD 8D	32B
+.	32b
+.	32g
+.	32fn
+=179	=179
+4CC 4C	32cc
+.	32ccc
+.	32gg
+.	32ee
+.	32cc
+.	32cc
+.	32g
+.	32e
+8AAA 8AA	32c
+.	32cc
+.	32a
+.	32e
+8GGG 8GG	32c#
+.	32cc#
+.	32b-
+.	32e
+=180	=180
+4FFF# 4FF#	32dd
+.	32ddd
+.	32aa
+.	32ff#
+.	32dd
+.	32dd
+.	32a
+.	32f#
+8FF# 8F#	32d
+.	32dd
+.	32a
+.	32f#
+8FFn 8Fn	32d#
+.	32dd#
+.	32ccn
+.	32a
+=181	=182
+4EE 4E	32ee
+.	32eee
+.	32ccc
+.	32aa
+.	32ee
+.	32ee
+.	32cc
+.	32a
+4EE 4E	32d
+.	32ee
+.	32b
+.	32g#
+.	32d
+.	32bb
+.	32gg#
+.	32dd
+=183	=183
+4.AAA 4.AA	32cc
+.	32aa
+.	32ee
+.	32cc
+.	32a
+.	32a
+.	32e
+.	32c
+.	32A
+.	32a
+.	32e
+.	32c
+8r	8A
+=:|!	=:|!
+*-	*-

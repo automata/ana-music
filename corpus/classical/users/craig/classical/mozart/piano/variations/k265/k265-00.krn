@@ -1,0 +1,106 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756///-1791///
+!!!CNT: Austrian
+!!!OTL: 12 Variations on Ah vous dirai-je, maman
+!!!OKY: C Major
+!!!SCT: K 256
+!!!SCT: K6 300e
+!!!ODT: 1781-1782///
+!!!OCY: Vienna
+!!!ENC: Craig Sapp
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!OMD: Thema
+**kern	**kern
+*lh	*rh
+*Ipiano	*Ipiano
+*k[]	*k[]
+*C:	*C:
+*M2/4	*M2/4
+*MM120	*MM120
+*>[A,A,B,B]	*>[A,A,B,B]
+=1-	=1-
+*>A	*>A
+4C	4cc
+4c	4cc
+=2	=2
+4e	4gg
+4c	4gg
+=3	=3
+4f	4aa
+4c	4aa
+=4	=4
+4e	4gg
+4c	4gg
+=5	=5
+4d	4ff
+4B	4ff
+=6	=6
+4c	4ee
+4A	4ee
+=7	=7
+4F	4dd
+4G	8.dd
+.	16ee
+=8	=8:!!:
+2C	2cc
+=9:!!:	=9:!!:
+*>B	*>B
+4e	4gg
+4G	4gg
+=10	=10
+4d	4ff
+4G	4ff
+=11	=11
+4c	4ee
+4G	4ee
+=12	=12
+4B	4dd
+4G	4dd
+=13	=13
+4e	4gg
+4G	4gg
+=14	=14
+4d	4ff
+4G	4ff
+=15	=15
+4c	4ee
+8.c	32fq
+.	32eq
+.	32dq
+.	8.ee
+16d	16f
+=16	=16
+*^	*
+2G	4c	4dd
+.	4B	4dd
+*v	*v	*
+=17	=17
+4C	4cc
+4c	4cc
+=18	=18
+4e	4gg
+4c	4gg
+=19	=19
+4f	4aa
+4c	4aa
+=20	=20
+4e	4gg
+4c	4gg
+=21	=21
+4d	4ff
+4B	4ff
+=22	=22
+4c	4ee
+4A	4ee
+=23	=23
+4F	4dd
+4G	32eq
+.	32dq
+.	32cq
+.	8.dd
+.	16e
+=24	=24
+2C	2cc
+==:|!	==:!|
+*-	*-

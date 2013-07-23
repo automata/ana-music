@@ -1,0 +1,90 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in C Minor, Op. 67, No. 20
+!!!OPS: Op. 67
+!!!ONM: No. 20
+!!!OMD: Andante con moto
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*c:	*c:	*c:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM100	*MM100	*MM100
+=1-	=1-	=1-
+*^	*	*
+8r	[1CC	2r	p
+16r	.	.	.
+16DD/	.	.	.
+16EE-/LL	.	.	.
+16FF#/	.	.	.
+16GG/	.	.	.
+16BBn/JJ	.	.	.
+*	*	*clefF4	*clefF4
+&([2C/&)	.	16r	.
+.	.	(16G\LL	<
+.	.	16E-\	.
+.	.	16c\JJ	.
+.	.	16F\LL	.
+.	.	16d-\	.
+.	.	16A-\	.
+.	.	16dn\JJ	.
+=2	=2	=2	=2
+*	*	*clefG2	*clefG2
+*	*	*^	*
+2C/_	2CC\]	16G/LL	8G\L	<
+.	.	16e-/	.	.
+.	.	16B-/	8B-\	.
+.	.	16en/JJ	.	.
+.	.	16An/LL	8An\	.
+.	.	16f/	.	.
+.	.	16e-/	8e-\J	.
+.	.	16f#/JJ)	.	f
+4B-/	2C\_	16r	8r	.
+.	.	(16en/LL	.	.
+.	.	16d-/	8d-\L	.
+.	.	16g/JJ	.	.
+8An/L	.	16c/LL	8c\	.
+.	.	16g/	.	.
+8A-/J	.	16f#/	8f#\J	.
+.	.	16cc/JJ	.	.
+=3	=3	=3	=3	=3
+8G/L	2C\]	16g/LL	8g\L	.
+.	.	16bn/	.	.
+8F/	.	16a-/	8a-\	.
+.	.	16dd/JJ	.	.
+8E-/	.	16g/LL	8g\	.
+.	.	16cc/	.	.
+&(8D/J&)	.	16bn/	8bn\J	.
+.	.	16ff/JJ	.	.
+(16E-/LL	16C\LL	16ee-/LL	2r	>
+16F/J	16D\	16b/	.	.
+8G/J)	16E-\	16cc/	.	.
+.	16En\JJ	16g/JJ	.	.
+4r	16F\LL	16a-/LL	.	.
+.	16G\	16en/	.	.
+.	16A-\	16f/	.	.
+.	&(16F\JJ&)	16d/JJ)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+*	*clefF4	*clefF4
+=4	=4	=4
+*	*^	*
+4GG/	(4Bn/	4D\ 4F\	p
+4FF#/	[4c/	4E-\ 4An\	.
+4FFn/	4A-^/ 4c^/]	2D\	.
+4GG/	4F/ 4G/ 4B/)	.	.
+*	*v	*v	*
+=5	=5	=5
+1CC; 1EE-; 1GG; 1C;	1E-; 1G; 1c;	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/13/
+!!!EEV: 2008/06/13/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

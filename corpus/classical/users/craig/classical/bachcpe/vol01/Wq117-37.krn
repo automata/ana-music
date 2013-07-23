@@ -1,0 +1,206 @@
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!OPR: Petites Pi&egrave;ces pour le Clavecin
+!!!ONM: No. 1
+!!!OTL: La Gause
+!!!ODT: 1754///
+!!!OMD: Allegretto
+!!!SCT: W. 117/37
+!!!SCA: Wotquenne 117/37
+!!!SCT: H. 82
+!!!SCA: Helm 82
+!!!SCT: N77/1
+!!!SCA: Nachlassverzeichniss N77/1
+!!!PC#: PHI*CPEB:CW I/8.2
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Iforte	*Iforte	*Iforte
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:
+*M2/4	*M2/4	*M2/4
+*MM110	*MM110	*MM110
+=1-	=1-	=1-
+4F\	8a\ 8cc\	.
+.	4a\ 4cc\	.
+4BB-/	.	.
+.	8b-\ 8dd\	.
+=2	=2	=2
+4C/	8a\ 8cc\	.
+.	4g/ 4b-/	.
+4D\	.	.
+.	8f/ 8a/	.
+=3	=3	=3
+8r	8.g\L	.
+8BB-/	.	.
+.	16dd\Jk	.
+8C/L	(16cc/LL	.
+.	16b-/)	.
+8CC/J	(16a/	.
+.	16g/JJ)	.
+=4	=4	=4
+4FF/	(16.g/LL	.
+.	32b-/k	.
+.	16a/)	.
+.	16g/JJ	.
+8AA/L	4f/	.
+8C/J	.	.
+=5	=5	=5
+.	ccq/	.
+4F\	8ccS\	.
+.	4aa\	.
+4E\	.	.
+.	8gg\	.
+=6	=6	=6
+.	b-q/	.
+4D\	8b-S\	.
+.	4ff\	.
+4C/	.	.
+.	8ee\	.
+=7	=7	=7
+4F\	16r	p
+.	(16cc\LL	.
+.	16ff\	.
+.	16aa\JJ)	.
+4E\	(8aa\L	.
+.	8gg\J)	.
+=8	=8	=8
+4D\	16r	.
+.	(16bn\LL	.
+.	16dd\	.
+.	16ff\JJ)	.
+4C/	(8ff\L	.
+.	8ee\J)	.
+=9	=9	=9
+2FF/	16r	f
+.	(16dd\LL	.
+.	16ff\	.
+.	16aa\JJ)	.
+.	(16gg\LL	.
+.	16ff\)	.
+.	(16ee\	.
+.	16dd\JJ)	.
+=10	=10	=10
+4GG/	(16cc\LL	.
+.	16bn\)	.
+.	(16dd\	.
+.	16ff\JJ)	.
+8r	4f/	.
+8BBn/	.	.
+=11	=11	=11
+8C/L	(16f/LL	.
+.	16e/)	.
+8AA/	(16d/	.
+.	16c/JJ)	.
+8FF/	4dO/	.
+8GG/J	.	.
+=12	=12	=12
+8C/L	4c/	.
+8GG/J	.	.
+4CC/	4r	.
+=13:|!|:	=13:|!|:	=13:|!|:
+*>B	*>B	*>B
+4C/	8e/ 8g/	.
+.	4cc\	.
+4AA/	.	.
+.	(16b-/LL	.
+.	16a/JJ)	.
+=14	=14	=14
+8r	(4g/	.
+(8E-\L	.	.
+8D\	8f#\L)	.
+8C\J)	8ee-\J	.
+=15	=15	=15
+.	ddq/LL	.
+.	ffnq/JJ	.
+4BB-/	8ee-\	.
+.	4dd\	.
+4AA/	.	.
+.	8cc\	.
+=16	=16	=16
+8GG/L	(16b-/LL	.
+.	16a/J	.
+16BB-/L	8g/J)	.
+16D/JJ	.	.
+8G\L	8r	.
+8F\J	[8dd\ [8bb-\	.
+=17	=17	=17
+4E\	8dd\] 8bb-\L]	.
+.	8b-\ 8dd\	.
+4F\	8a\ 8cc\	.
+.	[8cc\ [8aa\J	.
+=18	=18	=18
+4D\	8cc\] 8aa\L]	.
+.	8a\ 8cc\	.
+4E\	8g\ 8b-\	.
+.	[8b-\ [8gg\J	.
+=19	=19	=19
+4F\	8b-\] 8gg\L]	.
+.	8g\ 8b-\	.
+4BBn/	8f\ 8a\	.
+.	8a\ 8ff\J	.
+=20	=20	=20
+.	b-q/	.
+4C/	8f/ 8a/L	.
+.	8e/ 8g/J	.
+4CC/	4r	.
+=21	=21	=21
+.	fq/	.
+8r	8fS/	.
+8B-\	4dd\	.
+4A\	.	.
+.	8cc\	.
+=22	=22	=22
+.	eq/	.
+4G\	8eS/	.
+.	4b-\	.
+4F\	.	.
+.	8a/	.
+=23	=23	=23
+4B-\	16r	p
+.	(16ff\LL	.
+.	16bb-\	.
+.	16ddd\JJ)	.
+4A\	(8ddd\L	.
+.	8ccc\J)	.
+=24	=24	=24
+4G\	16r	.
+.	(16ee\LL	.
+.	16gg\	.
+.	16bb-\JJ)	.
+4F\	(8bb-\L	.
+.	8aa\J)	.
+=25	=25	=25
+2BB-/	16r	f
+.	(16gg\LL	.
+.	16bb-\	.
+.	16ddd\JJ)	.
+.	(16ccc\LL	.
+.	16bb-\)	.
+.	(16aa\	.
+.	16gg\JJ)	.
+=26	=26	=26
+4C/	(16ff\LL	.
+.	16ee\)	.
+.	(16gg\	.
+.	16bb-\JJ)	.
+8r	4b-\	.
+8E\	.	.
+=27	=27	=27
+8F\L	(16b-/LL	.
+.	16a/)	.
+8D\	(16g/	.
+.	16f/JJ)	.
+8BB-\	4gO/	.
+8C\J	.	.
+=28	=28	=28
+8F\L	4f/	.
+8C\J	.	.
+4FF/	4r	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2008/02/12/

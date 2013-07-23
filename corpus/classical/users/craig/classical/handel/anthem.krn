@@ -1,0 +1,132 @@
+!!!COM: Handel, Georg Frideric
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!OTL: Anthem II ("In the Lord put I my trust")
+!!!SCT: HWV 247
+!!!SCA: H&auml;ndel Werke Verzeichnis
+!!!SCT: HHA iii/4, 51
+!!!SCA: Hallische H&auml;ndel-Ausgabe im Auftrage der Georg Friedrich H&auml;ndel-Gesellschaft, ed. M. Schneider, R. Steglich and others (Kassel, 1955) [HHA]
+!!!SCT: HG xxxiv, 3
+!!!SCA: George Friedrich H&auml;ndels Werke: Ausgabe der Deutschen H&auml;ndelgesellschaft, ed. F.W. Chrysander, ixlviii, lxcvi, suppls.ivi (Leipzig and Bergedorf bei Hamburg, 185894, 1902/R) [HG]
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+=1-	=1-	=1-	=1-
+*clefG2	*clefF4	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4
+8r	1r	8r	1r
+8d/L	.	8d\L	.
+8f/	.	8f\	.
+8f/J	.	8f\J	.
+4e/	.	4e\	.
+4A/	.	4A/	.
+=2	=2	=2	=2
+8d/L	1r	8d\L	1r
+8e/	.	8e\	.
+8f#/	.	8f#\	.
+8d/J	.	8d\J	.
+8g/L	.	8g\L	.
+8d/J	.	8d\J	.
+[4g/	.	[4g\	.
+=3	=3	=3	=3
+8g\L]	1r	8g\L]	2r
+8e\	.	8e\	.
+8f\	.	8f\	.
+8g\J	.	8g\J	.
+*^	*	*	*
+[2a\	8r	.	[2a\	8r
+.	8a/L	.	.	8a\L
+.	8cc/	.	.	8cc\
+.	8cc/J	.	.	8cc\J
+=4	=4	=4	=4	=4
+4.a\]	4bn/	1r	4.a\]	4bn\
+.	4e/	.	.	4e/
+8g\	.	.	8g\	.
+4f\	8a/L	.	4f\	8a\L
+.	8b/	.	.	8b\
+4e\	8cc#/	.	4e\	8cc#\
+.	8a/J	.	.	8a\J
+=5	=5	=5	=5	=5
+4.d\	8dd/L	1r	4.d\	8dd\L
+.	8a/J	.	.	8a\J
+.	[4dd/	.	.	[4dd\
+8f\	.	.	8f\	.
+4e\	8dd/L]	.	4e\	8dd\L]
+.	8bn/	.	.	8bn\
+[4a\	8cc/	.	4a\	8cc\
+.	8dd/J	.	.	8dd\J
+*v	*v	*	*	*
+=6	=6	=6	=6
+4a/]	1r	4a\	8ee\L
+.	.	.	8bn\
+4g#/	.	4g#\	8ee\
+.	.	.	8dd\J
+4.a/	.	4a\	8cc#\L
+.	.	.	8a\J
+.	.	8r	4ff\
+8A/	.	8A/	.
+=7	=7	=7	=7
+4.B-/	2r	4.B-\	8r
+.	.	.	8dd\
+.	.	.	[4gg\
+8c/	.	8c\	.
+8d/L	8r	8d\L	8gg\L]
+*clefF4	*	*	*
+8D/	8D\L	8A\	8ff\
+8F/	8F\	8a\	8ee\
+8F/J	8F\J	8a\J	8dd\J
+=8	=8	=8	=8
+4E\	4E\	4.g\	4dd\
+4AA/	4AA/	.	4cc#\
+.	.	8a\	.
+8D\L	8D\L	8f#\L	4dd\
+8E\	8E\	8g\	.
+8F#\	8F#\	8a\	4ccn\
+8D\J	8D\J	8f#\J	.
+=9	=9	=9	=9
+8G\L	8G\L	4.d\	4.b-\
+8D\J	8D\J	.	.
+[4G\	[4G\	.	.
+.	.	8e\	8b-\
+8G\L]	8G\L]	4c#\	4.a/
+8E\	8E\	.	.
+8F\	8F\	4d\	.
+8G\J	8G\J	.	8b-\
+=10	=10	=10	=10
+8A\L	8A\L	4d\	4e/
+8E\J	8E\J	.	.
+[4A\	[4A\	4cn\	8r
+.	.	.	8ee\
+8A\L]	8A\L]	4Bn\	8dd\L
+8A\J	8A\J	.	8ff\
+4G#\	8.G#\L	8r	8ee\
+.	.	8B\	8dd\J
+.	16G#\Jk	.	.
+=11	=11	=11	=11
+4A\	4A\	4e\	8cc#\L
+.	.	.	8a\J
+8r	8r	8r	4ff\
+8AA/	8AA/	8c#\	.
+4BB-/	4BB-/	4d\	8r
+.	.	.	8dd\
+8r	8r	8r	4gg\
+8BBn/	8BBn/	8d\	.
+=12	=12	=12	=12
+4C/	4C/	4e\	8r
+.	.	.	8e/
+8r	8r	8r	4a/
+8C#/	8C#/	8e\	.
+4.D\	4.D\	4.f\	8r
+.	.	.	8f/
+.	.	.	[4b-\
+8E\	8E\	8g\	.
+=13	=13	=13	=13
+8F\L	8F\L	8c\L	4b-\]
+8G\	8G\	8e\	.
+8A\	8A\	8f\	4a/
+8B-\J	8B-\J	8g\J	.
+2c\	2c\	8e\L	2g/
+.	.	8c\	.
+.	.	8d\	.
+.	.	8e\J	.
+*-	*-	*-	*-

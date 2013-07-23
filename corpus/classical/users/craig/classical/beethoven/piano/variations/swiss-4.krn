@@ -1,0 +1,154 @@
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770///-1827///
+!!!OTL: Six Variations on a Swiss Song
+!!!OMV: Variation 4
+!!!OMD: Tempo primo e un poco animato
+!!!OPS: WO 64
+!!!ODT: ~1791///
+!!!AGN: Variations
+**kern	**dynam	**kern	**dynam
+*Ipiano	*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM126	*MM126	*MM126	*MM126
+4r	.	4c'/ 4cc'/	f
+=51	=51	=51	=51
+12FF/L	.	4f'\ 4ff'\	.
+12C/	.	.	.
+12F/J	.	.	.
+12FF/L	.	4g'\ 4gg'\	.
+12C/	.	.	.
+12F/J	.	.	.
+12FF/L	.	4a'\ 4aa'\	.
+12C/	.	.	.
+12F/J	.	.	.
+12FF/L	.	4f'\ 4ff'\	.
+12C/	.	.	.
+12F/J	.	.	.
+=52	=52	=52	=52
+12EE/L	.	2cc^\ 2ccc^\	.
+12C/	.	.	.
+12E/J	.	.	.
+12EE/L	.	.	.
+12C/	.	.	.
+12E/J	.	.	.
+12BB-/L	.	2g^\ 2gg^\	.
+12C/	.	.	.
+12E/J	.	.	.
+12BB-/L	.	.	.
+12C/	.	.	.
+12E/J	.	.	.
+=53	=53	=53	=53
+12AA/L	.	2.f^\ 2.ff^\	.
+12C/	.	.	.
+12F/J	.	.	.
+12AA/L	.	.	.
+12C/	.	.	.
+12F/J	.	.	.
+12AA-/L	.	.	.
+12C/	.	.	.
+12F#/J	.	.	.
+12AA-/L	.	4cc'\ 4ccc'\	.
+12C/	.	.	.
+12F#/J	.	.	.
+=54	=54	=54	=54
+12GG/L	.	4cc'\ 4ccc'\	.
+12C/	.	.	.
+12G/J	.	.	.
+12GG/L	.	4dd'\ 4ddd'\	.
+12C/	.	.	.
+12G/J	.	.	.
+12AA/L	.	4ee'\ 4eee'\	.
+12C/	.	.	.
+12E/J	.	.	.
+12AA/L	.	4cc'\ 4ccc'\	.
+12C/	.	.	.
+12E/J	.	.	.
+=55	=55	=55	=55
+12FF/L	.	2ff\ 2fff\	.
+12AA/	.	.	.
+12D/J	.	.	.
+12FF/L	.	.	.
+12AA/	.	.	.
+12D/J	.	.	.
+12GG/L	.	2dd^\ 2ddd^\	.
+12BB/	.	.	.
+12F/J	.	.	.
+12GG/L	.	.	.
+12BB/	.	.	.
+12F/J	.	.	.
+=56	=56	=56	=56
+12C\L	.	2.cc^\ 2.ccc^\	.
+12E\	.	.	.
+12G\J	.	.	.
+12c\L	.	.	.
+12G\	.	.	.
+12E\J	.	.	.
+4C/	.	.	.
+4r	.	4cc'\ 4ccc'\	.
+=57	=57	=57	=57
+12r	.	4ff\ (4fff\	.
+12C/L	.	.	.
+12F/J	.	.	.
+12AA/L	.	4ee\ 4eee\	.
+12C/	.	.	.
+12F/J	.	.	.
+12BB-/L	.	4dd\ 4ddd\	.
+12D/	.	.	.
+12F/J	.	.	.
+12AA/L	.	4cc'\ 4ccc'\)	.
+12C/	.	.	.
+12F/J	.	.	.
+=58	=58	=58	=58
+12FF/L	.	4ff^\ (4fff^\	.
+12C/	.	.	.
+12F/J	.	.	.
+12AA/L	.	4ee\ 4eee\	.
+12C/	.	.	.
+12F/J	.	.	.
+12BB-/L	.	4dd\ 4ddd\)	.
+12D/	.	.	.
+12F/J	.	.	.
+12BB-/L	.	4c'/ 4cc'/	.
+12C/	.	.	.
+12E/J	.	.	.
+=59	=59	=59	=59
+12AA/L	.	4f'\ 4ff'\	.
+12C/	.	.	.
+12F/J	.	.	.
+12BB-/L	.	4g'\ 4gg'\	.
+12D/	.	.	.
+12F/J	.	.	.
+12C\L	.	4a'\ 4aa'\	.
+12E-\	.	.	.
+12F\J	.	.	.
+12D\L	.	4b-'\ 4bb-'\	.
+12F\	.	.	.
+12B-\J	.	.	.
+=60	=60	=60	=60
+12E\L	.	2cc^\ 2ccc^\	.
+12G\	.	.	.
+12B-\J	.	.	.
+12F\L	.	.	.
+12A\	.	.	.
+12F\J	.	.	.
+12D\L	.	2g^\ 2gg^\	.
+12F\	.	.	.
+12B\J	.	.	.
+12C\L	.	.	.
+12E\	.	.	.
+12B-\J	.	.	.
+=61	=61	=61	=61
+12r	.	2.f^\ 2.ff^\	.
+12A\L	.	.	.
+12F\J	.	.	.
+12C\L	.	.	.
+12F\	.	.	.
+12C\J	.	.	.
+4FF/	.	.	.
+==;	==;	==;	==;
+*-	*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/06/07/

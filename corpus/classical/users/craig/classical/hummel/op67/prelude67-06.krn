@@ -1,0 +1,150 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in B Minor, Op. 67, No. 6
+!!!OPS: Op. 67
+!!!ONM: No. 6
+!!!OMD: Allegro non troppo
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefF4	*clefF4
+*k[f#c#]	*k[f#c#]	*k[f#c#]
+*b:	*b:	*b:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM110	*MM110	*MM110
+=1-	=1-	=1-
+*	*^	*
+2BBB/ 2BB/	16r	16r	p
+.	8.d/	(16d\LL	.
+.	.	16A#\	.
+.	.	16B\JJ	.
+.	16r	4D\	.
+.	16F#/LL	.	.
+.	16B/	.	.
+.	16d/JJ	.	.
+2C#/	16r	16r	.
+.	8.e/	16e\LL	.
+.	.	16B\	.
+.	.	16A#\JJ	.
+.	16r	4c#\	.
+.	16E/LL	.	.
+.	16G/	.	.
+.	16A#/JJ)	.	.
+=2	=2	=2	=2
+*^	*	*	*
+2D#/	1BB	16r	16r	.
+.	.	8.f#/	(16f#\LL	.
+.	.	.	16B\	.
+.	.	.	16An\JJ	.
+.	.	16r	4cn\	.
+.	.	16F#/LL	.	.
+.	.	16A/	.	.
+.	.	16c/JJ	.	.
+*	*	*v	*v	*
+*	*	*clefG2	*clefG2
+*	*	*^	*
+2E/	.	16r	16r	.
+.	.	8.g/	16g\LL	.
+.	.	.	16d#\	.
+.	.	.	16e\JJ	.
+.	.	16r	4G\	.
+.	.	16B/LL	.	.
+.	.	16e/	.	.
+.	.	16g/JJ)	.	.
+=3	=3	=3	=3	=3
+2F#/	1BB	16r	16r	.
+.	.	8.a#/	(16a#\LL	<
+.	.	.	16c#\	.
+.	.	.	16e\JJ	.
+.	.	16r	4A#\	.
+.	.	16c#/LL	.	.
+.	.	16e/	.	.
+.	.	16a#/JJ	.	.
+2G#/	.	16r	16r	.
+.	.	8.b/	16b\LL	.
+.	.	.	16dn\	.
+.	.	.	16e#\JJ	.
+.	.	16r	4B\	.
+.	.	16d/LL	.	.
+.	.	16e#/	.	.
+.	.	16b/JJ)	.	.
+=4	=4	=4	=4	=4
+2A#/	2BB\	16r	16r	.
+.	.	8.cc#/	(16cc#\LL	.
+.	.	.	16en\	.
+.	.	.	16gn\JJ	.
+.	.	16r	4c#\	.
+.	.	16e/LL	.	.
+.	.	16f#/	.	.
+.	.	16cc#/JJ	.	.
+2B/	4BB\	16r	16r	.
+.	.	8.dd/	16dd\LL	f
+.	.	.	16f#\	.
+.	.	.	16b\JJ	.
+.	4E#\	16r	4d\	.
+.	.	16g#/LL	.	.
+.	.	16b/	.	.
+.	.	16dd/JJ)	.	.
+=5	=5	=5	=5	=5
+4A#/	4F#\	16r	16r	.
+.	.	8.cc#/	(16cc#\LL	>
+.	.	.	16f#\	.
+.	.	.	16a#\JJ	.
+(4An/	4D#\	16r	4cn\	.
+.	.	16f#/LL	.	.
+.	.	16an/	.	.
+.	.	16ccn/JJ	.	.
+4G#/)	&(4En\&)	16r	16r	.
+.	.	8.b/	16b\LL	.
+.	.	.	16e\	.
+.	.	.	16g#\JJ	.
+(4Gn/	4C#\	16r	4A#\	.
+.	.	16e/LL	.	.
+.	.	16gn/	.	.
+.	.	16a#/JJ)	.	.
+=6	=6	=6	=6	=6
+4F#/)	&(4Dn\&)	16r	16r	.
+.	.	(8.b/	16b\LL	.
+.	.	.	16f#\	.
+.	.	.	[16B\JJ	.
+4Cn/ [4E/	4EE\	16B/LL]	16r	.
+.	.	16cn/	8.cn\	.
+.	.	16e/	.	.
+.	.	[16g/JJ	.	.
+!! ritard
+4BB/ 4E/_	4GG\	16g/LL]	16r	.
+.	.	16e/	8.e\	.
+.	.	16c#/	.	.
+.	.	16B/JJ	.	.
+*MM100	*MM100	*MM100	*MM100	*MM100
+4C#/ 4E/]	4FF#\	16B/LL	16r	.
+.	.	16A#/	8.A#\	.
+.	.	16c#/	.	.
+.	.	16f#/JJ)	.	.
+*	*	*v	*v	*
+=7	=7	=7	=7
+*MM80	*MM80	*MM80	*MM80
+8r	2BBB\	4r	.
+16DD/LL	.	.	.
+(16FF#/JJ	.	.	.
+*	*	*clefF4	*clefF4
+4BB/)	.	32r	.
+.	.	32D\LLL	.
+.	.	32F#\	.
+.	.	32B\	.
+.	.	32d\	.
+.	.	32B\	.
+.	.	32F#\	.
+.	.	32D\JJJ	.
+2r	2BBB\	2r	.
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/14/
+!!!EEV: 2008/06/14/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

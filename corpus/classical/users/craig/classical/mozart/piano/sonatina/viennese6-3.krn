@@ -1,0 +1,118 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756///-1791///
+!!!OTP: Viennese Sonatina No. 6 in C-major
+!!!OTL: Sonatina in C-major
+!!!OMV: No. 3
+!!!GNM: No. 6
+!!!OMD: Adagio
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM64	*MM64	*MM64
+=1-	=1-	=1-
+4C/	2e/ (2g/	p
+4GG/	.	.
+4EE/	4g/ 4cc/	.
+4CC/	4cc\ 4ee\	.
+=2	=2	=2
+&(4GG/&)	8cc\ 8ee\L	.
+.	8b\ 8dd\J	.
+4G\	2b\ 2dd\)	.
+4F\	.	.
+4E\	4cc#\ (4ee\	.
+=3	=3	=3
+4.D\	8.dd\ 8.ff\L	<
+.	16ee\ 16gg\Jk	.
+.	2ff\ 2aa\	.
+8C/	.	.
+4BB/	.	.
+4C/	4ee\ 4gg\	>
+=4	=4	=4
+&(4GG/&)	8ee\ 8gg\L	.
+.	8dd\ 8ff\J	.
+4C/	4cc\ 4ee\)	.
+2r	4r	.
+.	(8.ee\L	mf
+.	16cc\Jk	.
+=5	=5	=5
+*	*^	*
+4r	2.gg/)	4r	.
+4B\	.	(4dd\	.
+4c\	.	[2ee\)	.
+4c#\	(4aa/	.	.
+=6	=6	=6	=6
+&(2.d\&)	2.ff/	4ee\])	.
+.	.	8.dd\L	.
+.	.	16cc\Jk	.
+.	.	4b\	.
+4B\	(4gg/	4dd\	.
+*	*v	*v	*
+=7	=7	=7
+4c\	4cc\ 4ee\	.
+4G#\	4b\ 4dd\	.
+4A\	4a\ 4cc\	.
+4F\	4dd\ 4ff\	.
+=8	=8	=8
+4G\	4.cc\ 4.ee\	.
+4GG/	.	.
+.	8dd\ 8ff\	.
+&(4G\&)	4b\ 4dd\)	.
+4r	4r	.
+=9:|!|:	=9:|!|:	=9:|!|:
+2r	4b'\ (4dd'\	p
+.	4b'\ 4dd'\	<
+2G\	4b'\ 4dd'\	.
+.	4b'\ 4dd'\)	.
+=10	=10	=10
+4A-\	4.b\ (4.dd\	.
+2AA-/	.	.
+.	8cc\ 8ee-\)	.
+.	4cc\ 4ee-\	.
+4GG/	4r	.
+=11	=11	=11
+4FF#/	4cc'\ 4ee-'\	mf
+4F#'\	2ee-\ (2aa\	.
+4F#'\	.	.
+&(4F#'\&)	4cc\ 4ee-\	.
+=12	=12	=12
+(4G'\	4.ee-\ 4.gg\	>
+4G'\	.	.
+.	8cc\ 8ee-\	.
+4GG'/)	4b\ 4dd\)	.
+4r	4r	.
+=13	=13	=13
+4C/	2en/ (2g/	p
+4GG/	.	.
+4EE/	4g/ 4cc/	.
+4CC/	4cc\ 4ee\	.
+=14	=14	=14
+&(4GG/&)	8cc\ 8ee\L	.
+.	8b\ 8dd\J	.
+4G\	2b\ 2dd\)	.
+4F\	.	.
+4E\	4cc#\ (4ee\	<
+=15	=15	=15
+4.D\	8.dd\ 8.ff\L)	.
+.	16ee\ (16gg\k	.
+.	8.ff\ 8.aa\)	.
+8F\	.	.
+.	16dd\ (16ff\Jk	.
+4G\	8.ccn\ 8.ee\L)	.
+.	16ee\ (16gg\k	.
+4GG/	8.dd\ 8.ff\)	>
+.	16f\ 16b\ 16dd\Jk	.
+=16	=16	=16
+&(4G\&)	(2f/ 2b/ 2dd/	.
+4GG/	.	.
+4C/	4e/) 4cc/	.
+4r	4r	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/11/17/

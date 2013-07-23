@@ -1,0 +1,213 @@
+!!!COM: Schumann, Robert
+!!!CDT: 1810/06/08/-1856/07/29/
+!!!OTL@@DE: Fr&ouml;hlicher Landmann, von der Arbeit zur&uuml;ckkehrend
+!!!OTL@EN: The Happy Farmer Comes Home
+!!!OMD: Frisch und munter
+!!!OPT@@DE: Album f&uuml;r die Jugend
+!!!OPT@EN: Album for the Young
+!!!ODT: 1848
+!!!OPS: Op. 68
+!!!ONM: No. 10
+!!!ONB: Chord and root analyses done by hand
+!!!YEN: Copyright 2001 by Craig Stuart Sapp
+!!!YEC: United States of America
+**kern	**kern	**root	**harm
+*Ipiano	*Ipiano	*Ibass	*Ipiano
+*clefF4	*clefG2	*root	*
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:
+*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM120	*MM120	*MM120	*MM120
+8C	8r	8r	.
+=1	=1	=1	=1
+4.F	8r	1FF	I
+.	8c 8f 8a	.	.
+.	8c 8f 8a	.	.
+8A	8r	.	.
+4.c	8r	.	.
+.	8f 8a 8cc	.	.
+.	8f 8a 8cc	.	.
+8A	8r	.	.
+=2	=2	=2	=2
+8B-	8r	2BB-	IV
+8d	8f 8b- 8dd	.	.
+8f	8b- 8dd	.	.
+8d	8r	.	.
+4.c	8r	2FF	Ic
+.	8f 8a 8cc	.	.
+.	8f 8a 8cc	.	.
+8A	8r	.	.
+=3	=3	=3	=3
+8B-	8r	2CC	V7
+8G	8e 8b- 8cc	.	.
+8C	4e 4b- 4cc	.	.
+8B-	.	.	.
+8A	8r	2FF	Ic
+8F	8c 8f 8a	.	.
+8C	4c 4f 4a	.	.
+8A	.	.	.
+=4	=4	=4	=4
+4E	8r	4CC	Vb
+.	8c 8g	.	.
+4D	8r	4GG	V7c/V
+.	8f 8g 8bn	.	.
+4C	8r	2CC	V
+.	8e 8g 8cc	.	.
+8r	4e 4g 4cc	.	.
+8C	.	.	.
+=5	=5	=5	=5
+4.F	8r	1FF	I
+.	8c 8f 8a	.	.
+.	8c 8f 8a	.	.
+8A	8r	.	.
+4.c	8r	.	.
+.	8f 8a 8cc	.	.
+.	8f 8a 8cc	.	.
+8A	8r	.	.
+=6	=6	=6	=6
+8B-	8r	2BB-	IV
+8d	8f 8b- 8dd	.	.
+8f	8b- 8dd	.	.
+8d	8r	.	.
+4.c	8r	2FF	Ic
+.	8f 8a 8cc	.	.
+.	8f 8a 8cc	.	.
+8A	8r	.	.
+=7	=7	=7	=7
+8B-	8r	2CC	V7
+8G	8e 8b- 8cc	.	.
+8C	4e 4b- 4cc	.	.
+8B-	.	.	.
+8A	8r	2FF	Ic
+8F	8c 8f 8a	.	.
+8C	4c 4f 4a	.	.
+8A	.	.	.
+=8	=8	=8	=8
+4E	8r	4CC	Vb
+.	8c 8g	.	.
+4D	8r	4GG	V7c/V
+.	8f 8g 8bn	.	.
+4C	8r	2CC	V
+.	8e 8g 8cc	.	.
+8r	8e 8g 8cc	.	.
+8C	8c	.	.
+=9	=9	=9	=9
+*	*^	*	*
+4.G	8r	4.b-	4.CC	V7c
+.	8c 8e	.	.	.
+.	8c 8e	.	.	.
+8F	8r	8a	8FF	I
+4.E	8r	4.g	2CC	V7b
+.	8B- 8c	.	.	.
+.	8B- 8c	.	.	.
+8C	8r	8c	.	.
+=10	=10	=10	=10	=10
+8G	8r	8b-	8GG	ii
+8F	8c	8a	8FF	I
+8E	8c	8g	8CC	Vb
+8D	8Bn	8f	8BBn	viiob/V
+4.E	8r	4.g	2CC	Vb
+.	8c	.	.	.
+.	8c	.	.	.
+8C	8r	8c	.	.
+=11	=11	=11	=11	=11
+4.F	8r	4.f	1FF	I
+.	8A 8c	.	.	.
+.	8A 8c	.	.	.
+8A	8r	8a	.	.
+4.c	8r	4.cc	.	.
+.	8f 8a	.	.	.
+.	8f 8a	.	.	.
+8F	8r	8f	.	.
+=12	=12	=12	=12	=12
+8B-	8r	8b-	2BB-	IV
+8d	8f 8b-	8dd	.	.
+8f	8r	8ff	.	.
+8d	8f 8b-	8dd	.	.
+4.c	8r	4.cc	2FF	Ic
+.	8f 8a	.	.	.
+.	8f 8a	.	.	.
+8A	8r	8r	.	.
+*	*v	*v	*	*
+=13	=13	=13	=13
+8B-	8r	2CC	V7
+8G	8e 8b- 8cc	.	.
+8C	4e 4b- 4cc	.	.
+8B-	.	.	.
+8A	8r	2FF	Ic
+8F	8c 8f 8a	.	.
+8C	8c 8f 8a	.	.
+8A	8c 8f 8a	.	.
+=14	=14	=14	=14
+*^	*	*	*
+4BB-	4G	8r	4GG	iib
+.	.	8d 8g	.	.
+4C	4E	8r	4CC	V7
+.	.	8B- 8c	.	.
+4F	4F	8r	2FF	I
+.	.	8A 8c 8f	.	.
+*v	*v	*	*	*
+*	*	*	*
+8r	8A 8c 8f	.	.
+8C	8c	.	.
+=15	=15	=15	=15
+*	*^	*	*
+4.G	8r	4.b-	4.CC	V7c
+.	8c 8e	.	.	.
+.	8c 8e	.	.	.
+8F	8r	8a	8FF	I
+4.E	8r	4.g	2CC	V7b
+.	8B- 8c	.	.	.
+.	8B- 8c	.	.	.
+8C	8r	8c	.	.
+=16	=16	=16	=16	=16
+8G	8r	8b-	8GG	ii
+8F	8c	8a	8FF	I
+8E	8c	8g	8CC	Vb
+8D	8Bn	8f	8BBn	viiob/V
+4.E	8r	4.g	2CC	Vb
+.	8c	.	.	.
+.	8c	.	.	.
+8C	8r	8c	.	.
+=17	=17	=17	=17	=17
+4.F	8r	4.f	1FF	I
+.	8A 8c	.	.	.
+.	8A 8c	.	.	.
+8A	8r	8a	.	.
+4.c	8r	4.cc	.	.
+.	8f 8a	.	.	.
+.	8f 8a	.	.	.
+8F	8r	8f	.	.
+=18	=18	=18	=18	=18
+8B-	8r	8b-	2BB-	IV
+8d	8f 8b-	8dd	.	.
+8f	8r	8ff	.	.
+8d	8f 8b-	8dd	.	.
+4.c	8r	4.cc	2FF	Ic
+.	8f 8a	.	.	.
+.	8f 8a	.	.	.
+8A	8r	8r	.	.
+*	*v	*v	*	*
+=19	=19	=19	=19
+8B-	8r	2CC	V7
+8G	8e 8b- 8cc	.	.
+8C	4e 4b- 4cc	.	.
+8B-	.	.	.
+8A	8r	2FF	Ic
+8F	8c 8f 8a	.	.
+8C	8c 8f 8a	.	.
+8A	8c 8f 8a	.	.
+=20	=20	=20	=20
+*^	*	*	*
+4BB-	4G	8r	4GG	ii
+.	.	8d 8g	.	.
+4C	4E	8r	4CC	V7
+.	.	8B- 8c	.	.
+4F	4F	8r	2FF	I
+.	.	8A 8c 8f	.	.
+*v	*v	*	*	*
+4r	8A 8c 8f	.	.
+.	8r	.	.
+==	==	==	==
+*-	*-	*-	*-

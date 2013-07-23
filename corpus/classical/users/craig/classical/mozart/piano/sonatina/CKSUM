@@ -1,0 +1,33 @@
+CHEKSUMS for files from /users/craig/classical/mozart/piano/sonatina
+at http://kern.ccarh.org
+downloaded on Thu Jun 27 20:39:54 PDT 2013
+A current version of these files may be downloaded using the address:
+   http://kern.ccarh.org/data?f=zip&l=/users/craig/classical/mozart/piano/sonatina
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+2305089849 6183 k439b.krn
+601121265 3994 viennese1-1.krn
+3942023686 3818 viennese1-2.krn
+4113552676 1890 viennese1-3.krn
+1975551672 5678 viennese1-4.krn
+1233929584 8054 viennese6-1.krn
+472214680 5479 viennese6-2.krn
+2870685242 1859 viennese6-3.krn
+4134563761 10674 viennese6-4.krn

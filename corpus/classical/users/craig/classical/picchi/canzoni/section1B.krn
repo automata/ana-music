@@ -1,0 +1,52 @@
+!!!COM: Picchi, Giovanni
+!!!CDT: ~1571///-1643///
+!!!OTL: Canzona 1, page 1/3
+!!!page: part 2, page 1
+!!!OTL: Canzona 1, part A
+!!!pages: 1-3
+**kern	**dynam	**kern	**dynam
+*M3/1	*	*M3/1	*
+*MM300	*	*MM300	*
+*tb2	*	*tb2	*
+00r	.	1gg	.
+.	.	2ee	.
+.	.	2gg	.
+.	.	2ff	.
+.	.	2ee	.
+.	.	1ff	.
+0r	.	2dd	.
+.	.	2ff	.
+.	.	2ee	.
+.	.	2dd	.
+1gg	.	1ee	.
+2ee	.	1.cc	.
+2gg	.	.	.
+2ff	.	.	.
+2ee	.	2b	.
+1ff	.	1a	.
+2dd	.	1.a	.
+2ff	.	.	.
+2ee	.	.	.
+2dd	.	2b	.
+0ee	.	1cc	.
+.	.	2a	.
+.	.	2cc	.
+1r	.	2b	.
+.	.	2a	.
+!	!	!linebreak	!
+1gg	.	1b	.
+2ee	.	2g	.
+2gg	.	2b	.
+2ff	.	2a	.
+2ee	.	2g	.
+!linebreak	!	!	!
+1ff	.	1a	.
+2dd	.	2f	.
+2ff	.	2a	.
+2ee	.	2g	.
+2dd	.	2f	.
+*-	*-	*-	*-
+!!!hum2abc: -q --spacing 1.2 -s .9 -p "%%squarebreve 1" --nn --linebreak
+!!i = colored note
+!!!hum2abc: -q --spacing 1.0 -s .8 -p "%%squarebreve 1" --nn --linebreak
+!! i = colored note

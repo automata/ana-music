@@ -1,0 +1,124 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31/-1828/11/19/
+!!!CNT: Austrian
+!!!OTL@@DE: Variationen &uuml;ber ein Thema von Anselm H&uuml;ttenbrenner
+!!!OTL@EN: 13 Variations on a Theme by Anselm H&uuml;ttenbrenner
+!!!OKY: A Minor
+!!!SCT: D 576
+!!!PDT: 1867///
+!!!ODT: 1817/08//
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!OMD: Var. 11
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M2/4	*M2/4
+*MM72	*MM72
+*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]
+*>A	*>A
+4c 4e	2r
+8B 8d	.
+8A 8c	.
+=185	=185
+4G# 4B	2r
+8F# 8A	.
+8G# 8B	.
+=186	=186
+4A 4c	4ee 4eee
+4Fn 4d	8dd 8ddd
+.	8cc 8ccc
+=187	=187
+*^	*
+2G 2d	8r	2b 2bb
+.	8a	.
+.	8g	.
+.	8f#	.
+=188	=188	=188
+2G# 2fn	4d	4b^ 4bb^
+.	8c	8cc 8ccc
+.	8B	8dd 8ddd
+=189	=189	=189
+8r	4c 4e	4cc 4ccc
+8E	.	.
+8G#	8d 8e	8b 8bb
+8A	8c 8e	8a 8aa
+*v	*v	*
+=190	=190
+4E 4c 4e	4ee 4eee
+4E 4B 4d	4g# 4gg#
+=191	=191
+*>A1	*>A1
+*^	*
+4A 4c	8r	4a 4aa
+.	8f	.
+4r	8e	4r
+.	8d#	.
+*v	*v	*
+=192:|!	=192:|!
+*>A2	*>A2
+8A 8c	4a 4aa
+8GG#	.
+8AA	4r
+8AAA'	.
+=193||	=193||
+*>B	*>B
+4A	4cc# 4ee 4aa
+4r	8b 8dd 8aa
+.	8cc# 8ee 8aa
+=194	=194
+8.d	4.dd 4.ff 4.aa
+16e	.
+8f	.
+8c'	8ee 8aa#
+=195	=195
+4B	4dd# 4ff# 4bb
+4r	8cc# 8ee 8bb
+.	8dd# 8ff# 8bb
+=196	=196
+8.e	[4ee 4gg# [4bb
+16f#	.
+4gn^	8ee] 8ggn 8bb]
+.	8dd 8ffn 8bb
+=197	=197
+*^	*
+4r	8.c	4cc 4ee 4ccc
+.	16d	.
+8A	4e	8cc# 8aa 8ccc#
+8G	.	8cc# 8bb- 8ccc#
+=198	=198	=198
+4F#	8.A	4dd 4aa 4ddd
+.	16B	.
+*	*	*^
+4Fn	4c	4dd# 4ddd#	8.aa
+.	.	.	16bb
+*	*	*v	*v
+=199	=199	=199
+4E	8.c	4ee 4aa 4ccc 4eee
+.	16d	.
+*	*	*^
+4E	8.e	8.ee	4gg# 4bb 4eee
+.	16f	16d	.
+*v	*v	*	*
+*	*v	*v
+=200	=200
+*>B1	*>B1
+*^	*^
+4A	8.e	8.cc	4ee 4aa
+.	16d	16b	.
+4r	8.c	8.a	4r
+.	16B	16b	.
+*v	*v	*	*
+*	*v	*v
+=201:|!	=201:|!
+*>B2	*>B2
+*^	*^
+4.A	8.e	8.cc	4.ee 4.aa
+.	16d	16b	.
+.	8c	8a	.
+8r	8r	8r	8r
+*v	*v	*	*
+*	*v	*v
+=|!	=|!
+*-	*-

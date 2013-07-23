@@ -1,0 +1,140 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in G Minor, Op. 67, No. 22
+!!!OPS: Op. 67
+!!!ONM: No. 22
+!!!OMD: Allegro vivace; Andante sostenuto
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefF4	*clefF4
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*g:	*g:	*g:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM144	*MM144	*MM144
+=1-	=1-	=1-
+12GG/L	12G\L	p
+12FF#/	12A\	.
+12GG/J	12G\J	.
+12DD/L	12B-\L	.
+12FF#/	12A\	.
+12GG/J	12G\J	.
+12AA/L	12F#\L	.
+12GG/	12G\	.
+12AA/J	12F#\J	.
+12DD/L	12c\L	.
+12GG/	12B-\	.
+12AA/J	12A\J	.
+=2	=2	=2
+12BB-/L	12G\L	.
+12AA/	12A\	.
+12BB-/J	12G\J	.
+12GG/L	12d\L	.
+12AA/	12c\	.
+12BB-/J	12B-\J	.
+12C/L	12A\L	.
+12BB-/	12B-\	.
+12C/J	12A\J	.
+12AA/L	12e-\L	.
+12BB-/	12d\	.
+12C/J	12c\J	.
+*	*clefG2	*clefG2
+=3	=3	=3
+12D/L	12Bn/L	<
+12C/	12c/	.
+12D/J	12B/J	.
+12BBn/L	12f/L	.
+12C/	12e-/	.
+12D/J	12d/J	.
+12E-\L	12c/L	.
+12D\	12d/	.
+12C\J	12e-/J	.
+12F#\L	12d/L	.
+12En\	12en/	.
+12D\J	12f#/J	.
+=4	=4	=4
+12G\L	12en/L	.
+12F#\	12f#/	.
+12En\J	12g/J	.
+12A\L	12f#/L	.
+12G\	12g/	.
+12F#\J	12a/J	f
+12G\L	12b-/L	.
+12A\	12a/	.
+12B-\J	12g/J	.
+12c\L	12a/L	.
+12B-\	12b-/	.
+12A\J	12cc/J	.
+*clefG2	*	*
+=5	=5	=5
+12B-/L	12dd\L	.
+12c/	12cc\	.
+12d/J	12b-\J	.
+12e-/L	12cc\L	.
+12d/	12dd\	.
+12c/J	12een\J	.
+12d/L	12ff#\L	.
+12en/	12ee\	.
+12f#/J	12dd\J	.
+12g/L	12ee\L	.
+12f#/	12ff#\	.
+12e/J	12gg\J	.
+=6	=6	=6
+12f#/L	12aa\L	.
+12g/	12gg\	.
+12a/J	12ff#\J	.
+12b-/L	12gg\L	.
+12a/	12aa\	.
+12g/J	12bb-\J	.
+12a\L	12ccc\L	.
+12b-\	12bb-\	.
+12cc\J	12aa\J	.
+12b-\L	12ddd\L	rfz
+12dd\	12bb-\	.
+12cc\J	12ccc\J	.
+=7	=7	=7
+8b-\	8ddd\	.
+8r	8r	.
+4r	4r	.
+!! Andante sostenuto
+*MM84	*MM84	*MM84
+*clefF4	*	*
+2BBBn/: 2DD/: 2GG/: 2BBn/:	2G/: 2d/: 2g/:	.
+=8	=8	=8
+2CC/: 2EE-/: 2AA-/: 2C/:	2c/: 2e-/: 2a-/:	.
+2CC#/: 2EEn/: 2AAn/: 2C#/:	2An/: 2en/: 2g/: 2an/:	.
+=9	=9	=9
+!! arpeggi
+1DD: 1GG: 1BB-: 1D:	1B-: 1d: 1g: 1b-:	f
+=10	=10	=10
+1DD: 1FF#: 1AA: 1D:	1A: 1c: 1d: 1f#:	>
+=11	=11	=11
+*^	*	*
+32r	2GGG\	2r	p
+32BBB-/LLL	.	.	.
+32DD/	.	.	.
+32GG/	.	.	.
+32G/	.	.	.
+32B-/	.	.	.
+32d/	.	.	.
+32g/	.	.	.
+32d/	.	.	.
+32B-/	.	.	.
+32G/	.	.	.
+32D/	.	.	.
+32BB-/	.	.	.
+32GG/	.	.	.
+32DD/	.	.	.
+32BBB-/JJJ	.	.	.
+2r;	2GGG\;	2r;	.
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/12/
+!!!EEV: 2008/06/12/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

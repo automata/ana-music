@@ -1,0 +1,157 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in E-flat Major, Op. 67, No. 19
+!!!OPS: Op. 67
+!!!ONM: No. 19
+!!!OMD: Allegro comodo
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*E-:	*E-:	*E-:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM132	*MM132	*MM132
+=1-	=1-	=1-
+*^	*	*
+4r	[1EE-	2r	p
+[[12GG/L	.	.	.
+[[12BB-/	.	.	.
+[12E-/J	.	.	.
+2GG/_ 2BB-/_ 2E-/_	.	12G/L	p
+.	.	12B-/	.
+.	.	12e-/J	.
+.	.	12g/L	.
+.	.	12b-/	.
+.	.	12ee-/J	.
+*v	*v	*	*
+=2	=2	=2
+1EE-] 1GG] 1BB-] 1E-]	12gg\L	.
+.	12ff#\	.
+.	12gg\J	.
+.	12dd\L	.
+.	12ee-\	.
+.	12an\J	.
+.	12b-/L	.
+.	12f#/	.
+.	12g/J	.
+.	12d/L	.
+.	12e-/	.
+.	12B-/J	.
+=3	=3	=3
+1E- 1F 1A- 1c-	12r	.
+.	(12aa-\L	.
+.	12dd\J	.
+.	12ffn\L	.
+.	12cc-\	.
+.	12dd\J	.
+.	12a-/L	.
+.	12cc-/	.
+.	12f/J	.
+.	12a-/L	.
+.	12d/	.
+.	12f/J)	.
+=4	=4	=4
+2E-\ 2G\ 2B-\ 2d-\	12r	.
+.	(12bb-\L	.
+.	12dd-\J	.
+.	12gg\L	.
+.	12b-\	.
+.	12dd-\J)	.
+2En\ 2G\ 2B-\ 2c\	12r	.
+.	(12ccc\L	.
+.	12gg\J	.
+.	12bb-\L	.
+.	12cc\	.
+.	12gg\J)	.
+=5	=5	=5
+2F\ 2An\ 2c\	12r	.
+.	(12ccc\L	<
+.	12gg\J	.
+.	12aan\L	.
+.	12cc\	.
+.	12ff\J)	.
+2BBn\ 2D\ 2F\ 2A-\	12r	.
+.	(12ddd\L	.
+.	12ff\J	.
+.	12aa-\L	.
+.	12dd\	.
+.	12ff\J)	.
+=6	=6	=6
+!M7/4	!M7/4	!M7/4
+[1C [1E- [1G- [1An	12r	.
+.	12eee-\L	.
+.	12ee-\J	.
+.	12ccc\L	.
+.	12cc\	.
+.	12aan\J	.
+.	12an\L	.
+.	12gg-\	.
+.	12g-\J	.
+.	12ee-\L	.
+.	12e-\	.
+.	12cc\J	.
+2.C/] 2.E-/] 2.G-/] 2.A/]	12c/L	.
+.	12an/	.
+.	12An/J	.
+.	12g-/L	.
+.	12G-/	.
+.	12e-/J	.
+.	12E-/L	.
+.	12c/	.
+.	12C/J	.
+=7	=7	=7
+!M9/4	!M9/4	!M9/4
+[2BBB-\	4r	f
+.	[4BB-\	f
+8BBB-\L]	8BB-\L]	.
+16CC\L	16C\L	.
+16DD\	16D\JJ	.
+16EE-\	(16E-\LL	.
+16FF\	16F\	.
+16GGn\	16Gn\	.
+16AA-\	16A-\JJ	.
+16BB-\	16B-\LL	.
+16C\	16c\	.
+16D\	16d\	.
+16E-\	16e-\JJ	.
+16F\	16f\LL	.
+16G\	16g\	.
+16A-\	16a-\	.
+16B-\	16b-\JJ	.
+*clefG2	*	*
+16c\	16cc\LL	.
+16d\	16dd\	.
+16e-\	16ee-\	.
+16f\	16ff\JJ	.
+16g\	16gg\LL	.
+16a-\	16aa-\	.
+16b-\	16bb-\	.
+16cc\	16ccc\	.
+16dd\	16ddd\	.
+16ee-\	16eee-\	.
+16ff\JJ	16fff\JJ	.
+=8	=8	=8
+!M4/4	!M4/4	!M4/4
+&(8gg''\&)	(16ggg\LL)	.
+.	16eee-\	.
+8r	16bb-\	.
+.	16gg\JJ	.
+4r	8bbb-''\)	.
+.	8r	.
+4r	4r	.
+*clefF4	*	*
+4BB-''\ 4D''\ 4F''\ 4B-''\	4f''/ 4a-''/ 4b-''/ 4dd''/	ff
+=9	=9	=9
+2EE-/ 2GG/ 2BB-/ 2E-/	2e-/ 2g/ 2b-/ 2ee-/	.
+2r	2r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/13/
+!!!EEV: 2008/06/13/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

@@ -1,0 +1,675 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Nov 21 20:41:30 PST 2008
+# Last Modified: Tue Nov 25 20:27:48 PST 2008
+# Filename:      aru2krn
+# Syntax:        perl 5
+#
+# Description:   Basic conversion of Aruspix data into Humdrum **kern data.
+#		 Adds position information data.
+#
+# Todo:        * If a note with the same diatonic follows a
+#                note with an accidental, the that note should
+#                also have an accidentl (without an X marker).
+#	       * add *M4/4 before *met(C) lines
+#
+# Things done recently:
+# 		 identify colored notes (but don't yet alter durations)
+#		 parse natural accidentals
+#		 parse double barlines
+#
+
+use strict;
+my @contents = <>;
+
+my %states;
+$states{'clef'}       = "";  # current clef in the music
+$states{'baseline'}   = "";  # absolute diatonic (+octave) for bottom of staff
+$states{'accidental'} = "";  # current accidental
+$states{'diatonic'}   = "";  # current diatonic pitch of note
+$states{'octave'}     = "";  # current octave of note
+$states{'rhythm'}     = "";  # current rhythm of note
+$states{'dot'}        = "";  # current augmentation dot of note
+
+my %POS;
+$POS{'acc'}           = "";  # position of an accidental
+$POS{'note'}          = "";  # position of a note head/stem
+$POS{'dot'}           = "";  # position of a dot
+
+my $ii;
+my $line;
+my $INPUTLINE;
+my @elements;
+my $POSMIN = "-1";	# minimum horizontal position of current object
+my $POSMAX = "-1";	# maximum horizontal position of current object
+
+print "**kern\t**apos\n";
+for ($ii=0; $ii<@contents; $ii++) {
+   $INPUTLINE = $ii + 1;
+   $line = $contents[$ii];
+   chomp $line;
+   # print "!!LINE: $line\n";
+   $line =~ s/^\s*//;
+   $line =~ s/\s*$//;
+   next if $line =~ /^\#/;    # ignore #!MLF!#
+   if ($line =~ /^"(.*)"$/) {
+      print "!$1\t!$1\n";
+      next;
+   }
+   if ($line =~ /^\s*\.\s*$/) {
+      print "!linebreak\t!linebreak\n";
+      next;
+   }
+   @elements = split(/\s+/, $line);
+   $POSMIN = $elements[0];
+   $POSMAX = $elements[1];
+   if ($elements[0] !~ /^\d+$/) {
+      print "Unknown data type: $line\n";
+   }
+   if ($elements[1] !~ /^\d+$/) {
+      print "Unknown data type: $line\n";
+   }
+   if ($line =~ /\sS_B/) {
+      if ($contents[$ii+1] =~ /\sS_B/) {
+         if ($states{'diatonic'} !~ /^\s*$/) { %states= printNote(%states); }
+         printDoubleBarline($ii, @contents);
+         $ii++;
+      }
+   } else {
+      %states = processObject($elements[2], %states);
+   }
+}
+print "*-\t*-\n";
+
+exit(0);
+
+
+###########################################################################
+
+##############################
+##
+## processObject --
+##
+
+sub processObject {
+   my ($element, %s) = @_;
+   my @fields = split(/_/, $element);
+
+   if ($fields[0] eq "N") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      ($s{'rhythm'}, $s{'diatonic'}, $s{'octave'}) = 
+            processNoteObject($s{'baseline'}, @fields);
+   } elsif ($fields[0] eq "K") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      ($s{'clef'}, $s{'baseline'}) = processClefObject($s{'clef'}, 
+            $s{'baseline'}, @fields);
+   } elsif ($fields[0] eq "R") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      ($s{'rhythm'}, $s{'diatonic'}) = processRestObject(@fields);
+   } elsif ($fields[0] eq "A") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      ($s{'accidental'}) = processAccidentalObject(@fields);
+   } elsif ($fields[0] eq "P") {
+      $s{'dot'} = processPunctumObject($s{'dot'}, @fields);
+   } elsif ($fields[0] eq "M") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      processMeterObject(@fields);
+   } elsif ($fields[0] eq "C") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      processCustosObject($s{'baseline'}, @fields);
+   } elsif ($fields[0] eq "S") {
+      if ($s{'diatonic'} !~ /^\s*$/) { %s= printNote(%s); }
+      processSymbolObject($s{'baseline'}, @fields);
+   } else {
+      print "Error on line $INPUTLINE: unknown element code: $fields[0]\n";
+      exit(1);
+   }
+   return %s;
+}
+
+
+
+##############################
+##
+## printDoubleBarline --
+##     506 516 S_B
+##     516 526 S_B
+##
+
+sub printDoubleBarline {
+   my ($start, @contents) = @_;
+
+   my @elements1 = split(/\s+/, $contents[$start]);
+   my @elements2 = split(/\s+/, $contents[$start+1]);
+
+   print "==\t";
+   print  "($elements1[0],$elements1[1])";
+   print  "($elements2[0],$elements2[1])";
+   print "\n";
+}
+
+
+##############################
+##
+## processSymbolObject --
+##
+
+sub processSymbolObject {
+   my ($baseline, @fields) = @_;
+
+   print "Error on line $INPUTLINE: unknown symbol object: $fields[1]\n";
+   exit(1);
+}
+
+
+
+##############################
+##
+## processMeterObject --  How to convert to **kern data should
+##    be considered more...
+##
+
+sub processMeterObject {
+   my @fields = @_;
+   if ($fields[1] eq "TI") {
+      print "*met(C)";
+   } elsif (($fields[1] eq "S") && ($fields[2] eq "3")) {
+      print "*met(3)";
+   } else {
+      print "Error on line $INPUTLINE: Unknown meter type: ";
+      print join(" ", @fields);
+      print "\n";
+      exit(1);
+   }
+   my $position = getPos($POSMIN, $POSMAX);
+   print "\t*$position\n";
+}
+
+
+
+##############################
+##
+## processPunctumObject --
+##
+
+sub processPunctumObject {
+   my ($dotstate, @fields) = @_;
+   # field[0] == P
+   # field[1] == diatonic vertical position
+   # field[2] == octave vertical position
+   # ignoring the vertical postion since
+   # **kern cannot store in data (could put in comment...)
+   $dotstate .= ".";
+   $POS{'dot'} = "P";
+   $POS{'dot'} .= getPos($POSMIN, $POSMAX, $fields[1], $fields[2]);
+   return $dotstate;
+}
+
+
+
+##############################
+##
+## getPos --
+##
+
+sub getPos {
+   my ($min, $max, $dia, $oct) = @_;
+
+   if ($dia !~ /^\s*$/) {
+      my $vert = getDiatonicPC($dia) + $oct * 7 - 4*7;
+      return "($min,$max,$vert)";
+   } else {
+      return "($min,$max)";
+   }
+}
+
+
+
+##############################
+##
+## processCustosObject --
+##
+
+sub processCustosObject {
+   my ($baseline, @fields) = @_;
+
+   my $diatonic;
+   my $octave;
+   ($diatonic, $octave) = convertToDiatonicPitch($baseline, $fields[1], 
+      $fields[2]);
+
+   $diatonic = incorporateOctave($diatonic, $octave);
+
+   my $position = getPos($POSMIN, $POSMAX, $fields[1], $fields[2]);
+   print "!custos:$diatonic\t!$position\n";
+}
+
+
+
+##############################
+##
+## processAccidentalObject --
+##    It would probably be useful to store the vertical
+##    position of the accidental, and print a warning
+##    or error if the next note does not match the
+##    same vertical staff position.
+##
+
+sub processAccidentalObject {
+   my @fields = @_;
+   # $fields[0] == 'A'
+   # $fields[1] == first char is accidental, second char is type
+   #                 type = 0 => regular accidental
+   #                 type = 1 => double accidental (key signture?)
+   # currently ignored data: vertical staff position:
+   # $fields[2] == "diatonic" postion on soprano clef
+   # $fields[3] == "octave" postion on soprano clef
+
+   my $accidental;
+   my $type1;
+   my $type2;
+
+   if ($fields[1] =~ /^(.)(.)$/) {
+      $type1 = $1;
+      $type2 = $2;
+   } else {
+      print "Error on line $INPUTLINE: Unknown accidental type: $fields[1]\n";
+      exit(1);
+   }
+
+   # the X after the accidental means to explicitly
+   # print the accidental.  This is best to do when there
+   # are no barlines, because traditional common notation
+   # might suppress the accidental display in print otherwise.
+   
+   if ($type1 eq "D") {
+      $accidental = "#X";       # sharp
+   } elsif ($type1 eq "B") {
+      $accidental = "-X";       # flat 
+   } elsif ($type1 eq "H") {
+      $accidental = "nX";       # natural 
+   } else {
+      #handle the natural sign here...
+      print "Error on line $INPUTLINE: Unknown accidental\n";
+      exit(1);
+   }
+
+   $POS{'acc'} = "A";
+   $POS{'acc'} .= getPos($POSMIN, $POSMAX, $fields[2], $fields[3]);
+
+   return $accidental;
+}
+
+
+
+##############################
+##
+## processRestObject --
+##
+
+sub processRestObject {
+   my @fields = @_;
+   my $rhythm = convertRhythmToKern($fields[1]);
+   my $diatonic = "r";  
+   # the vertical postion of the rest cannot be stored
+   # directly in **kern data (could be made a local comment).
+   $POS{'note'} = getPos($POSMIN, $POSMAX, $fields[2], $fields[3]);
+   return ($rhythm, $diatonic);
+}
+
+
+
+##############################
+##
+## processClefObject --
+##
+
+sub processClefObject {
+   my ($currentClef, $baseline, @fields) = @_;
+   my $newClef;
+
+   ($newClef, $baseline) = convertClefToKern($fields[1]);
+
+   if ($newClef ne $currentClef) {
+      # print the new clef it is different from the previous one
+      my $position = getPos($POSMIN, $POSMAX);
+      print "$newClef\t\*$position\n";
+   } else {
+      my $tempclef = $newClef;
+      $tempclef =~ s/^\*/!/;
+      my $position = getPos($POSMIN, $POSMAX);
+      print "$tempclef\t!$position\n";
+   }
+
+   return ($newClef, $baseline);
+}
+
+
+
+##############################
+##
+## convertClefToKern --
+##
+
+sub convertClefToKern {
+   my ($field) = @_;
+   my $clef;
+   my $baseline;
+
+   my $type;
+   my $line;
+
+   if ($field =~ /^(.)(.)$/) {
+      $type = $1;
+      $line = $2;
+   } else {
+      print "Error on line $INPUTLINE: unknown clef code: $field\n";
+      exit(1);
+   }
+   
+   if ($type eq "S") {  # treble (G, sol) clef
+      $clef = "*clefG$line";
+      if ($line ==2) {
+         $baseline = 2 + 4*7;  
+      } else {
+         print "Unknown treble clef baseline: $line\n";
+         exit(1);
+      }
+   } elsif ($type eq "F") { # bass (F, Fa) clef
+      $clef = "*clefF$line";
+      if ($line == 4) {
+         $baseline = 4 + 2*7;
+      } elsif ($line == 3) {
+         $baseline = 6 + 2*7;
+      } else {
+         print "Unknown bass clef baseline: $line\n";
+         exit(1);
+      }
+   } else {
+   # other clefs to add later:
+   # C clef (probably Do or Ut)
+   #   $clef = "*clefC$line";
+   #   $baseline = 3 + 3*7;
+      print "Error on line $INPUTLINE: unknown clef: $field\n";
+      exit(1);
+   }
+
+   return ($clef, $baseline);
+}
+
+
+
+##############################
+##
+## printNote --
+##
+
+sub printNote {
+   my %s = @_;
+
+   my $diatonic= $s{'diatonic'};
+   my $octave = $s{'octave'};
+   my $repeat = 0;
+   my $repeatchar = "";
+   my $i;
+
+   if ($diatonic ne "r") {
+      $diatonic = incorporateOctave($diatonic, $octave);
+   }
+
+   my $accvert   = -1000;
+   my $pitchvert = -1000;
+   if ($POS{'acc'} =~ /,\s*([\+\-\d]+)\)/) {
+      $accvert = $1;
+   }
+   if ($POS{'note'} =~ /,\s*([\+\-\d]+)\)/) {
+      $pitchvert = $1;
+   }
+
+   if (($pitchvert > -100) && ($accvert > -100) && ($pitchvert ne $accvert)) {
+      print "$s{'rhythm'}$s{'dot'}$diatonic\t";
+      print "$POS{'note'}$POS{'dot'}\n";
+      $s{'accidental'} =~ s/X//;
+      print "\!bc:$s{'accidental'}\t\!$POS{'acc'}\n";  # calculate diatonic value
+   } else {
+      print "$s{'rhythm'}$s{'dot'}$diatonic$s{'accidental'}\t";
+      # note which should sound with an accidental, but do not
+      # have an accidental should be addressed, but how...
+      print "$POS{'acc'}$POS{'note'}$POS{'dot'}\n";
+   }
+
+   $s{'rhythm'}     = "";
+   $s{'dot'}        = "";
+   $s{'diatonic'}   = "";
+   $s{'accidental'} = "";
+   $s{'octave'}     = "";
+   $POS{'dot'}      = "";
+   $POS{'note'}     = "";
+   $POS{'acc'}      = "";
+   return %s;
+}
+
+
+
+##############################
+##
+## incorporateOctave --
+##
+
+sub incorporateOctave {
+   my ($diatonic, $octave) = @_;
+   my $repeat;
+   my $repeatchar;
+
+   if ($octave >= 4) {
+      $diatonic =~ tr/A-G/a-g/;
+      $repeat = $octave - 4;
+   } elsif ($octave <= 3) {
+      $diatonic =~ tr/a-g/A-G/;
+      $repeat = 3 - $octave;
+   }
+   $repeatchar = $diatonic;
+   my $i;
+   for ($i=0; $i<$repeat; $i++) {
+      $diatonic .= $repeatchar;
+   }
+
+   return $diatonic;
+}
+
+
+
+##############################
+##
+## processNoteObject --
+##
+
+sub processNoteObject {
+   my ($baseline, @fields) = @_;
+   my $rhythm   = "";
+   my $diatonic = "";
+   my $octave   = "";
+
+   my @flags = getNoteFlags($fields[4]);
+
+   $rhythm = convertRhythmToKern($fields[1]);
+   ($diatonic, $octave) = convertToDiatonicPitch($baseline, $fields[2], 
+         $fields[3]);
+
+   $POS{'note'} = getPos($POSMIN, $POSMAX, $fields[2], $fields[3]);
+
+   if ($flags[1]) {
+      # mark colored notes with an i for now
+      # later, it should be used to alter the duration
+      # of the note, but colored breves are a problem
+      # in **kern data...
+      $rhythm .= "i";
+   }
+
+   return ($rhythm, $diatonic, $octave);
+}
+
+
+
+##############################
+##
+## getNoteFlags --
+## 
+## Field 0: probably boolean for stem direction
+## Field 1: boolean for colored notes
+## Field 2:
+##
+
+sub getNoteFlags {
+   my ($number) = @_;
+
+   my @output;
+   $output[0] = 0;
+   $output[1] = 0;
+   $output[2] = 0;
+
+   if ($number == 0) {
+      return @output;
+   }
+
+   if ($number >= 8) {
+      print "Error: flag is unexpectedly large: $number\n";
+      exit(1);
+   }
+
+   if ($number == 1) {
+      $output[0] = 1;
+   } elsif ($number == 2) {
+      $output[1] = 1;
+   } elsif ($number == 3) {
+      $output[0] = 1;
+      $output[1] = 1;
+   } elsif ($number == 4) {
+      $output[2] = 1;
+   } elsif ($number == 5) {
+      $output[0] = 1;
+      $output[2] = 1;
+   } elsif ($number == 6) {
+      $output[1] = 1;
+      $output[2] = 1;
+   } elsif ($number == 7) {
+      $output[0] = 1;
+      $output[1] = 1;
+      $output[2] = 1;
+   }
+
+   return @output;
+}
+
+
+
+##############################
+##
+## convertToDiatonicPitch -- take a staff position
+##
+
+sub convertToDiatonicPitch($baseline, $dia, $oct) {
+   my ($baseline, $dia, $oct) = @_;
+   my $diatonic;
+   my $octave;
+
+   my $dnum = getDiatonicPC($dia) + $oct * 7;
+   $dnum = $dnum - 4*7;
+   my $pitchval = $dnum + $baseline;
+   $octave = int($pitchval/7);
+   $dnum = $pitchval % 7;
+   $diatonic = getDiatonicName($dnum);
+
+   return ($diatonic, $octave);
+}
+
+
+
+##############################
+##
+## getDiatonicName --
+##
+
+sub getDiatonicName {
+   my ($value) = @_;
+   $value = $value % 7;
+   if ($value == 0) { return "c"; }
+   if ($value == 1) { return "d"; }
+   if ($value == 2) { return "e"; }
+   if ($value == 3) { return "f"; }
+   if ($value == 4) { return "g"; }
+   if ($value == 5) { return "a"; }
+   if ($value == 6) { return "b"; }
+}
+
+
+
+##############################
+##
+## getDiatonicPC --
+##
+
+sub getDiatonicPC {
+   my ($dia) = @_;
+   if ($dia =~ /C/i) { return 0; }
+   if ($dia =~ /D/i) { return 1; }
+   if ($dia =~ /E/i) { return 2; }
+   if ($dia =~ /F/i) { return 3; }
+   if ($dia =~ /G/i) { return 4; }
+   if ($dia =~ /A/i) { return 5; }
+   if ($dia =~ /B/i) { return 6; }
+   
+   print "Error on line $INPUTLINE: unknown diatonic value: $dia\n";
+   exit(1);
+}
+
+
+
+##############################
+##
+## convertRhythmToKern --
+##
+
+sub convertRhythmToKern {
+   my ($rhythmcode) = @_;
+   if ($rhythmcode eq "0") { # longa
+      return "00";
+   } elsif ($rhythmcode eq "1") { # breve (double whole note)
+      return "0";
+   } elsif ($rhythmcode eq "2") { # semibreve (whole note)
+      return "1";
+   } elsif ($rhythmcode eq "3") { # minim (half note)
+      return "2";
+   } elsif ($rhythmcode eq "4") { # semiminim (quarter note)
+      return "4";
+   } elsif ($rhythmcode eq "5") { # fusa (eighth note)
+      return "8";
+   } elsif ($rhythmcode eq "6") { # semifusa (sixteenth note)
+      return "16";
+   } elsif ($rhythmcode eq "7") { # semisemifusa (32nd note)
+      return "32";
+   } else {
+      print "Error on line $INPUTLINE: unknown rhythm code: $rhythmcode\n";
+      exit(1);
+   }
+}
+
+
+
+##############################
+##
+## printStates --
+##
+
+sub printStates {
+   my %states = @_;
+   my @keys = sort keys %states;
+   my $key;
+   foreach $key (@keys) {
+      print "\t$key\t$states{$key}\n";
+   }
+   print "\t========================\n";
+}
+
+

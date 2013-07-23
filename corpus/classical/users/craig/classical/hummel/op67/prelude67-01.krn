@@ -1,0 +1,178 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in C Major, Op. 67, No. 1
+!!!OPS: Op. 67
+!!!ONM: No. 1
+!!!OMD: Quasi improvisazione
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*clefF4	*clefG2	*clefG2
+*C:	*C:	*C:
+*k[]	*k[]	*k[]
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM100	*MM100	*MM100
+=1-	=1-	=1-
+[[4CC/	1r	.
+[[8EE/L	.	.
+[[8GG/J	.	.
+8C/L	.	.
+8E/J	.	.
+8G/L	.	.
+8c/J	.	.
+=2	=2	=2
+!M7/4	!M7/4	!M7/4
+*	*^	*
+1CC] 1EE] 1GG] 1C	4e/	16c\LL	.
+.	.	16B\	.
+.	.	16c\	.
+.	.	16G\JJ	.
+.	4g/	16e\LL	.
+.	.	16d#\	.
+.	.	16e\	.
+.	.	16c\JJ	.
+.	4cc/	16g\LL	.
+.	.	16f#\	.
+.	.	16g\	.
+.	.	16e\JJ	.
+.	4ee/	16cc\LL	.
+.	.	16b\	.
+.	.	16cc\	.
+.	.	16g\JJ	.
+2.r	4gg/	16ee\LL	.
+.	.	16dd#\	.
+.	.	16ee\	.
+.	.	16cc\JJ	.
+.	4ccc/	16gg\LL	.
+.	.	16ff#\	.
+.	.	16gg\	.
+.	.	16ee\JJ	.
+.	4eee/	16ccc\LL	.
+.	.	16bb\	.
+.	.	16ccc\	.
+.	.	16gg\JJ	.
+*	*v	*v	*
+=3	=3	=3
+1D: 1F: 1G: 1B: 1d:	8r	.
+.	ffq	.
+.	bbq	.
+.	dddq	.
+.	([8fff\L	f
+.	24fff\L]	.
+.	24ddd\	.
+.	24eee\J	.
+.	24fff\L	.
+.	24bb\	.
+.	24ccc\JJ	.
+.	24ddd\LL	.
+.	24ff\	.
+.	24gg\JJ	.
+.	24aa\LL	.
+.	24dd\	.
+.	24ee\JJ	.
+.	24ff\LL	.
+.	24b\	.
+.	24cc\JJ	.
+.	24dd\LL	.
+.	24f\	.
+.	24g\JJ	.
+4r	24a/LL	.
+.	24d/	.
+.	24e/JJ	.
+.	24f/LL	.
+.	24B/	.
+.	24c/JJ	.
+8r	24d/LL	.
+.	24G/	.
+.	24B/JJ	.
+32r	16c''/)	.
+32EE\LLL	.	.
+32GG\	16r	.
+32C\JJJ	.	.
+4r	32E/	.
+.	32G\LLL	.
+.	32c\	.
+.	32e\	.
+.	32g\	.
+.	32cc\	.
+.	32ee\	.
+.	32gg\JJJ	.
+=4	=4	=4
+!M8/4	!M8/4	!M8/4
+32FF\LLL	8r	.
+32AA\	.	.
+32C\	.	.
+32F\JJJ	.	.
+8r	32r	.
+.	32A\LLL	.
+.	32c\	.
+.	32f\	.
+32r	32a\	.
+16r	32dd\	.
+.	32ff\	.
+32r	32aa\JJJ	.
+32FF#\LLL	8r	<
+32AA\	.	.
+32C\	.	.
+32E-\	.	.
+32F#\JJJ	32r	.
+8r	32c\LLL	.
+.	32e-\	.
+.	32a\	.
+.	32cc\	.
+16r	32ee-\	.
+.	32aa\	.
+32r	32ccc\JJJ	.
+1GG: 1C: 1En: 1G:	8r	f
+.	4gg\ 4ggg\	.
+.	56ff\LLL	.
+.	56fff\	.
+.	56een\	.
+.	56eeen\	.
+.	56dd\	.
+.	56ddd\	.
+.	56cc\	.
+.	56ccc\	.
+.	56b\	.
+.	56bb\	.
+.	56a\	.
+.	56aa\	.
+.	56g\	.
+.	56gg\	.
+.	56f\	.
+.	56ff\	.
+.	56e-\	.
+.	56ee\	.
+.	56d\	.
+.	56dd\	.
+.	56c\	.
+.	56cc\	.
+.	56B\	.
+.	56b\	.
+.	56A\	.
+.	56a\	.
+.	56G\	.
+.	56g\JJJ	.
+.	8r	.
+4GGG\ 4GG\	4D/ 4F/ 4G/ 4B/	p
+=5	=5	=5
+*^	*	*
+2D/ 2F/ 2G/ 2B/	2CC\ 2C\	1r	.
+4r	16CC\LL	.	.
+.	32EE\L	.	.
+.	32GG\JJJ	.	.
+.	32C\	.	.
+.	32E\LLL	.	.
+.	32G\	.	.
+.	32c\JJJ	.	.
+4r	4CC\	.	.
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/15/
+!!!EEV: 2008/06/15/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

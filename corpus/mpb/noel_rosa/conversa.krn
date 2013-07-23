@@ -1,0 +1,1702 @@
+!! Converted from MIDI with mid2hum
+!! Ticks Per Quarter Note = 480
+!! Track count: 8
+Error: two files are not of same durational length
+228.5 compared to 227.5
+The Two files are: 
+**kern
+*M2/4
+*k[]
+*MM66
+=1
+4r
+16a
+16a
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=2
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a 16aa
+=3
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=4
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16c 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+[8B- [8c [8a
+=5
+8B-] 8c] 8a]
+8r
+16a 16aa
+16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16A 16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=6
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16E 16d 16a 16aa
+=7
+16c# 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16A 16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16E 16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+=8
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+[8A [8a [8aa
+=9
+4.A] 4.a] 4.aa]
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+=10
+16c# 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16E 16c# 16a
+16A 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16d 16a
+=11
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16A 16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a 16aa
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a
+=12
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16A 16d 16a
+16c# 16a
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16E 16A 16d 16a 16aa
+[8B- [8c [8a [8aa
+=13
+8B-] 8c] 8a] 8aa]
+8r
+16a
+16a
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=14
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a 16aa
+=15
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=16
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16c 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+[8B- [8c [8a
+=17
+8B-] 8c] 8a]
+8r
+16a 16aa
+16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16A 16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=18
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16E 16d 16a 16aa
+=19
+16c# 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16A 16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16E 16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+=20
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+[8A [8a [8aa
+=21
+4.A] 4.a] 4.aa]
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+=22
+16c# 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16E 16c# 16a
+16A 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16d 16a
+=23
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16A 16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a 16aa
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a
+=24
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16A 16d 16a
+16c# 16a
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16E 16A 16d 16a 16aa
+[8B- [8c [8a [8aa
+=25
+8B-] 8c] 8a] 8aa]
+8r
+16a
+16a
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=26
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a 16aa
+=27
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=28
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16c 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+[8B- [8c [8a
+=29
+8B-] 8c] 8a]
+8r
+16a 16aa
+16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16A 16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=30
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16E 16d 16a 16aa
+=31
+16c# 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16A 16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16E 16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+=32
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+[8A [8a [8aa
+=33
+4.A] 4.a] 4.aa]
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+=34
+16c# 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16E 16c# 16a
+16A 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16d 16a
+=35
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16A 16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a 16aa
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a
+=36
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16A 16d 16a
+16c# 16a
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16E 16A 16d 16a 16aa
+[8B- [8c [8a [8aa
+=37
+8B-] 8c] 8a] 8aa]
+8r
+16a
+16a
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=38
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a 16aa
+=39
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=40
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16c 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+[8B- [8c [8a
+=41
+8B-] 8c] 8a]
+8r
+16a 16aa
+16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16A 16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=42
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16E 16d 16a 16aa
+=43
+16c# 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16A 16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16E 16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16c# 16a 16aa
+=44
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+[8A [8a [8aa
+=45
+4.A] 4.a] 4.aa]
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+=46
+16c# 16a 16aa
+16A 16d 16a 16aa
+16d 16a
+16E 16c# 16a
+16A 16d 16a 16aa
+16A 16c 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a
+16d 16a
+=47
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16A 16c 16a 16aa
+16E 16d 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16A 16d 16a 16aa
+16c# 16a 16aa
+16d 16a
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a
+=48
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a
+16c# 16a 16aa
+16d 16a 16aa
+16A 16d 16a
+16c# 16a
+16E 16d 16a 16aa
+16A 16c 16a 16aa
+16c# 16a
+16A 16d 16a
+16c 16a 16aa
+16E 16A 16d 16a 16aa
+[8B- [8c [8a [8aa
+=49
+8B-] 8c] 8a] 8aa]
+8r
+16a
+16a
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+[8A [8a
+=50
+32A] 32a]
+!funny timing: -240
+12...d 12...a
+!funny timing: -240
+12...A 12...a 12...aa
+!funny timing: -240
+12...d 12...a
+!funny timing: -240
+16a 16aa
+16E 16d 16a 16aa
+16E 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=51
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16d 16a
+16A 16c# 16a 16aa
+16d 16a 16aa
+16A 16c 16a 16aa
+16c 16a
+16d 16a 16aa
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=52
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c 16a
+16d 16a 16aa
+=53
+16c# 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+4B- 4c 4a 4aa
+8.r
+16a
+16a
+16a
+=54
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a
+16a 16aa
+=55
+16a 16aa
+16a 16aa
+16a
+16a 16aa
+16a 16aa
+16a 16aa
+16a
+16d 16a 16aa
+16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+=56
+16c 16a 16aa
+16d 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16E 16d 16a 16aa
+16A 16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16d 16a 16aa
+16E 16d 16a
+16c# 16a 16aa
+=57
+16d 16a 16aa
+16c 16a 16aa
+16c# 16a
+16d 16a 16aa
+16c 16a 16aa
+16A 16d 16a 16aa
+4A 4c 4a 4aa
+[4.E [4.B- [4.a
+=58
+8E] 8B-] 8a]
+*-
+
+====================================================
+
+**kern
+*M2/4
+*k[]
+*MM66
+=1
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8.g
+=2
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8ff
+[16ee
+=3
+16ee]
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+8b
+8gg
+16ff#
+=4
+16ee
+16dd
+8b
+8.a
+16b
+16cc
+16cc#
+16dd
+16ee
+16ff
+16ff#
+[8ee
+=5
+32ee]
+!funny timing: -240
+12...ff#
+!funny timing: -240
+12...ee
+!funny timing: -240
+12...cc
+!funny timing: -240
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+=6
+16a
+16b
+16dd
+8dd
+8.g
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+=7
+16a
+16b
+16dd
+8dd
+8ff
+8ee
+8dd
+16g
+16g
+16g
+16ee
+16ee
+=8
+16ee
+16ee
+16ff#
+8ff#
+8gg
+8ff#
+16ee
+16dd
+16b
+16g
+16a
+16b
+[16b
+=9
+16b]
+16b
+16a
+8a
+q2.250000g
+16ee
+16ee
+16dd
+16cc
+16ee
+16ee
+16dd
+16cc
+[8.ee
+=10
+8ee]
+16cc
+16dd
+16ee
+16ff
+16ee
+16dd
+16cc
+16b
+8a
+[4g#
+=11
+8g#]
+16ee
+16ee
+4.ee
+16a
+16b
+16cc#
+16dd
+16ee
+16dd
+=12
+16ee
+16dd
+8ee
+16ff#
+16gg
+16gg
+16gg
+16ee
+16dd
+16g
+16a
+16b
+16cc
+16r
+16dd
+=13
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8.g
+[16g
+=14
+16g]
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8ff
+8ee
+=15
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+8b
+8gg
+16ff#
+16ee
+=16
+16dd
+8b
+8.a
+16b
+16cc
+16cc#
+16dd
+16ee
+16ff
+16ff#
+12...ee
+!funny timing: -240
+[32ff#
+=17
+8ff#]
+!funny timing: -240
+12...ee
+!funny timing: -240
+12...cc
+!funny timing: -240
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+=18
+16b
+16dd
+8dd
+8.g
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+=19
+16b
+16dd
+8dd
+8ff
+8ee
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+=20
+16ee
+16ff#
+8ff#
+8gg
+8ff#
+16ee
+16dd
+16b
+16g
+16a
+16b
+8b
+=21
+16b
+16a
+8a
+q2.250000g
+16ee
+16ee
+16dd
+16cc
+16ee
+16ee
+16dd
+16cc
+[4ee
+=22
+16ee]
+16cc
+16dd
+16ee
+16ff
+16ee
+16dd
+16cc
+16b
+8a
+[6...g#
+=23
+16g#]
+16ee
+16ee
+4.ee
+16a
+16b
+16cc#
+16dd
+16ee
+16dd
+16ee
+=24
+16dd
+8ee
+16ff#
+16gg
+16gg
+16gg
+16ee
+16dd
+16g
+16a
+16b
+16cc
+16r
+16dd
+16ee
+=25
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8.g
+8g
+=26
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8ff
+8ee
+[16dd
+=27
+16dd]
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+8b
+8gg
+16ff#
+16ee
+16dd
+=28
+8b
+8.a
+16b
+16cc
+16cc#
+16dd
+16ee
+16ff
+16ff#
+12...ee
+!funny timing: -240
+[16.ff#
+=29
+16ff#]
+!funny timing: -240
+12...ee
+!funny timing: -240
+12...cc
+!funny timing: -240
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+=30
+16dd
+8dd
+8.g
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+=31
+16dd
+8dd
+8ff
+8ee
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+=32
+16ff#
+8ff#
+8gg
+8ff#
+16ee
+16dd
+16b
+16g
+16a
+16b
+8b
+16b
+=33
+16a
+8a
+q2.250000g
+16ee
+16ee
+16dd
+16cc
+16ee
+16ee
+16dd
+16cc
+6...ee
+=34
+16cc
+16dd
+16ee
+16ff
+16ee
+16dd
+16cc
+16b
+8a
+4.g#
+=35
+16ee
+16ee
+4.ee
+16a
+16b
+16cc#
+16dd
+16ee
+16dd
+16ee
+16dd
+=36
+8ee
+16ff#
+16gg
+16gg
+16gg
+16ee
+16dd
+16g
+16a
+16b
+16cc
+16r
+16dd
+16ee
+16gg
+=37
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8.g
+8g
+16ee
+=38
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8ff
+8ee
+8dd
+=39
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+8b
+8gg
+16ff#
+16ee
+16dd
+[16b
+=40
+16b]
+8.a
+16b
+16cc
+16cc#
+16dd
+16ee
+16ff
+16ff#
+12...ee
+!funny timing: -240
+12...ff#
+!funny timing: -240
+=41
+12...ee
+!funny timing: -240
+12...cc
+!funny timing: -240
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+=42
+8dd
+8.g
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+=43
+8dd
+8ff
+8ee
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+=44
+8ff#
+8gg
+8ff#
+16ee
+16dd
+16b
+16g
+16a
+16b
+8b
+16b
+16a
+=45
+8a
+q2.250000g
+16ee
+16ee
+16dd
+16cc
+16ee
+16ee
+16dd
+16cc
+6...ee
+16cc
+=46
+16dd
+16ee
+16ff
+16ee
+16dd
+16cc
+16b
+8a
+4.g#
+16ee
+=47
+16ee
+4.ee
+16a
+16b
+16cc#
+16dd
+16ee
+16dd
+16ee
+16dd
+[16ee
+=48
+16ee]
+16ff#
+16gg
+16gg
+16gg
+16ee
+16dd
+16g
+16a
+16b
+16cc
+16r
+16dd
+16ee
+16gg
+16ee
+=49
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8.g
+8g
+16ee
+16ee-
+=50
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+8dd
+8ff
+8ee
+8dd
+16g
+=51
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+8ff#
+8gg
+16ff#
+16ee
+16dd
+8b
+=52
+8.g
+16a
+16b
+16cc
+16cc#
+16dd
+16ee
+16ff#
+12...ee
+!funny timing: -240
+12...ff#
+!funny timing: -240
+[16ee
+=53
+16.ee]
+!funny timing: -240
+12...cc
+!funny timing: -240
+16dd
+16ee
+16gg
+16ee
+16dd
+16b
+16a
+16g#
+16a
+16b
+16dd
+[16dd
+=54
+16dd]
+8.g
+8g
+16ee
+16ee-
+16ee
+16b
+16a
+16g#
+16a
+16b
+16dd
+[16dd
+=55
+16dd]
+8ff
+8ee
+8dd
+16g
+16g
+16g
+16ee
+16ee
+16ee
+16ee
+16ff#
+[16ff#
+=56
+16ff#]
+8gg
+8ff#
+16ee
+16dd
+16b
+16g
+16a
+16b
+8b
+16b
+16a
+[16a
+=57
+16a]
+6...g
+2g 2b- 2b
+*-
+
+====================================================
+

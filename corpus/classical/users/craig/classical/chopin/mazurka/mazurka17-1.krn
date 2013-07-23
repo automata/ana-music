@@ -1,0 +1,408 @@
+!!!COM: Chopin, Frederic
+!!!CDT: 1810///-1849///
+!!!OTL: Mazurka in B-flat Major, Op. 17, No. 1
+!!!OPS: Op. 17
+!!!ONM: No. 1
+!!!OMD: Vivo risoluto
+!!!ODT: 1833///
+!!!PDT: 1834///
+!!!PPP: Leipzig, Paris and London
+!!!ODE: Lina Freppa
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*>[A,B,A]	*>[A,B,A]	*>[A,B,A]
+*>norep[A,B,A]	*>norep[A,B,A]	*>norep[A,B,A]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:
+*M3/4	*M3/4	*M3/4
+*MM160	*MM160	*MM160
+4r	(4f/	f
+=1	=1	=1
+4BBB-/ 4BB-/	4.dd\ 4.ff\	.
+4F\ 4B-\ 4d\	.	.
+.	8cc#\ 8een\	.
+4F\ 4B-\ 4d\	8dd\ 8ff\L	.
+.	8cc#\ 8ee\J	.
+=2	=2	=2
+4BB-/	8dd''\ 8ff''\L)	.
+.	16r	.
+.	(16b-\Jk	.
+4E-\ 4B-\	4g\ 4ee-\	.
+4BB-\ 4B-\	4f/ 4dd/)	.
+=3	=3	=3
+4FFF/ 4FF/	(4.e-/ 4.cc/	>
+4F\ 4A\	.	.
+.	8g/ 8ee-/L	.
+4r	8f/ 8dd/	.
+.	8e-/ 8cc/J	.
+=4	=4	=4
+4BBB-/ 4BB-/	8f''/) 8dd''/L	.
+.	16r	.
+.	(16f/Jk	.
+4BB-\ 4F\ 4B-\	4d/ 4b-/)	.
+4BB-^\ 4F^\ 4B-^\	4d/ 4f/ 4dd/	.
+=5	=5	=5
+4BBB-/ 4BB-/	8dd''\ 8ff''\L	.
+.	16r	.
+.	16dd\ 16ff\Jk	.
+4F\ 4B-\ 4d\	4dd'\ 4ff'\	.
+4F\ 4B-\ 4d\	8dd\ (8ff\L	.
+.	8cc#\ 8een\J	.
+=6	=6	=6
+4BB-''/	8dd\ 8ff\L)	.
+.	16r	.
+.	(16b-\Jk	.
+4E-\ 4B-\	4g''\ 4ee-''\)	.
+4BB-\ 4B-\	4f^/ 4b-^/ 4dd^/	.
+=7	=7	=7
+*	*^	*
+4FFF/ 4FF/	4.cc/	4e-^\ (4b-^\	.
+4F\ 4c\	.	8a\L	.
+.	8ee-/L	8g\	.
+4r	8dd/	8f\	.
+.	8cc/J	8e-\J	.
+*	*v	*v	*
+=8	=8	=8
+4BBB-/ 4BB-/	8f/ 8dd/L)	.
+.	16r	.
+.	(16f/Jk	.
+4BB-\ 4F\ 4B-\	4d'/ 4f'/ 4b-'/	.
+4BB-\ 4F\ 4B-\	4d'/) 4f'/ 4dd'/	.
+=9	=9	=9
+4CC''/ 4C''/	4c''/	f
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.bb-^\	.
+8c/ 8g/	8b-\ 8ee\ 8aa\	.
+=10	=10	=10
+8.c'/ 8.g'/L	8.b-\ 8.een\ (8.ff#\L	.
+16c'/ 16g'/Jk	16b-\ 16ee\ 16gg\Jk	.
+4c'/ 4g'/	4b-'\ 4ee'\ 4aa'\)	.
+4c'/ 4g'/	4b-'\ 4ee'\ 4gg'\	.
+*clefF4	*	*
+=11	=11	=11
+4CC''/ 4C''/	4c''/	.
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.aa^\	.
+8c/ 8g/	8b-\ 8ee\ (8gg\	.
+*clefF4	*	*
+=12	=12	=12
+8F\ 8c\ 8f\L	8a'\ 8ff'\L)	.
+16r	16r	.
+16F\ 16c\ 16f\Jk	16b-\ (16dd\Jk	.
+4F\ 4c\ 4f\	4a'\ 4cc'\	.
+4F\ 4c\ 4f\	4a'\ 4ff'\)	.
+=13	=13	=13
+4CC''/ 4C''/	4c''/	.
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.bb-^\	.
+8c/ 8g/	8b-\ 8ee\ 8aa\	.
+=14	=14	=14
+8.c/ 8.g/L	8.b-\ 8.een\ (8.ff#\L	<
+16c/ 16g/Jk	16b-\ 16ee\ 16gg\Jk	.
+4c/ 4g/	4b-\ 4ee\ 4aa\	.
+4c/ 4g/	4b-\ 4ee\ 4gg\	.
+=15	=15	=15
+8fn''/ 8a''/L	8ee-''\ 8ccc''\L)	.
+16r	16r	.
+16B-/ 16a-/Jk	16dd\ (16ff\Jk	.
+4e-/ 4g/	4dd-\ 4bb-\	.
+4A-/ 4g-/	4cc\ 4ee-\	.
+=16	=16	=16
+&(8dn''/&) 8f''/L	8cc''\ 8aa-''\L)	.
+16r	16r	.
+16G/ 16f/Jk	16bn\ (16dd\Jk	.
+4c/ 4en/	4b-\ 4gg\	.
+&(4F/&) 4e-/	4an\ 4cc\	.
+*clefF4	*	*
+=17	=17	=17
+*	*^	*
+4BBB-/ 4BB-/	4.dd/ (4.ff/)	4a-\	f
+4B-\ 4f\	.	4a-\	.
+.	8gg/L	.	.
+4B-\ 4f\	8dd/ 8ff/	4a-\	.
+.	8cc#/ 8een/J	.	.
+=18	=18	=18	=18
+4BB-\ 4B-\	8dd/ 8ff/L)	8a-\L	.
+.	16r	16r	.
+.	(16b-/Jk	16b-\Jk	.
+4E-\ 4B-\	4r	4g-\ 4b-\ 4ee-\	.
+4F\ 4B-\	4f/ 4b-/ 4dd/)	4r	.
+*	*v	*v	*
+=19	=19	=19
+*	*^	*
+*	*	*^	*
+4G-\ 4B-\	(4.cc/	2b-\	4e-\	.
+4E-\	.	.	4g-\	.
+.	8ee-/L	.	.	.
+4F\	8dd/	4ryy	8f\ 8an\L	.
+.	8cc/J	.	8e-\J	.
+*	*	*v	*v	*
+*	*v	*v	*
+=20	=20	=20
+4BBB-/ 4BB-/	8f/ 8dd/L)	.
+.	16r	.
+.	(16f/Jk	.
+4BB-\ 4F\ 4B-\	4d/ 4f/ 4b-/	<
+4BB-\ 4F\ 4B-\	4d/ 4f/ 4dd/	.
+=21	=21	=21
+*	*^	*
+4A-\ 4d\ 4f\	4.ff/	4cc\	>
+4A-\ 4d\ 4f\	.	4cc\	.
+.	8gg/L	.	.
+4A-\ 4d\ 4f\	8ff/	4cc\	.
+.	8een/J	.	.
+=22	=22	=22	=22
+8G''\ 8d''\L	8ff''/L)	4bn\	.
+16r	16r	.	.
+16G\ (16d\Jk	(16b/Jk	.	.
+4G\ 4g\	4r	4b'\ 4ee-'\	.
+4G\ 4f\)	4r	4b'\ 4dd'\)	.
+=23	=23	=23	=23
+*^	*	*	*
+4r	4c\ 4en\	4.cc/	(4b-\	.
+8e-/L	2F\	.	2a\	.
+8g/	.	8ee-/L	.	.
+8f/	.	8dd/	.	.
+&(8e-/J&)	.	8cc/J	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=24	=24	=24
+8B-''\ 8d''\L	8b-''/ 8dd''/L)	.
+16r	16r	.
+16F\ (16c\Jk	(16f/ 16cc/Jk	.
+4BB-'\ 4B-'\)	4d'/) 4b-'/	.
+4BBB-/ 4BB-/	4b-\ 4bb-\	.
+=25	=25	=25
+4CC''/ 4C''/	4c''/	.
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.bb-^\	.
+8c/ 8g/	8b-\ 8ee\ 8aa\	.
+=26	=26	=26
+8.c'/ 8.g'/L	8.b-\ 8.een\ (8.ff#\L	.
+16c'/ 16g'/Jk	16b-\ 16ee\ 16gg\Jk	.
+4c'/ 4g'/	4b-'\ 4ee'\ 4aa'\)	.
+4c'/ 4g'/	4b-'\ 4ee'\ 4gg'\	.
+*clefF4	*	*
+=27	=27	=27
+4CC''/ 4C''/	4c''/	.
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.aa^\	.
+8c/ 8g/	8b-\ 8ee\ (8gg\	.
+*clefF4	*	*
+=28	=28	=28
+8F\ 8c\ 8f\L	8a'\ 8ff'\L)	.
+16r	16r	.
+16F\ 16d\ 16f\Jk	16b-\ (16dd\Jk	.
+4F\ 4c\ 4f\	4a'\ 4cc'\	.
+4F\ 4c\ 4f\	4a'\ 4ff'\)	.
+=29	=29	=29
+4CC''/ 4C''/	4c''/	.
+*clefG2	*	*
+4.c^/ 4.g^/	4.b-^\ 4.een^\ 4.bb-^\	.
+8c/ 8g/	8b-\ 8ee\ 8aa\	.
+=30	=30	=30
+8.c/ 8.g/L	8.b-\ 8.een\ (8.ff#\L	<
+16c/ 16g/Jk	16b-\ 16ee\ 16gg\Jk	.
+4c/ 4g/	4b-\ 4ee\ 4aa\	.
+4c/ 4g/	4b-\ 4ee\ 4gg\	.
+=31	=31	=31
+8fn''/ 8a''/L	8ee-''\ 8ccc''\L)	.
+16r	16r	.
+16B-/ 16a-/Jk	16dd\ (16ff\Jk	.
+4e-/ 4g/	4dd-\ 4bb-\	.
+4A-/ 4g-/	4cc\ 4ee-\	.
+=32	=32	=32
+&(8dn''/&) 8f''/L	8cc''\ 8aa-''\L)	.
+16r	16r	.
+16G/ 16f/Jk	16bn\ (16dd\Jk	.
+4c/ 4en/	4b-\ 4gg\	.
+&(4F/&) 4e-/	4an\ 4cc\	.
+*clefF4	*	*
+=33	=33	=33
+*	*^	*
+4BBB-/ 4BB-/	4.dd/ (4.ff/)	4a-\	f
+4B-\ 4f\	.	4a-\	.
+.	8gg/L	.	.
+4B-\ 4f\	8dd/ 8ff/	4a-\	.
+.	8cc#/ 8een/J	.	.
+=34	=34	=34	=34
+4BB-\ 4B-\	8dd/ 8ff/L)	8a-\L	.
+.	16r	16r	.
+.	(16b-/Jk	16b-\Jk	.
+4E-\ 4B-\	4r	4g-\ 4b-\ 4ee-\	.
+4F\ 4B-\	4f/ 4b-/ 4dd/)	4r	.
+*	*v	*v	*
+=35	=35	=35
+*	*^	*
+*	*	*^	*
+4G-\ 4B-\	(4.cc/	2b-\	4e-\	.
+4E-\	.	.	4g-\	.
+.	8ee-/L	.	.	.
+4F\	8dd/	4ryy	8f\ 8an\L	.
+.	8cc/J	.	8e-\J	.
+*	*	*v	*v	*
+*	*v	*v	*
+=36	=36	=36
+4BBB-/ 4BB-/	8f/ 8dd/L)	.
+.	16r	.
+.	(16f/Jk	.
+4BB-\ 4F\ 4B-\	4d/ 4f/ 4b-/	<
+4BB-\ 4F\ 4B-\	4d/ 4f/ 4dd/	.
+=37	=37	=37
+*	*^	*
+4A-\ 4d\ 4f\	4.ff/	4cc\	>
+4A-\ 4d\ 4f\	.	4cc\	.
+.	8gg/L	.	.
+4A-\ 4d\ 4f\	8ff/	4cc\	.
+.	8een/J	.	.
+=38	=38	=38	=38
+8G''\ 8d''\L	8ff/L)	4bn\	.
+16r	16r	.	.
+16G\ (16d\Jk	16b/Jk	.	.
+4G\ 4g\	4r	4b'\ 4ee-'\	.
+4G\ 4f\)	4r	4b'\ 4dd'\	.
+=39	=39	=39	=39
+*^	*	*	*
+4r	4c\ 4en\	(4.cc/	4b-\	.
+8e-/L	2F\	.	2a\	.
+8g/	.	8ee-/L	.	.
+8f/	.	8dd/	.	.
+&(8e-/J&)	.	8cc/J	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=40	=40	=40
+8B-''\ 8d''\L	8b-''/ 8dd''/L)	.
+16r	16r	.
+16F\ (16c\Jk	(16f/ 16cc/Jk	.
+4BB-''\ 4B-''\)	4d''/) 4b-''/	.
+4BBB-/ 4BB-/	4b-\ 4bb-\	.
+=41	=41	=41
+!! Fine
+*>B	*>B	*>B
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+(4EE-'/	2.r	p
+4BB-'\ 4G'\	.	.
+4EE-'/	.	.
+=42	=42	=42
+8BB-'\ 8G'\L	2.r	.
+8BB-'\ 8G'\J	.	.
+4EE-'/	.	.
+4BB-'\ 4G'\	.	.
+=43	=43	=43
+4EE-'/	2.r	.
+4BB-'\ 4G'\	.	.
+4EE-/	.	.
+=44	=44	=44
+8BB-'\ 8G'\L	2.r	p
+8BB-'\ 8G'\J	.	.
+4EE-'/	.	.
+4BB-'\ 4G'\)	.	.
+=45	=45	=45
+4EE-/	8g/L	.
+.	16r	.
+.	(16a-/Jk	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\	.
+=46	=46	=46
+8BB-\ 8A-\L	8een\L	.
+8BB-\ 8A-\J	8ff\J	.
+4EE-/	4aa-'\)	.
+4BB-\ 4A-\	(4ccc\	.
+=47	=47	=47
+4EE-/	8g/L)	.
+.	16r	.
+.	(16a-/Jk	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\	.
+=48	=48	=48
+8BB-\ 8G\L	8ee-\L)	.
+8BB-\ 8G\J	16r	.
+.	(16cc\Jk	.
+4EE-/	4an/	.
+4BB-\ 4G\	4b-/	.
+=49	=49	=49
+4EE-/	8g/L)	<
+.	(8a-/J	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\)	.
+=50	=50	=50
+8BB-'\ 8A-'\L	(8een\L	.
+8BB-'\ 8A-'\J	8ff\J	.
+4EE-/	4aa-\)	.
+4BB-'\ 4A-'\	4fff''\	.
+=51	=51	=51
+4EE-/	(4bbn\	.
+4A-\ 4d\	8bb-\L	.
+.	8gg\J	.
+4A-\ 4d\	4bb-\	.
+=52	=52	=52
+4EE-'/	8aan\L	.
+.	8ff#\J	.
+4A-\ 4d\	4aa\	.
+4A-\ 4d\	8aa-\L	.
+.	8ffn\J	.
+=53	=53	=53
+4EE-'/	8g/L)	<
+.	16r	.
+.	(16a-/Jk	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\	.
+=54	=54	=54
+8BB-\ 8A-\L	8een\L	.
+8BB-\ 8A-\J	8ff\J	.
+4EE-/	4aa-''\)	.
+4BB-\ 4A-\	(4ccc\	.
+=55	=55	=55
+4EE-/	8g''/L)	.
+.	16r	.
+.	(16a-/Jk	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\	.
+=56	=56	=56
+8BB-\ 8G\L	8ee-\L)	.
+8BB-\ 8G\J	16r	.
+.	(16cc\Jk	.
+4EE-/	4an/	.
+4BB-\ 4G\	4b-\	.
+=57	=57	=57
+4EE-/	8g/L)	<
+.	(8a-/J	.
+4BB-\ 4A-\	4.gg\	>
+4EE-/	.	.
+.	8ff\)	.
+=58	=58	=58
+8BB-\ 8A-\L	(8een\L	.
+8BB-\ 8A-\J	8ff\J	.
+4EE-/	4aa-''\)	.
+8BB-\ 8A-\	8fff\	.
+8r;	8r;	.
+=59	=59	=59
+4EE-/	(8ccc\L	>
+.	8bbn\J	.
+*clefG2	*	*
+4B-/ 4d/ 4a-/	8bb-\L	.
+.	8aan\	.
+4B-/ 4d/ 4a-/	8aa-\	.
+.	8b-\J	.
+*clefF4	*	*
+=60	=60	=60
+4E-\	8ff\L)	.
+.	16r	.
+.	(16gg\Jk	.
+4B-\ 4g\	4ee-\)	.
+!! Da Capo al Fine
+=	=	=
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!END: 2005/02/11/
+!!!URL: http://www.chopinsociety.org/maz_rf.htm#maz171 (short description by David Dubal)
+!!!URL: http://chopin.lib.uchicago.edu/gsdl/cgi-bin/library?e=d-000-00---0chopin--00-0-0-0prompt-10---4---Document-dtt--0-1l--1-en-Zz-1---50-home-mazurka--001-001-0-0utfZz-8-0&a=d&c=chopin&cl=CL3.10.8 (Early editions of op. 17 at the University of Chicago)

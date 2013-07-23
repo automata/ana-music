@@ -1,0 +1,40 @@
+X: 1
+T: Canzona 1, part A
+C: Giovanni Picchi
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2008/11/26 17:04:52
+%%notespacingfactor 1.2
+%%humdrum-veritas 1690210997
+%%humdrum-veritas-data 2228807501
+%%scale 0.8
+%%squarebreve 1
+%%barnumbers 0
+L: 1/8
+M: C
+K: C clef=treble
+e2e e d> f e> d^c2>c2d4e2e e d> f e> d^c2>c2 d c/ B/ A c
+B4c B/ A/ G A B c d c/ B/ A B c de2f2e2>d2^c8d4d2d2e4f4d4>e4f2g2a2A2
+B4c8B4c2g4f4e4d4^c2d2a4g4^f4<g4d2e> f g> a e> f d> ec2c AB2B e
+^c2d4^c2d A A dB4z G G cA4z B B cd4z e e af4z e e d c c c d
+B8^c8d4>d4d4c4B8z8z G B c d c A Bc4z B c d e d B c d> e f> d
+ e> fd4^c2d4d> e f> d e> fd4^c2d4g2f2e2d4<c4d2e4d2e2f2g2a> g f> ed2>d2
+d2g2f2d2e4d2>d2d2g2f2d2e4g> f e> e d> c B> BA2f f f> e d> cB2c2
+B2B2A2f f f> e d> cB2c2B2B2A4[M:3/1]e8e8^c8d16z8g8g8d8e16a8a8g8
+f8f8e8d8d8c8B16z8g8g8f8e8e8d8c8c8B8A16z8f8f8e8d8d8c8_B8B8A8
+G16z8e8e8d8c8c8B8A8A8G8^F16z8d8d8c8B8B8A8G16z8z16G12(3^F2 G2 A2
+B12(3A2 B2 c2d12(3c2 d2 e2f12(3e2 f2 g2[M:C]a4>a4g> f e> d c> B A> G^F2>F2^G2A2
+A2^G4<A4a2g> f e> d c> B A> G^F2>F2^G2A2A2^G4<A4c2c4_B4A4>f4f4_e4
+d2d d g g f fe2d d g g f fe2z A/ B/ c A c de4>^d4e4e4>^d4e4
+g> e g> a f> d f> ge4a2g2f2e2d2c2B2A2G2c2>A2d2>B2 e d^c2d4^c2
+d2d2e> d c> BA2B> cA2>A2B4A2B> cA2>A2B4d2e> fd2>d2e4d2e> f
+d2>d2e4[M:3/1]g8e4g4f4e4f8d4f4e4d4e8c8>B8A8A8>B8c8A4c4B4A4
+B8G4B4A4G4A8F4A4G4F4[M:C]E4F4E8D8B4-B E/ ^F/ G/ A/ B/ c/d8>c8B4c2d2
+e4d4c4z D/ E/ F/ G/ A/ B/c4c> B A> Bc2A> e d> c B> A^G2>B2 e e d d
+ c c B A ^GA2^G A/ E/ ^F/ G/ A/ B/ ^c/ d/e4e2e e d> f e> d^c2>c2d4
+e2e e d> f e> d^c2>c2 d c/ B/ A cB4c B/ A/ G A B c d c/ B/ A B c d
+e2f2e2>d2^c2c2d2>c2B4A2^c2d2>c2B4A2^c de2d e f> g e> f
+ d> f e> d^c2c de2d e f> g e> f d> f e> d^c2c2d2e2f> d f> ga2g2
+f e d c/ B/A4f/ g/ a/ f/ g/ f/ g/ e/f2e2d/ e/ f/ d/ e/ d/ e/ ^c/d2A2
+f> e f> ef8e2d2e32 |]  

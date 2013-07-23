@@ -1,0 +1,121 @@
+!!!COM: Hummel, Johann Nepomuk
+!!!CDT: 1778/11/14/-1837/10/17/
+!!!OTL: Prelude in E Major, Op. 67, No. 9
+!!!OPS: Op. 67
+!!!ONM: No. 9
+!!!OMD: Allegro
+!!!ODT: 1815///
+!!!AIN: piano
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*E:	*E:	*E:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM120	*MM120	*MM120
+=1-	=1-	=1-
+*^	*	*
+1BB 1E	2EE\	12r	p
+.	.	(12b/L	p
+.	.	12a/J	.
+.	.	12g#/L	.
+.	.	12b/	.
+.	.	12f#/J	.
+.	2GG#\	12e/L	.
+.	.	12ee/	.
+.	.	12dd#/J	.
+.	.	12cc#\L	.
+.	.	12ee\	.
+.	.	12b\J	.
+=2	=2	=2	=2
+2C#/ [2F#/	&(4FF#\&)	12a\L)	<
+.	.	(12aa\	.
+.	.	12gg#\J	.
+.	4AA\	12ff#\L	.
+.	.	12aa\	.
+.	.	12ee\J	.
+4F#/]	4BB\	12dd#\L	.
+.	.	12ff#\	.
+.	.	12cc#\J	.
+4r	4D#\	12b\L	.
+.	.	12ff#\	.
+.	.	12a\J	.
+*v	*v	*	*
+=3	=3	=3
+4E\	12g#/L)	f
+.	(12b/	.
+.	12f#/J	.
+4G#\	12e/L	.
+.	12g#/	.
+.	12d#/J	.
+4A\	12c#/L	.
+.	12e/	.
+.	12B/J	.
+4AA/	12c#/L	.
+.	12A/	.
+.	12f#/J	.
+=4	=4	=4
+&([1BB&)	12B/L	.
+.	12A/	.
+.	12d#/J	.
+.	12B/L	.
+.	12A/	.
+.	12d#/J	.
+.	12B/L	.
+!! ritard poco a poco
+.	12G#/	>
+.	12e/J	.
+.	12A#/L	.
+.	12Gn/	.
+.	12e/J	.
+=5	=5	=5
+*MM112	*MM112	*MM112
+*	*^	*
+1BBB 1BB]	4An\	12An/L	p
+.	.	12F#/	.
+.	.	12e/J	.
+.	4cn\	12cn/L	.
+.	.	12F#/	.
+.	.	12e/J	.
+.	4B\	12B/L	.
+.	.	12F#/	.
+.	.	12d#/J	.
+.	4A\	12A/L	.
+.	.	12F#/	.
+.	.	12d#/J)	.
+*	*v	*v	*
+=6	=6	=6
+*MM92	*MM92	*MM92
+8EE\	4r	.
+16GG#/LL	.	.
+16BB/JJ	.	.
+2GG#/ 2BB/ 2E/	16r	.
+.	16G#/LL	.
+.	16B/	.
+.	16e/JJ	.
+.	24g#/LL	.
+.	24b/	.
+.	24g#/J	.
+.	24e/L	.
+.	24B/	.
+.	24G#/JJ	.
+!! slargando
+*MM80	*MM80	*MM80
+24E\LL	4r	.
+24BB\	.	.
+24GG#\J	.	.
+*MM72	*MM72	*MM72
+24AA\L	.	.
+24FF#\	.	.
+24BB\JJ	.	.
+=7	=7	=7
+1EE	1r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!EED: 2008/06/14/
+!!!EEV: 2008/06/14/
+!!!YEC: Copyright 2008 by Craig Stuart Sapp
+!!!YEN: United States of America

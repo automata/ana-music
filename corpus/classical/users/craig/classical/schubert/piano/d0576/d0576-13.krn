@@ -1,0 +1,358 @@
+!!!COM: Schubert, Franz
+!!!CDT: 1797/01/31/-1828/11/19/
+!!!CNT: Austrian
+!!!OTL@@DE: Variationen &uuml;ber ein Thema von Anselm H&uuml;ttenbrenner
+!!!OTL@EN: 13 Variations on a Theme by Anselm H&uuml;ttenbrenner
+!!!OKY: A Minor
+!!!SCT: D 576
+!!!PDT: 1867///
+!!!ODT: 1817/08//
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!OMD: Var. 13
+!! Allegro
+**kern	**kern
+*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]
+*M3/8	*M3/8
+*MM152	*MM152
+8.A	8.e 8.cc# 8.ee
+16B	16e 16dd 16ee
+8A	8e 8cc# 8ee
+=219	=219
+8.G#	8.e 8.b 8.ee
+16F#	16e 16a 16ee
+8G#	8e 8b 8ee
+=220	=220
+8A	8e 8cc# 8ee
+8A	8e 8cc# 8ee
+8F# 8d#	8a 8dd# 8ff#
+=221	=221
+4G# 4d#	4g# 4b# 4dd#
+8r	8r
+=222	=222
+8.G#	8.g# 8.cc 8.gg#
+16A#	16g# 16cc# 16gg#
+8B#	8g# 8dd# 8gg#
+=223	=223
+8c#	8g# 8ee 8gg#
+8c#	8g# 8ee 8gg#
+8A 8c#	8a 8ee 8aa
+=224	=224
+8.E 8.A 8.c#	8.e 8.a 8.ee
+16E 16A 16c#	16e 16a 16ee
+8E 8B 8d	8e 8g# 8ee
+=225	=225
+4A 4c#	4e 4a
+8r	8r
+=226	=226
+8.a	8.ee 8.ccc# 8.eee
+16b	16ee 16ddd 16eee
+8a	8ee 8ccc# 8eee
+=227	=227
+8.g#	8.ee 8.bb 8.eee
+16f#	16ee 16aa 16eee
+8g#	8ee 8bb 8eee
+=228	=228
+8a	8ee 8ccc# 8eee
+8a	8ee 8ccc# 8eee
+8f# 8dd#	8aa 8ddd# 8fff#
+=229	=229
+4g# 4dd#	4gg# 4bb# 4ddd#
+8r	8r
+=230	=230
+8.g#	8.gg# 8.bb# 8.ggg#
+16a#	16gg# 16ccc# 16ggg#
+8b#	8gg# 8ddd# 8ggg#
+=231	=231
+8cc#	8gg# 8eee 8ggg#
+8cc#	8gg# 8eee 8ggg#
+8a 8cc#	8aa 8eee 8aaa
+=232	=232
+8.e 8.a 8.cc#	8.ee 8.aa 8.eee
+16e 16a 16cc#	16ee 16aa 16eee
+8e 8b 8dd	8ee 8gg# 8eee
+=233	=233
+4a 4cc#	4ee 4aa
+8r	8r
+=234	=234
+8.A 8.gn	8.a 8.cc# 8.aa
+16B 16g	16a 16dd 16aa
+8c# 8g	8a 8ee 8aa
+=235	=235
+8d 8f#	8a 8ff# 8aa
+8d 8f#	8a 8ff# 8aa
+8cn 8e	8a# 8ee 8aa#
+=236	=236
+8.B 8.an	8.b 8.dd# 8.bb
+16c# 16a	16b 16ee 16bb
+8d# 8a	8b 8ff# 8bb
+=237	=237
+8e 8g#	8b 8gg# 8bb
+8e 8g#	8b 8gg# 8bb
+8d# 8g#	8b# 8ff# 8bb#
+=238	=238
+8.c# 8.g#	8.cc# 8.ee 8.ccc#
+16c# 16g#	16cc# 16ee 16ccc#
+8A 8gn	8cc# 8ee 8aa
+=239	=239
+8d 8f#	8dd 8ddd
+8d 8f#	8dd 8ddd
+8D# 8cn	8a 8ff#
+=240	=240
+8.E 8.c#	8.e 8.a 8.ee
+16E 16c#	16e 16a 16ee
+8E 8d	16e 16g# 16ee
+.	16r
+=241	=241
+4A 4c#	4e 4a
+8r	8r
+=242	=242
+8.a 8.gg	8.aa 8.ccc# 8.aaa
+16b 16gg	16aa 16ddd 16aaa
+8cc# 8gg	8aa 8eee 8aaa
+=243	=243
+8dd 8ff#	8aa 8fff# 8aaa
+8dd 8ff#	8aa 8fff# 8aaa
+8ccn 8ee	8aa# 8eee 8aaa#
+=244	=244
+8.b 8.aan	8.bb 8.ddd# 8.bbb
+16cc# 16aa	16bb 16ddd# 16bbb
+8dd# 8aa	8bb 8eee 8fff# 8bbb
+=245	=245
+8ee 8gg#	8bb 8ggg# 8bbb
+8ee 8gg#	8bb 8ggg# 8bbb
+8dd# 8gg#	8bb# 8fff# 8bbb#
+=246	=246
+8.cc# 8.gg#	8.ccc# 8.eee 8.cccc#
+16cc# 16gg#	16ccc# 16eee 16cccc#
+8a 8ggn	8ccc# 8eee 8aaa
+=247	=247
+8dd 8ff#	8ddd 8dddd
+8dd 8ff#	8ddd 8dddd
+8d# 8ccn	8aaa 8fff#
+=248	=248
+8.e 8.cc#	8.ee 8.aa 8.eee
+16e 16cc#	16ee 16bb 16eee
+8e 8dd	8ee 8gg# 8eee
+=249	=249
+4a 4cc#	4ee 4aa
+8r	8r
+=250	=250
+8.AAA 8.AA	8.E 8.c 8.e
+16BBB 16BB	16E 16d 16e
+8AAA 8AA	8E 8c 8e
+=251	=251
+8.GGG# 8.GG#	8.E 8.B 8.e
+16FFF# 16FF#	16E 16A 16e
+8GGG# 8GG#	8E 8B 8e
+=252	=252
+8.AAA 8.AA	8.E 8.c 8.e
+16BBB 16BB	16E 16d 16e
+8AAA 8AA	8E 8c 8e
+=253	=253
+8.GGG# 8.GG#	8.E 8.B 8.e
+16FFF# 16FF#	16E 16A 16e
+8GGG# 8GG#	8E 8B 8e
+=254	=254
+8AAA 8AA	8E 8c 8e
+8cc' 8ee'	8ccc' 8eee'
+8cc' 8ee'	8ccc' 8eee'
+=255	=255
+8cc' 8ee'	8ccc' 8eee'
+8cc' 8ee'	8ccc' 8eee'
+8cc' 8ee'	8ccc' 8eee'
+=256	=256
+8cc#' 8ee'	8ccc#' 8eee'
+8cc#' 8ee'	8ccc#' 8eee'
+8cc#' 8ee'	8ccc#' 8eee'
+=257	=257
+8cc#' 8ee'	8ccc#' 8eee'
+8cc#' 8ee'	8ccc#' 8eee'
+8cc#' 8ee'	8ccc#' 8eee'
+=258	=258
+8.g# 8.cc# 8.ee	8.gg# 8.ccc# 8.eee
+16g# 16dd# 16ff#	16gg# 16ddd# 16fff#
+8g# 8cc# 8ee	8gg# 8ccc# 8eee
+=259	=259
+8.g# 8.b# 8.dd#	8.gg# 8.bb# 8.ddd#
+16g# 16a# 16cc#	16gg# 16aa# 16ccc#
+8g# 8b# 8dd#	8gg# 8bb# 8ddd#
+=260	=260
+8.g# 8.cc# 8.ee	8.gg# 8.ccc# 8.eee
+16g# 16dd# 16ff#	16gg# 16ddd# 16fff#
+8g# 8cc# 8ee	8gg# 8ccc# 8eee
+=261	=261
+8.g# 8.b# 8.dd#	8.gg# 8.bb# 8.ddd#
+16g# 16a# 16cc#	16gg# 16aa# 16ccc#
+8g# 8b# 8dd#	8gg# 8bb# 8ddd#
+=262	=262
+8.gn 8.ccn 8.ee	8.ggn 8.cccn 8.eee
+16g 16ddn 16ffn	16gg 16dddn 16fffn
+8g 8cc 8ee	8gg 8ccc 8eee
+=263	=263
+8.g 8.b 8.dd	8.gg 8.bb 8.ddd
+16g 16a 16cc	16gg 16aa 16ccc
+8g 8b 8d	8gg 8bb 8ddd
+=264	=264
+8C 8c	8ee 8gg 8ccc
+8r	8g' 8gg'
+8r	8g' 8gg'
+=265	=265
+4.r	8g' 8gg'
+.	8g' 8gg'
+.	8g' 8gg'
+=266	=266
+8.E 8.c	8.g 8.gg
+16D# 16B	16g 16gg
+8E 8c	8g 8gg
+=267	=267
+8.E 8.c	8.g 8.gg
+16D# 16B	16g 16gg
+8E 8c	8g 8gg
+=268	=268
+8.E 8.c#	8.g 8.gg
+16F 16d	16g 16gg
+8F 8d	8g 8gg
+=269	=269
+4F 4d	4g 4gg
+8G 8e	8g 8gg
+=270	=270
+8.A 8.f	8.g 8.gg
+16G 16e	16g 16gg
+8F# 8d#	8g 8gg
+=271	=271
+8.G 8.e	8.g 8.gg
+16A 16f	16g 16gg
+8Fn 8dn	8g 8gg
+=272	=272
+8.D# 8.B	8.g 8.gg
+16E 16c	16g 16gg
+8E 8c	8g 8gg
+=278	=278
+8E 8c	8g 8gg
+8GG^' 8G^'	8r
+8GG' 8G'	8r
+=279	=279
+8.GG 8.G	8.e 8.cc 8.ee
+16GG 16G	16d# 16b 16dd#
+8GG 8G	8e 8cc 8ee
+=280	=280
+8.GG 8.G	8.e 8.cc 8.ee
+16GG 16G	16d# 16b 16dd#
+8GG 8G	8e 8cc 8ee
+=281	=281
+8.GG 8.G	8.e 8.cc# 8.ee
+16GG 16G	16f 16dd 16ff
+8GG 8G	8f 8dd 8ff
+=282	=282
+4GG 4G	4f 4dd 4ff
+8GG 8G	8g 8ee 8gg
+=283	=283
+8.GG 8.G	8.a 8.ff 8.aa
+16GG 16G	16g 16ee 16gg
+8GG 8G	8f# 8dd# 8ff#
+=284	=284
+8.GG 8.G	8.g 8.ee 8.gg
+16GG 16G	16a 16ffn 16aa
+8GG 8G	8f 8dd 8ff
+=285	=285
+8.GG 8.G	8.d# 8.b 8.dd#
+16GG 16G	16e 16cc 16ee
+8GG 8G	8e 8cc 8ee
+=286	=286
+8GG 8G	8e 8cc 8ee
+8r	8g 8gg
+8r	8g 8gg
+=287	=287
+8.D# 8.B	8.g 8.gg
+16E 16c	16g 16gg
+8E 8c	8g 8gg
+=288	=288
+8E 8c	8g 8gg
+8GG' 8G'	8r
+8GG' 8G'	8r
+=289	=289
+8.GG 8.G	8.e 8.cc# 8.ee
+16GG 16G	16f 16dd 16ff
+8GG 8G	8f 8dd 8ff
+=290	=290
+8GG 8G	8f 8dd 8ff
+8r	8g 8gg
+8r	8g 8gg
+=291	=291
+8.E 8.c#	8.g 8.gg
+16F 16d	16g 16gg
+8F 8d	8g 8gg
+=292	=292
+8F 8d	8g 8gg
+8GG 8G	8r
+8GG 8G	8r
+=293	=293
+8.GG 8.G	8.dd# 8.bb 8.ddd#
+16GG 16G	16ee 16ccc 16eee
+8GG 8G	8ee 8ccc 8eee
+=294	=294
+8GG 8G	4.r
+8GG 8G	.
+8GG 8G	.
+=295	=295
+8.GG 8.G	8.dd# 8.bb 8.ddd#
+16GG 16G	16ee 16ccc 16eee
+8GG 8G	8ee 8ccc 8eee
+=296	=296
+8GG 8G	4.r
+8GG 8G	.
+8GG 8G	.
+=297	=297
+8.GG# 8.G#	8.dd# 8.bb# 8.ddd#
+16GG# 16G#	16ee 16ccc# 16eee
+8GG# 8G#	8ee 8ccc# 8eee
+=298	=298
+4.r	4.r
+=299	=299
+8.E 8.G# 8.B 8.dn	8.dd# 8.ddd#
+16E 16G# 16B 16d	16ee 16eee
+8E 8G# 8B 8d	8ee 8eee
+=300	=300
+4.r	4.r
+=301	=301
+8.a	8.cc# 8.ee
+16b	16dd 16ee
+8a	8cc# 8ee
+=302	=302
+8.g#	8.b 8.ee
+16f#	16a 16ee
+8g#	8b 8ee
+=303	=303
+8a	8cc# 8ee
+8a	8cc# 8ee
+8f#	8a 8dd# 8ff#
+=304	=304
+4g#	4b# 4dd#
+8r	8r
+=305	=305
+8.g#	8.b# 8.gg#
+16a#	16cc# 16gg#
+8b#	8dd# 8gg#
+=306	=306
+8cc#	8ee 8gg#
+8cc#	8ee 8gg#
+8a 8cc#	8ee 8aa
+=307	=307
+8.e 8.a	8.cc# 8.ee
+16e 16a	16cc# 16ee
+8e 8g#	8b 8ee
+=308	=308
+4a	4cc# 4ee
+8r	8r
+=309	=309
+8.EE 8.E	8.ee 8.aa 8.ccc 8.eee
+16EE 16E	16ee 16aa 16ccc 16eee
+8EE 8E	8dd 8gg# 8bb 8eee
+=310	=310
+8AA 8E	8cc 8aa
+8r	8r
+8r	8r
+==	==
+*-	*-
